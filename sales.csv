@@ -1,0 +1,2016 @@
+Order_ID,Date,Customer,Category,Product,Quantity,Price,Region,Revenue
+11199,2025-08-03,Ali,Home,Office Chair,1,5990.77,Tanta,5990.77
+10527,2025-11-10,Omar,Accessories,Webcam,1,1036.99,Giza,1036.99
+10394,2025-11-12,Nada,Home,Coffee Maker,1,1981.75,Tanta,1981.75
+11408,2025-04-29,Salma,Gaming,Gaming Mouse,3,1805.44,Cairo,5416.32
+10434,2025-10-05,Aya,Electronics,Laptop,3,32730.72,Mansoura,98192.16
+11721,2025-01-12,Khaled,Electronics,Tablet,3,21071.32,Cairo,63213.96
+11091,2025-06-04,Youssef,Gaming,Gaming Headset,3,3518.51,Cairo,10555.53
+10430,2025-01-30,Khaled,Electronics,Laptop,1,35498.84,Alexandria,35498.84
+11800,2025-10-09,Nada,Electronics,Monitor,1,16215.28,Mansoura,16215.28
+10531,2025-10-26,Mostafa,Gaming,Game Controller,1,4182.12,Tanta,4182.12
+11728,2025-03-23,Laila,Gaming,Gaming Chair,1,8722.48,Cairo,8722.48
+11454,2025-06-24,Laila,Accessories,USB Hub,1,273.53,Cairo,273.53
+11294,2025-04-10,Mohamed,Home,Coffee Maker,1,4345.11,Alexandria,4345.11
+11619,2025-08-19,Laila,Accessories,Mouse,4,1398.35,,5593.4
+11023,2025-08-17,Adam,Gaming,Gaming Keyboard,2,3880.89,Tanta,7761.78
+10679,2025-05-25,Youssef,Gaming,Gaming Keyboard,4,3610.63,Mansoura,14442.52
+11129,2025-01-07,Aya,Accessories,Keyboard,2,403.45,Cairo,806.9
+10125,2025-09-12,Nada,Electronics,Laptop,2,25509.49,Qalyubia,51018.98
+11474,2025-05-19,Menna,Accessories,Keyboard,2,2156.47,Giza,4312.94
+10463,2025-08-16,Adam,Home,Desk Fan,2,699.09,Giza,1398.18
+11857,2025-01-16,Mostafa,Home,Desk Fan,1,1007.97,Alexandria,1007.97
+11970,2025-07-16,Amr,Electronics,Laptop,1,29792.46,Ismailia,29792.46
+11002,2025-05-11,Laila,Accessories,Mouse,2,818.79,Qalyubia,1637.58
+11207,2025-02-12,Aya,Home,Air Purifier,1,9368.56,Alexandria,9368.56
+11705,2025-11-13,Menna,Accessories,Phone Stand,4,253.84,Cairo,1015.36
+11299,2025-06-27,Adam,Home,Desk Lamp,2,1163.68,Cairo,2327.36
+11396,2025-03-26,Laila,Gaming,Gaming Chair,1,13387.15,Ismailia,13387.15
+11840,2025-07-31,Salma,Electronics,Headphones,1,3161.52,Cairo,3161.52
+10545,2025-09-09,,Home,Office Chair,2,2776.05,Giza,5552.1
+11957,2025-10-02,Sara,Home,Office Chair,4,3929.1,Alexandria,15716.4
+10974,2025-12-19,Laila,Electronics,Tablet,1,5970.99,Alexandria,5970.99
+11710,2025-11-11,Adam,Home,Desk Fan,2,1623.87,Qalyubia,3247.74
+10030,2025-06-26,Farah,Electronics,Laptop,1,18681.41,Mansoura,18681.41
+10544,2025-02-08,Hana,Home,Desk Fan,2,1384.73,Giza,2769.46
+11451,2025-03-02,Khaled,Accessories,Keyboard,2,785.95,Ismailia,1571.9
+10810,2025-11-24,Menna,Electronics,Laptop,2,38432.47,Cairo,76864.94
+10775,2025-07-30,Omar,Home,Desk Lamp,3,860.71,Giza,2582.13
+10057,2025-11-01,Nour,Electronics,Headphones,1,3980.12,Cairo,3980.12
+10520,2025-12-18,Ali,Electronics,Tablet,3,5419.63,Mansoura,16258.89
+10585,2025-07-20,Nada,Home,Desk Lamp,1,1636.98,Ismailia,1636.98
+10671,2025-07-28,Omar,Electronics,Tablet,2,21758.69,Giza,43517.38
+10252,2025-03-23,Adam,Accessories,Webcam,1,1504.23,Alexandria,1504.23
+10100,2025-11-03,Amr,Electronics,Smartphone,4,17484.47,Giza,69937.88
+10568,2025-05-30,Khaled,Accessories,Phone Stand,2,602.98,Qalyubia,1205.96
+10589,2025-09-26,Mohamed,Electronics,Headphones,2,2773.49,Tanta,5546.98
+10299,2025-01-24,Sara,Home,Air Purifier,1,3185.31,Alexandria,3185.31
+11556,2025-01-15,Nour,Electronics,Headphones,4,1990.12,Giza,7960.48
+10423,2025-06-27,Farah,Electronics,Tablet,1,9190.84,Giza,9190.84
+11780,2025-04-18,Ahmed,Gaming,Game Controller,2,4603.76,Qalyubia,9207.52
+11525,2025-09-01,Mostafa,Accessories,Webcam,1,2587.01,Tanta,2587.01
+11862,2025-06-07,Sara,Home,Office Chair,2,7442.13,Cairo,14884.26
+11693,2025-11-01,Ahmed,Accessories,Mouse,2,947.87,Qalyubia,1895.74
+11544,2025-06-07,Aya,Electronics,Laptop,1,32386.33,Qalyubia,32386.33
+10496,2025-01-12,Youssef,Accessories,USB Hub,3,451.72,Alexandria,1355.16
+11289,2025-10-25,Karim,Electronics,Tablet,1,17115.32,Cairo,17115.32
+11476,2025-11-20,Nada,Home,Desk Fan,1,1131.99,Cairo,1131.99
+10071,2025-04-25,Karim,Home,Office Chair,1,3302.11,Mansoura,3302.11
+10276,2025-08-03,Youssef,Accessories,Phone Stand,1,442.41,Cairo,442.41
+11054,2025-11-21,Amr,Home,Coffee Maker,2,4788.12,Cairo,9576.24
+11035,2025-10-17,Mariam,Electronics,Laptop,1,26860.32,Cairo,26860.32
+10066,2025-01-01,Omar,Accessories,Keyboard,3,1757.86,Alexandria,5273.58
+11660,2025-01-15,Amr,Accessories,Mouse,1,986.97,Qalyubia,986.97
+11606,2025-08-09,Salma,Accessories,Phone Stand,1,320.67,Mansoura,320.67
+11086,2025-12-18,Karim,Accessories,Phone Stand,2,189.0,Giza,378.0
+11232,2025-01-03,Mariam,Electronics,Tablet,3,21192.79,Suez,63578.37
+10395,2025-07-24,Karim,Electronics,Monitor,2,5258.83,Tanta,10517.66
+10924,2025-04-12,Laila,Home,Desk Fan,3,1223.29,Cairo,3669.87
+11765,2025-03-07,Menna,Electronics,Tablet,2,6648.64,Suez,13297.28
+10112,2025-07-26,Sara,Electronics,Monitor,3,8139.16,Alexandria,24417.48
+10353,2025-03-30,Mariam,Home,Office Chair,1,4713.54,Giza,4713.54
+11653,2025-08-10,Salma,Electronics,Smartphone,2,18271.32,Cairo,36542.64
+10860,2025-04-16,Mariam,Electronics,Monitor,1,14241.87,Tanta,14241.87
+11246,2025-08-30,Amr,Home,Office Chair,1,3933.31,Giza,3933.31
+11982,2025-01-07,Hana,Gaming,Gaming Chair,2,10809.53,Qalyubia,21619.06
+11229,2025-02-20,Adam,Gaming,Gaming Chair,3,10059.26,Mansoura,30177.78
+11406,2025-12-09,Salma,Accessories,Phone Stand,2,209.49,Ismailia,418.98
+11270,2025-07-16,Adam,Electronics,Monitor,1,13751.86,Mansoura,13751.86
+11062,2025-11-28,Menna,Gaming,Gaming Chair,1,6177.13,Cairo,6177.13
+10629,2025-02-14,Farah,Electronics,Tablet,3,15176.12,Tanta,45528.36
+10412,2025-05-12,Nada,Gaming,Gaming Chair,1,13108.03,Mansoura,13108.03
+11445,2025-01-03,Ali,Gaming,Gaming Keyboard,4,3548.87,Alexandria,14195.48
+10536,2025-02-16,Omar,Gaming,Gaming Keyboard,2,3227.8,Giza,6455.6
+11337,2025-03-08,Youssef,Electronics,Laptop,1,41560.9,Giza,41560.9
+11191,2025-01-15,Farah,Electronics,Tablet,2,12278.64,Cairo,24557.28
+11517,2025-10-30,Mohamed,Home,Coffee Maker,2,3723.33,Cairo,7446.66
+10070,2025-01-30,Khaled,Gaming,Gaming Chair,1,11735.53,Suez,11735.53
+11125,2025-09-03,Mohamed,Home,Office Chair,1,7351.36,Giza,7351.36
+10555,2025-12-17,Ali,Gaming,Gaming Chair,1,7182.62,Qalyubia,7182.62
+10975,2025-05-08,Mostafa,Electronics,Laptop,3,21716.0,Tanta,65148.0
+11300,2025-10-28,Laila,Home,Desk Fan,2,2207.31,Qalyubia,4414.62
+11252,2025-07-28,Ahmed,Accessories,Keyboard,3,1942.89,Ismailia,5828.67
+11991,2025-12-22,Nour,Home,Coffee Maker,2,2033.6,Qalyubia,4067.2
+10582,2025-01-16,Mostafa,Gaming,Game Controller,1,2737.96,Giza,2737.96
+11906,2025-06-22,Omar,Electronics,Monitor,2,14111.03,Alexandria,28222.06
+11963,2025-09-12,Karim,Gaming,Gaming Keyboard,2,4399.32,Suez,8798.64
+10722,2025-05-30,Nada,Electronics,Monitor,2,8523.4,Cairo,17046.8
+11193,2025-06-04,Ali,Electronics,Headphones,1,2188.33,Suez,2188.33
+11745,2025-10-21,Ahmed,Accessories,Webcam,3,1739.44,Alexandria,5218.32
+10786,2025-10-31,Amr,Gaming,Game Controller,2,2228.36,Suez,4456.72
+11090,2025-11-21,Laila,Electronics,Smartphone,3,23294.12,Tanta,69882.36
+11470,2025-04-25,Hana,Home,Air Purifier,1,9200.54,Suez,9200.54
+11549,2025-07-21,Hana,Electronics,Headphones,3,6075.9,Cairo,18227.7
+10766,2025-10-01,Laila,Accessories,Mouse,4,272.21,Tanta,1088.84
+11302,2025-04-30,Nour,Gaming,Gaming Headset,3,2441.58,Alexandria,7324.74
+11947,2025-01-08,Youssef,Accessories,Phone Stand,3,438.31,Qalyubia,1314.93
+11014,2025-10-02,Karim,Electronics,Monitor,2,8532.23,Alexandria,17064.46
+10487,2025-08-30,Sara,Electronics,Laptop,1,21871.67,Alexandria,21871.67
+10129,2025-03-06,Adam,Electronics,Tablet,2,6512.83,Mansoura,13025.66
+11243,2025-04-26,Hana,Home,Office Chair,4,3268.45,Tanta,13073.8
+11687,2025-12-22,Menna,Gaming,Gaming Headset,3,2503.41,Cairo,7510.23
+11329,2025-08-13,Omar,Home,Office Chair,3,2524.94,Cairo,7574.82
+10856,2025-07-14,Laila,Electronics,Laptop,2,18450.25,Mansoura,36900.5
+10916,2025-07-16,Menna,Accessories,Mouse,2,391.53,Tanta,783.06
+10362,2025-04-11,Sara,Home,Desk Lamp,3,756.9,Cairo,2270.7
+11786,2025-06-13,Karim,Gaming,Game Controller,1,4227.25,Mansoura,4227.25
+11230,2025-06-20,Sara,Accessories,Mouse,3,1030.75,Mansoura,3092.25
+10257,2025-10-01,Ahmed,Gaming,Gaming Keyboard,1,4262.74,Alexandria,4262.74
+11738,2025-02-26,Youssef,Electronics,Smartphone,1,15870.6,Suez,15870.6
+11348,2025-11-16,Mariam,Accessories,Keyboard,3,1304.8,Suez,3914.4
+11188,2025-06-08,Karim,Electronics,Monitor,2,5918.29,Alexandria,11836.58
+10343,2025-12-08,Ali,Electronics,Smartphone,1,17236.67,Qalyubia,17236.67
+11950,2025-04-05,Youssef,Accessories,Keyboard,3,2312.4,Giza,6937.2
+11757,2025-09-23,Mariam,Gaming,Gaming Chair,2,9341.4,Qalyubia,18682.8
+11041,2025-08-10,Hana,Accessories,Mouse,2,348.71,Cairo,697.42
+11831,2025-02-24,Ahmed,Gaming,Gaming Headset,1,4055.43,Ismailia,4055.43
+11833,2025-08-15,Mostafa,Accessories,Webcam,1,2860.16,Giza,2860.16
+10308,2025-09-25,Amr,Electronics,Monitor,2,17204.45,Giza,34408.9
+11567,2025-12-20,Ali,Home,Desk Lamp,3,859.5,Tanta,2578.5
+10768,2025-10-02,Menna,Gaming,Gaming Mouse,1,737.84,Qalyubia,737.84
+10969,2025-12-23,Mostafa,Accessories,Keyboard,4,1945.43,Mansoura,7781.72
+11303,2025-03-13,Omar,Electronics,Headphones,3,1339.84,Qalyubia,4019.52
+10234,2025-04-27,Hana,Accessories,USB Hub,1,398.23,Cairo,398.23
+10232,2025-02-07,Youssef,Accessories,Phone Stand,2,178.48,Giza,356.96
+11217,2025-07-09,Sara,Electronics,Laptop,3,30866.21,Cairo,92598.63
+11804,2025-11-28,Amr,Electronics,Monitor,3,13239.91,Ismailia,39719.73
+11006,2025-01-24,Adam,Home,Coffee Maker,1,4998.38,Giza,4998.38
+11346,2025-12-11,Aya,Accessories,Mouse,2,1108.02,Tanta,2216.04
+11068,2025-04-13,Mohamed,Electronics,Monitor,2,9625.1,Alexandria,19250.2
+10901,2025-10-30,Salma,Electronics,Smartphone,2,24384.21,Mansoura,48768.42
+10809,2025-02-20,Ahmed,Accessories,Webcam,1,2909.8,Cairo,2909.8
+11183,2025-03-07,Laila,Home,Office Chair,2,2618.79,Cairo,5237.58
+10355,2025-11-19,Mohamed,Electronics,Monitor,1,4733.48,Qalyubia,4733.48
+10995,2025-06-02,Nour,Accessories,Mouse,1,759.27,Tanta,759.27
+11306,2025-05-03,Farah,Gaming,Gaming Keyboard,1,1883.29,Alexandria,1883.29
+11259,2025-05-29,Amr,Electronics,Monitor,3,11113.98,Qalyubia,33341.94
+10306,2025-12-29,Mariam,Gaming,Gaming Headset,3,3632.22,Mansoura,10896.66
+10965,2025-03-31,Mohamed,Electronics,Tablet,1,18731.2,Mansoura,18731.2
+11680,2025-08-04,Aya,Home,Office Chair,1,3641.87,Cairo,3641.87
+11836,2025-07-16,Youssef,Home,Desk Fan,3,2072.66,Giza,6217.98
+10783,2025-03-27,Amr,Electronics,Tablet,2,19531.7,Cairo,39063.4
+10753,2025-06-29,Mostafa,Home,Office Chair,3,3796.18,Alexandria,11388.54
+10533,2025-02-11,Sara,Gaming,Game Controller,3,3500.83,Giza,10502.49
+11311,2025-07-09,Sara,Electronics,Smartphone,3,13402.11,Ismailia,40206.33
+11269,2025-12-04,Salma,Home,Coffee Maker,1,6042.68,Giza,6042.68
+10615,2025-05-18,Aya,Gaming,Gaming Headset,4,2192.3,Alexandria,8769.2
+10121,2025-12-04,Aya,Gaming,Gaming Mouse,2,1677.44,Alexandria,3354.88
+11359,2025-09-20,Hana,Electronics,Tablet,3,17662.03,Qalyubia,52986.09
+11038,2025-03-28,Amr,Home,Office Chair,3,4003.32,Cairo,12009.96
+10793,2025-12-19,Aya,Accessories,Mouse,4,1791.6,Alexandria,7166.4
+10765,2025-08-01,Youssef,Electronics,Smartphone,1,17132.75,Alexandria,17132.75
+10782,2025-01-21,Hana,Accessories,USB Hub,2,615.85,Tanta,1231.7
+10136,2025-08-31,Ali,Electronics,Smartphone,3,11627.47,Ismailia,34882.41
+11324,2025-03-09,Nour,Electronics,Smartphone,1,14632.19,Alexandria,14632.19
+10375,2025-03-30,Khaled,Electronics,Laptop,2,26470.08,Cairo,52940.16
+10317,2025-11-04,Sara,Accessories,Webcam,1,3214.59,Suez,3214.59
+11994,2025-01-09,Adam,Electronics,Monitor,2,15550.49,Ismailia,31100.98
+10255,2025-09-15,Ahmed,Electronics,Laptop,1,34719.45,Ismailia,34719.45
+10465,2025-01-16,Mariam,Gaming,Gaming Chair,1,9236.01,Suez,9236.01
+11467,2025-07-28,Adam,Gaming,Gaming Mouse,2,2149.21,Cairo,4298.42
+10110,2025-12-04,Ahmed,Electronics,Monitor,4,13147.37,Ismailia,52589.48
+11610,2025-06-24,Omar,Accessories,Phone Stand,2,675.0,Cairo,1350.0
+10939,2025-10-28,Ali,Electronics,Smartphone,3,11621.65,Ismailia,34864.95
+11875,2025-04-21,Ahmed,Home,Coffee Maker,3,3877.27,Ismailia,11631.81
+10240,2025-10-25,Mostafa,Electronics,Headphones,1,1665.51,Qalyubia,1665.51
+11227,2025-03-14,Amr,Accessories,Webcam,4,2928.65,Alexandria,11714.6
+11834,2025-01-26,Youssef,Home,Office Chair,2,5896.23,Mansoura,11792.46
+11719,2025-03-10,Laila,Gaming,Gaming Chair,1,11851.9,Ismailia,11851.9
+10213,2025-11-01,Nour,Home,Desk Lamp,1,1490.36,Suez,1490.36
+11770,2025-10-24,Karim,Accessories,Webcam,1,771.25,Qalyubia,771.25
+11442,2025-04-23,Mohamed,Electronics,Smartphone,2,9260.83,Qalyubia,18521.66
+11860,2025-10-28,Mohamed,Home,Desk Lamp,4,1373.05,Ismailia,5492.2
+10417,2025-12-06,Mohamed,Electronics,Tablet,2,7134.61,Cairo,14269.22
+10352,2025-07-18,Aya,Gaming,Gaming Headset,1,3761.62,Alexandria,3761.62
+11426,2025-08-23,Mariam,Gaming,Gaming Headset,4,3992.06,Mansoura,15968.24
+10904,2025-01-22,Nada,Accessories,Mouse,1,1045.42,Cairo,1045.42
+10345,2025-02-08,Menna,Accessories,Webcam,5,3259.13,Cairo,16295.65
+11079,2025-06-12,Mostafa,Electronics,Laptop,1,42899.18,Alexandria,42899.18
+10282,2025-05-01,Adam,Electronics,Laptop,1,18787.19,Cairo,18787.19
+11044,2025-06-24,Ahmed,Home,Air Purifier,1,5840.57,Cairo,5840.57
+10530,2025-09-17,Khaled,Gaming,Gaming Keyboard,1,3598.57,Cairo,3598.57
+11138,2025-08-28,Nada,Accessories,Mouse,3,1524.45,Alexandria,4573.35
+11627,2025-07-30,Hana,Electronics,Monitor,1,8083.71,Qalyubia,8083.71
+10577,2025-08-29,Ahmed,Electronics,Laptop,2,30961.28,Alexandria,61922.56
+10285,2025-01-18,Youssef,Accessories,Webcam,3,1238.26,Alexandria,3714.78
+10212,2025-07-12,Hana,Home,Coffee Maker,3,3829.51,Alexandria,11488.53
+10351,2025-12-31,Aya,Accessories,Phone Stand,4,548.33,Mansoura,2193.32
+10325,2025-11-20,Mohamed,Gaming,Game Controller,1,2088.81,Qalyubia,2088.81
+11889,2025-07-15,Nour,Home,Office Chair,1,3390.84,Giza,3390.84
+10556,2025-03-10,Laila,Accessories,Webcam,1,3193.37,Mansoura,3193.37
+10708,2025-10-09,Adam,Gaming,Game Controller,1,2611.88,Alexandria,2611.88
+11621,2025-01-19,Nada,Accessories,Mouse,3,1263.06,Giza,3789.18
+11331,2025-02-07,Mohamed,Accessories,USB Hub,1,803.97,Mansoura,803.97
+10050,2025-09-10,Mariam,Electronics,Headphones,1,5672.04,Alexandria,5672.04
+10211,2025-06-14,Ahmed,Accessories,Webcam,1,1314.11,Qalyubia,1314.11
+11101,2025-08-28,Khaled,Electronics,Monitor,1,11385.89,Suez,11385.89
+11358,2025-05-15,Omar,Accessories,USB Hub,5,289.01,Qalyubia,1445.05
+11997,2025-04-07,Youssef,Gaming,Gaming Chair,3,11842.71,Cairo,35528.13
+10987,2025-10-16,Menna,Home,Desk Fan,1,1740.74,Cairo,1740.74
+11117,2025-06-06,Nada,Electronics,Headphones,1,6349.35,Alexandria,6349.35
+11285,2025-10-19,Mostafa,Electronics,Monitor,2,17061.39,Alexandria,34122.78
+10174,2025-02-28,Omar,Electronics,Headphones,1,6689.38,Ismailia,6689.38
+10290,2025-07-05,Ali,Accessories,Webcam,1,3409.16,Mansoura,3409.16
+11740,2025-04-19,Nada,Accessories,Webcam,2,815.57,Tanta,1631.14
+10248,2025-06-12,Amr,Gaming,Gaming Keyboard,1,1452.68,Giza,1452.68
+10238,2025-02-19,Nour,Electronics,Monitor,2,11919.63,Giza,23839.26
+11287,2025-05-09,Mariam,Electronics,Smartphone,2,19573.82,Giza,39147.64
+10721,2025-04-23,Adam,Gaming,Gaming Keyboard,2,3439.02,Cairo,6878.04
+10638,2025-08-04,Laila,Electronics,Laptop,1,44907.27,Alexandria,44907.27
+10024,2025-04-12,Mohamed,Accessories,Webcam,1,3192.56,Giza,3192.56
+10603,2025-03-27,Ali,Electronics,Headphones,1,1373.5,Suez,1373.5
+10064,2025-11-23,Menna,Accessories,Mouse,2,1432.48,Giza,2864.96
+11724,2025-02-05,Farah,Electronics,Headphones,2,1113.15,Cairo,2226.3
+10189,2025-05-16,Nada,Accessories,Webcam,4,1791.49,Mansoura,7165.96
+10706,2025-11-28,Nour,Gaming,Gaming Chair,2,9583.52,Cairo,19167.04
+11935,2025-03-28,Hana,Home,Coffee Maker,2,6030.61,Alexandria,12061.22
+11336,2025-11-17,Adam,Home,Air Purifier,1,4124.34,Ismailia,4124.34
+11238,2025-06-16,Karim,Accessories,USB Hub,5,674.84,Suez,3374.2
+11966,2025-07-01,Youssef,Accessories,Phone Stand,2,464.69,Suez,929.38
+11468,2025-12-11,Amr,Accessories,Mouse,1,462.11,Giza,462.11
+10515,2025-06-27,Mariam,Electronics,Headphones,2,5794.26,Tanta,11588.52
+10197,2025-11-28,Aya,Home,Desk Fan,1,1223.08,Cairo,1223.08
+10472,2025-07-03,Nada,Gaming,Game Controller,2,4207.56,Tanta,8415.12
+11936,2025-11-17,Khaled,Gaming,Gaming Chair,1,4852.68,Giza,4852.68
+11286,2025-03-03,Youssef,Accessories,Webcam,1,2300.88,Qalyubia,2300.88
+10271,2025-04-05,Hana,Gaming,Gaming Mouse,1,1488.72,Qalyubia,1488.72
+10439,2025-02-05,Nour,Home,Office Chair,2,3033.15,Giza,6066.3
+10101,2025-10-29,Nour,Electronics,Laptop,2,20363.81,,40727.62
+11667,2025-10-04,Youssef,Electronics,Headphones,5,988.58,Cairo,4942.9
+11539,2025-09-17,Mostafa,Electronics,Smartphone,3,19336.71,Alexandria,58010.13
+11954,2025-10-28,Salma,Home,Coffee Maker,5,5037.07,Alexandria,25185.35
+10221,2025-04-13,Salma,Home,Air Purifier,1,4136.95,Mansoura,4136.95
+10367,2025-01-28,Aya,Gaming,Gaming Mouse,2,2368.45,Cairo,4736.9
+11135,2025-01-15,Adam,Home,Desk Lamp,3,1130.74,Alexandria,3392.22
+10675,2025-07-24,Nada,Accessories,Mouse,1,959.04,Ismailia,959.04
+11059,2025-06-08,Amr,Accessories,Webcam,1,1490.72,Giza,1490.72
+11034,2025-08-03,Sara,Electronics,Monitor,5,15946.61,Suez,79733.05
+10369,2025-08-14,Farah,Electronics,Headphones,1,3404.03,Giza,3404.03
+10614,2025-02-15,Karim,Electronics,Headphones,3,2550.03,Tanta,7650.09
+11266,2025-11-03,Farah,Electronics,Headphones,3,3591.75,Cairo,10775.25
+11375,2025-03-02,Mostafa,Electronics,Tablet,2,6804.13,Cairo,13608.26
+11648,2025-01-02,Omar,Gaming,Game Controller,3,3130.21,Qalyubia,9390.63
+10307,2025-12-21,Nada,Accessories,Phone Stand,2,154.43,Alexandria,308.86
+10484,2025-09-03,Adam,Home,Coffee Maker,1,1529.73,Qalyubia,1529.73
+11629,2025-09-12,Khaled,Electronics,Tablet,2,8916.57,Tanta,17833.14
+10731,2025-04-08,Hana,Electronics,Headphones,1,865.06,Cairo,865.06
+10116,2025-02-22,Sara,Gaming,Game Controller,1,2531.57,Cairo,2531.57
+11953,2025-11-27,Menna,Accessories,Keyboard,3,1958.83,Giza,5876.49
+11404,2025-05-09,Ali,Home,Air Purifier,4,6229.4,Alexandria,24917.6
+10483,2025-06-28,Youssef,Accessories,Webcam,1,2820.9,Alexandria,2820.9
+11605,2025-09-11,Karim,Electronics,Headphones,1,2260.65,Ismailia,2260.65
+10652,2025-04-03,Hana,Accessories,USB Hub,2,892.3,Tanta,1784.6
+11624,2025-05-01,Salma,Gaming,Game Controller,3,3059.06,Suez,9177.18
+11005,2025-01-26,Mariam,Gaming,Gaming Headset,4,2253.07,Qalyubia,9012.28
+11275,2025-08-11,Mostafa,Accessories,Mouse,2,1685.78,Cairo,3371.56
+10079,2025-06-04,Khaled,Accessories,USB Hub,2,454.73,Alexandria,909.46
+10830,2025-08-02,Ali,Accessories,USB Hub,4,289.36,Cairo,1157.44
+10033,2025-10-28,Khaled,Electronics,Headphones,2,4036.11,Alexandria,8072.22
+10915,2025-01-07,Ali,Accessories,Webcam,1,1303.48,Alexandria,1303.48
+10937,2025-05-08,Nada,Electronics,Headphones,1,2385.61,Tanta,2385.61
+10383,2025-11-29,Amr,Home,Desk Lamp,1,1149.11,Giza,1149.11
+10631,2025-02-01,Ali,Home,Air Purifier,1,3654.4,Giza,3654.4
+10164,2025-08-30,Nada,Accessories,Mouse,3,932.09,Giza,2796.27
+10204,2025-10-10,Ahmed,Gaming,Gaming Keyboard,3,3235.92,Cairo,9707.76
+11356,2025-08-20,Ahmed,Gaming,Game Controller,1,2489.04,Alexandria,2489.04
+11194,2025-01-27,Mohamed,Home,Desk Lamp,1,844.91,Cairo,844.91
+11576,2025-10-05,Aya,Electronics,Tablet,1,8502.1,Cairo,8502.1
+10917,2025-11-17,Laila,Electronics,Monitor,1,8461.65,Qalyubia,8461.65
+11250,2025-02-09,Karim,Home,Air Purifier,2,4456.89,,8913.78
+11981,2025-02-26,Ahmed,Electronics,Monitor,2,5284.89,Cairo,10569.78
+11713,2025-09-09,Khaled,Home,Coffee Maker,2,4626.38,Mansoura,9252.76
+11700,2025-12-26,Mohamed,Accessories,Mouse,5,1235.66,Qalyubia,6178.3
+11640,2025-05-27,Khaled,Gaming,Gaming Mouse,1,2132.19,Giza,2132.19
+11384,2025-02-07,Sara,Electronics,Headphones,1,5020.17,Mansoura,5020.17
+10219,2025-08-03,Amr,Home,Air Purifier,2,2704.38,Tanta,5408.76
+11946,2025-08-29,Khaled,Accessories,Phone Stand,1,418.7,Cairo,418.7
+11588,2025-01-05,Hana,Accessories,Mouse,1,874.7,Cairo,874.7
+10862,2025-07-15,Youssef,Accessories,Phone Stand,1,437.04,Giza,437.04
+10354,2025-09-05,Karim,Electronics,Monitor,2,15269.49,Giza,30538.98
+10713,2025-01-31,Amr,Accessories,Keyboard,1,1455.23,Alexandria,1455.23
+10060,2025-09-02,Aya,Electronics,Smartphone,2,16267.71,Alexandria,32535.42
+11084,2025-05-18,Mostafa,Gaming,Gaming Chair,2,7063.01,Suez,14126.02
+10298,2025-08-18,Laila,Electronics,Laptop,4,25713.89,Cairo,102855.56
+10074,2025-11-11,Aya,Gaming,Gaming Keyboard,3,4014.84,Mansoura,12044.52
+10163,2025-11-18,Youssef,Home,Coffee Maker,3,2088.81,Cairo,6266.43
+10964,2025-01-30,Sara,Accessories,USB Hub,1,879.44,Cairo,879.44
+11548,2025-08-29,Aya,Accessories,Mouse,3,860.84,Mansoura,2582.52
+11504,2025-10-16,Mohamed,Electronics,Laptop,1,32782.98,Cairo,32782.98
+11053,2025-05-06,,Gaming,Gaming Keyboard,1,4455.66,Tanta,4455.66
+11927,2025-02-23,Nada,Accessories,Keyboard,3,1719.65,Mansoura,5158.95
+11024,2025-10-31,Youssef,Gaming,Gaming Mouse,2,848.33,Qalyubia,1696.66
+10046,2025-05-17,Karim,Home,Desk Fan,1,2397.01,Cairo,2397.01
+11264,2025-09-22,Adam,Accessories,Phone Stand,1,495.71,Alexandria,495.71
+11108,2025-04-05,Mohamed,Home,Desk Lamp,1,394.69,Cairo,394.69
+10433,2025-03-19,Ahmed,Home,Coffee Maker,4,2276.09,Giza,9104.36
+11658,2025-07-19,Omar,Electronics,Tablet,1,20960.91,Giza,20960.91
+10077,2025-11-07,Salma,Home,Desk Fan,3,2092.01,Alexandria,6276.03
+11932,2025-03-24,Salma,Accessories,USB Hub,4,502.28,Tanta,2009.12
+11425,2025-08-06,Farah,Gaming,Game Controller,1,3168.69,Alexandria,3168.69
+11473,2025-12-15,Youssef,Gaming,Gaming Mouse,2,2004.45,Alexandria,4008.9
+10479,2025-03-11,Farah,Gaming,Gaming Keyboard,3,1645.76,Suez,4937.28
+10454,2025-06-15,Karim,Gaming,Gaming Chair,2,8464.42,Mansoura,16928.84
+10384,2025-11-07,Youssef,Gaming,Gaming Chair,4,11514.53,Giza,46058.12
+10927,2025-05-01,Omar,Electronics,Smartphone,1,22125.9,Qalyubia,22125.9
+10031,2025-08-19,Menna,Home,Desk Fan,2,1005.29,Mansoura,2010.58
+11393,2025-02-24,Mariam,Electronics,Tablet,1,7352.26,Alexandria,7352.26
+11524,2025-04-05,Ali,Electronics,Tablet,3,19419.09,Cairo,58257.27
+11000,2025-07-07,Youssef,Accessories,USB Hub,1,850.42,Giza,850.42
+11114,2025-07-17,Amr,Accessories,Phone Stand,3,407.39,Giza,1222.17
+11058,2025-12-31,Karim,Accessories,Phone Stand,4,501.09,Alexandria,2004.36
+11174,2025-02-09,Laila,Electronics,Monitor,2,16411.04,Cairo,32822.08
+10863,2025-05-25,Laila,Accessories,Mouse,2,355.36,Suez,710.72
+11562,2025-12-10,Karim,Electronics,Headphones,1,4952.48,Cairo,4952.48
+11579,2025-10-29,Ali,Home,Office Chair,4,8907.72,Tanta,35630.88
+11392,2025-08-06,Menna,Electronics,Headphones,1,3203.71,Ismailia,3203.71
+11977,2025-06-19,,Electronics,Laptop,1,24021.27,Giza,24021.27
+10045,2025-05-13,Karim,Electronics,Laptop,4,24401.29,Giza,97605.16
+10495,2025-07-05,Amr,Accessories,Keyboard,1,1765.89,Cairo,1765.89
+10169,2025-12-27,Aya,Electronics,Smartphone,2,26094.88,Cairo,52189.76
+10304,2025-09-20,Farah,Home,Desk Fan,1,1387.81,Cairo,1387.81
+10205,2025-07-14,Mariam,Home,Coffee Maker,2,6249.06,Qalyubia,12498.12
+10421,2025-05-31,Mostafa,Home,Air Purifier,2,5031.49,Cairo,10062.98
+11940,2025-07-05,Mostafa,Electronics,Headphones,1,2443.7,Qalyubia,2443.7
+10612,2025-06-01,Hana,Home,Office Chair,2,6081.83,Cairo,12163.66
+11735,2025-05-26,Khaled,Electronics,Laptop,3,,Cairo,
+11293,2025-06-24,Menna,Accessories,Phone Stand,3,358.02,Tanta,1074.06
+11665,2025-11-15,Mostafa,Gaming,Gaming Chair,1,8268.58,Alexandria,8268.58
+10586,2025-04-17,Salma,Electronics,Tablet,4,12884.84,Qalyubia,51539.36
+11975,2025-03-13,Nada,Electronics,Smartphone,1,29960.4,Cairo,29960.4
+10803,2025-12-31,Sara,Accessories,Phone Stand,1,331.72,Alexandria,331.72
+11284,2025-03-20,Amr,Electronics,Smartphone,1,20416.7,Cairo,20416.7
+11291,2025-07-31,Omar,Accessories,Mouse,1,980.53,Mansoura,980.53
+10415,2025-08-10,Amr,Home,Desk Fan,2,1193.12,Qalyubia,2386.24
+10186,2025-06-05,Karim,Home,Desk Lamp,2,1609.53,Alexandria,3219.06
+10711,2025-12-25,Karim,Home,Desk Lamp,1,778.69,Qalyubia,778.69
+11171,2025-06-22,Amr,Home,Desk Fan,2,1624.86,Giza,3249.72
+11212,2025-11-15,Youssef,Accessories,Mouse,1,1429.37,Giza,1429.37
+10301,2025-07-12,Laila,Electronics,Monitor,2,4602.73,Cairo,9205.46
+11577,2025-04-16,Youssef,Electronics,Smartphone,3,28946.1,Mansoura,86838.3
+11744,2025-11-11,Ahmed,Electronics,Laptop,5,37247.82,Tanta,186239.1
+10940,2025-06-29,Karim,Accessories,Webcam,1,1125.4,Giza,1125.4
+11612,2025-07-01,Mariam,Home,Desk Lamp,1,370.49,Cairo,370.49
+10818,2025-12-29,Laila,Accessories,USB Hub,1,336.58,Mansoura,336.58
+11948,2025-03-13,Farah,Electronics,Tablet,3,16337.9,Mansoura,49013.7
+11376,2025-06-13,Amr,Gaming,Gaming Keyboard,4,2953.48,Ismailia,11813.92
+10988,2025-12-06,Mariam,Accessories,Webcam,4,2930.89,Cairo,11723.56
+10176,2025-01-17,Nada,Electronics,Tablet,2,17476.01,Giza,34952.02
+11180,2025-05-14,Amr,Accessories,Mouse,2,755.12,Alexandria,1510.24
+10695,2025-10-08,Mariam,Electronics,Smartphone,1,16000.2,Tanta,16000.2
+11622,2025-01-31,Aya,Electronics,Monitor,1,7835.84,Giza,7835.84
+10124,2025-11-16,Khaled,Electronics,Headphones,2,5725.78,Cairo,11451.56
+10368,2025-09-27,Menna,Gaming,Gaming Chair,1,6136.98,Cairo,6136.98
+11533,2025-08-03,Mohamed,Home,Desk Fan,2,843.83,Alexandria,1687.66
+10789,2025-12-30,Mariam,Accessories,Mouse,1,261.37,Giza,261.37
+10040,2025-03-23,Sara,Accessories,Webcam,3,1272.96,Qalyubia,3818.88
+10716,2025-10-10,Sara,Gaming,Gaming Keyboard,1,3811.65,Suez,3811.65
+10951,2025-08-05,Khaled,Home,Office Chair,2,7146.85,Alexandria,14293.7
+10332,2025-08-03,Amr,Home,Desk Lamp,5,1229.02,Alexandria,6145.1
+11499,2025-11-17,Omar,Accessories,USB Hub,5,1002.34,Qalyubia,5011.7
+10195,2025-09-23,Youssef,Electronics,Smartphone,4,10172.22,Cairo,40688.88
+10528,2025-12-17,Nour,Electronics,Headphones,2,6079.88,Qalyubia,12159.76
+10966,2025-05-28,Salma,Accessories,Mouse,2,1623.17,Alexandria,3246.34
+11727,2025-11-28,Amr,Accessories,Mouse,1,657.22,Cairo,657.22
+10323,2025-07-08,Menna,Home,Air Purifier,1,7725.21,,7725.21
+11205,2025-12-18,Nour,Accessories,Mouse,1,1294.73,Mansoura,1294.73
+10267,2025-06-08,Ahmed,Home,Desk Fan,4,1862.71,Giza,7450.84
+11256,2025-09-15,Salma,Accessories,USB Hub,1,920.66,Giza,920.66
+11441,2025-04-26,Menna,Gaming,Game Controller,1,3032.64,Tanta,3032.64
+10068,2025-09-06,Khaled,Gaming,Gaming Keyboard,1,3411.11,Cairo,3411.11
+11847,2025-10-03,Mohamed,Electronics,Laptop,1,36554.13,Cairo,36554.13
+11813,2025-10-01,Amr,Electronics,Monitor,2,11195.38,Alexandria,22390.76
+10681,2025-01-14,Karim,Gaming,Game Controller,2,1951.03,Tanta,3902.06
+10486,2025-04-18,Adam,Gaming,Gaming Headset,3,2512.4,Mansoura,7537.2
+10481,2025-02-03,Mariam,Home,Air Purifier,3,9171.82,Giza,27515.46
+11422,2025-06-14,Omar,Accessories,Mouse,2,434.62,Giza,869.24
+10707,2025-06-01,Menna,Electronics,Headphones,2,6193.61,Cairo,12387.22
+10549,2025-02-21,Omar,Accessories,USB Hub,2,371.0,Ismailia,742.0
+11423,2025-05-08,Adam,Electronics,Monitor,2,5967.66,Giza,11935.32
+10428,2025-08-21,Farah,Gaming,Gaming Headset,3,1488.45,Cairo,4465.35
+11646,2025-01-31,Mariam,Home,Desk Fan,2,762.12,Cairo,1524.24
+11488,2025-10-08,Nada,Home,Desk Fan,2,1450.77,Giza,2901.54
+10480,2025-01-08,Mohamed,Accessories,USB Hub,1,394.19,Alexandria,394.19
+10451,2025-07-02,Menna,Home,Coffee Maker,1,6918.46,Giza,6918.46
+10926,2025-12-01,Mohamed,Electronics,Headphones,3,2372.4,Qalyubia,7117.2
+10618,2025-06-13,Menna,Electronics,Tablet,3,16082.31,Qalyubia,48246.93
+11542,2025-09-19,Omar,Electronics,Headphones,2,6418.65,Qalyubia,12837.3
+11962,2025-05-17,Omar,Accessories,Mouse,3,1522.77,Mansoura,4568.31
+11671,2025-07-09,Menna,Accessories,Webcam,3,1059.5,Giza,3178.5
+10944,2025-06-17,Menna,Gaming,Game Controller,4,3457.39,Alexandria,13829.56
+11795,2025-05-13,Nour,Electronics,Headphones,1,3979.75,Qalyubia,3979.75
+11112,2025-05-25,Laila,Electronics,Headphones,1,6188.88,Cairo,6188.88
+10694,2025-01-21,Aya,Electronics,Monitor,1,4587.5,Giza,4587.5
+11493,2025-01-06,Salma,Electronics,Smartphone,1,10513.22,Cairo,10513.22
+10922,2025-03-15,Amr,Accessories,USB Hub,1,279.38,Alexandria,279.38
+10262,2025-01-01,Karim,Gaming,Gaming Keyboard,2,3752.79,Cairo,7505.58
+10747,2025-10-20,Ali,Accessories,Phone Stand,3,402.63,Qalyubia,1207.89
+11381,2025-05-13,Laila,Electronics,Smartphone,2,29166.25,Alexandria,58332.5
+10241,2025-10-20,Mostafa,Gaming,Gaming Keyboard,2,3102.36,Cairo,6204.72
+11645,2025-07-18,Mostafa,Electronics,Laptop,1,43217.41,Mansoura,43217.41
+11704,2025-02-17,Karim,Accessories,USB Hub,2,268.48,Cairo,536.96
+10580,2025-11-22,Adam,Electronics,Headphones,2,5944.28,Alexandria,11888.56
+11351,2025-01-17,Omar,Gaming,Gaming Keyboard,2,3827.79,Cairo,7655.58
+10553,2025-03-31,Mohamed,Accessories,Mouse,1,964.04,Ismailia,964.04
+10366,2025-07-11,Nour,Accessories,USB Hub,4,284.13,Mansoura,1136.52
+11030,2025-08-17,Salma,Gaming,Gaming Chair,2,11850.84,Cairo,23701.68
+11742,2025-01-24,Khaled,Home,Office Chair,1,8152.93,Cairo,8152.93
+10592,2025-07-16,Mariam,Home,Air Purifier,1,6942.26,Mansoura,6942.26
+10742,2025-07-24,Khaled,Electronics,Tablet,1,15376.42,Giza,15376.42
+11282,2025-05-16,Amr,Home,Desk Fan,1,2435.49,Cairo,2435.49
+10584,2025-12-26,Adam,Electronics,Monitor,4,4921.36,Qalyubia,19685.44
+10072,2025-01-08,Farah,Electronics,Laptop,2,34910.7,Cairo,69821.4
+10888,2025-06-08,Sara,Electronics,Smartphone,3,15696.8,Cairo,47090.4
+10260,2025-02-27,Sara,Electronics,Monitor,4,7348.0,Mansoura,29392.0
+10052,2025-02-12,Khaled,Home,Office Chair,2,2541.83,Qalyubia,5083.66
+10199,2025-01-12,Omar,Gaming,Gaming Headset,1,3340.31,Cairo,3340.31
+11182,2025-01-14,Hana,Electronics,Headphones,1,1555.65,Alexandria,1555.65
+10655,2025-08-11,Mariam,Accessories,Mouse,1,1103.23,Alexandria,1103.23
+10333,2025-08-25,Salma,Electronics,Headphones,5,3617.3,Giza,18086.5
+11489,2025-12-27,Laila,Accessories,USB Hub,1,993.85,Cairo,993.85
+10597,2025-10-13,Mohamed,Home,Air Purifier,1,3396.71,Suez,3396.71
+11694,2025-03-15,Farah,Electronics,Smartphone,3,13604.47,Alexandria,40813.41
+11166,2025-05-17,Mohamed,Gaming,Gaming Headset,1,1126.89,Alexandria,1126.89
+10963,2025-04-08,Ali,Electronics,Laptop,1,37089.41,Cairo,37089.41
+10908,2025-01-30,Hana,Electronics,Laptop,2,42622.91,Mansoura,85245.82
+10889,2025-04-10,Sara,Electronics,Laptop,2,24582.65,Suez,49165.3
+10705,2025-10-20,Ali,Electronics,Smartphone,1,27332.92,Cairo,27332.92
+10427,2025-05-18,Laila,Accessories,USB Hub,2,546.32,Alexandria,1092.64
+11343,2025-05-29,Menna,Gaming,Game Controller,1,4351.66,Mansoura,4351.66
+11784,2025-11-11,Menna,Home,Air Purifier,1,5018.83,Giza,5018.83
+10594,2025-03-27,Youssef,Electronics,Headphones,1,3060.96,Tanta,3060.96
+10991,2025-10-17,Menna,Home,Desk Fan,4,1247.89,Giza,4991.56
+11992,2025-09-17,Aya,Electronics,Smartphone,2,9413.25,Mansoura,18826.5
+10583,2025-04-21,Ahmed,Accessories,USB Hub,1,333.27,Alexandria,333.27
+10728,2025-05-12,Amr,Home,Desk Lamp,1,1004.28,Mansoura,1004.28
+10399,2025-03-12,Sara,Home,Air Purifier,1,4654.95,Mansoura,4654.95
+10573,2025-07-11,Ahmed,Accessories,Keyboard,4,1799.16,Alexandria,7196.64
+10437,2025-12-29,Ahmed,Electronics,Laptop,1,35722.42,Qalyubia,35722.42
+10193,2025-06-04,Menna,Gaming,Gaming Chair,1,6539.38,Cairo,6539.38
+11657,2025-09-22,Ahmed,Accessories,USB Hub,2,671.39,Alexandria,1342.78
+10619,2025-01-16,Mariam,Gaming,Gaming Chair,2,12324.17,Alexandria,24648.34
+10293,2025-09-11,Omar,Gaming,Gaming Keyboard,2,3960.45,Giza,7920.9
+11584,2025-03-08,Mostafa,Accessories,Webcam,1,1708.19,Giza,1708.19
+11566,2025-01-15,Nour,Accessories,Keyboard,1,725.2,Mansoura,725.2
+10813,2025-03-21,Salma,Electronics,Laptop,5,19595.86,Mansoura,97979.3
+11550,2025-05-02,Youssef,Home,Office Chair,2,4748.08,Alexandria,9496.16
+10508,2025-02-14,Aya,Gaming,Gaming Headset,2,4368.06,Mansoura,8736.12
+10142,2025-05-16,Farah,Electronics,Tablet,1,20524.96,Cairo,20524.96
+11405,2025-01-29,Mostafa,Home,Desk Lamp,1,567.62,Ismailia,567.62
+10003,2025-05-31,Aya,Home,Air Purifier,4,6346.73,Cairo,25386.92
+10757,2025-10-10,Khaled,Home,Desk Lamp,2,627.26,Mansoura,1254.52
+11885,2025-06-24,Youssef,Electronics,Headphones,3,2200.21,Mansoura,6600.63
+11260,2025-04-27,Nour,Accessories,Mouse,1,1211.37,Tanta,1211.37
+10340,2025-02-06,Mostafa,Electronics,Headphones,2,2028.19,Suez,4056.38
+11545,2025-09-03,Youssef,Gaming,Game Controller,4,4470.54,Cairo,17882.16
+10983,2025-05-15,Adam,Electronics,Headphones,2,1049.79,Cairo,2099.58
+10539,2025-02-27,Laila,Accessories,Phone Stand,2,565.98,Giza,1131.96
+10266,2025-09-11,Laila,Home,Air Purifier,2,4236.1,Ismailia,8472.2
+10377,2025-05-17,Mostafa,Gaming,Gaming Chair,1,10977.16,,10977.16
+10693,2025-03-25,Adam,Accessories,USB Hub,1,454.17,Ismailia,454.17
+11692,2025-02-20,Amr,Accessories,USB Hub,4,299.86,Qalyubia,1199.44
+10440,2025-10-30,Mariam,Electronics,Monitor,5,,Cairo,
+10272,2025-09-10,Mostafa,Gaming,Gaming Headset,3,4597.04,Tanta,13791.12
+10185,2025-05-25,Salma,Electronics,Tablet,1,6799.51,Cairo,6799.51
+10949,2025-07-08,Nada,Gaming,Gaming Keyboard,2,3586.14,Qalyubia,7172.28
+10245,2025-02-18,Salma,Electronics,Monitor,4,6859.45,Giza,27437.8
+11092,2025-03-28,Mohamed,Home,Desk Lamp,1,1595.23,Suez,1595.23
+10446,2025-06-10,Adam,Gaming,Gaming Mouse,3,1004.31,Cairo,3012.93
+10600,2025-07-09,Khaled,Electronics,Smartphone,1,25690.1,Tanta,25690.1
+10825,2025-08-27,Menna,Accessories,Webcam,4,1799.67,Ismailia,7198.68
+11652,2025-08-06,Farah,Electronics,Monitor,2,15995.69,Alexandria,31991.38
+11418,2025-03-18,Amr,Electronics,Tablet,2,9660.05,Alexandria,19320.1
+11323,2025-01-22,Aya,Gaming,Gaming Mouse,2,2011.97,Qalyubia,4023.94
+10979,2025-06-18,Mohamed,Accessories,Webcam,3,1207.42,Qalyubia,3622.26
+10416,2025-06-22,Ahmed,Accessories,Mouse,3,881.96,Ismailia,2645.88
+10274,2025-01-23,Laila,Gaming,Gaming Headset,1,2776.46,Qalyubia,2776.46
+10737,2025-09-27,Nada,Accessories,Mouse,2,1604.51,Alexandria,3209.02
+11651,2025-04-15,Aya,Electronics,Smartphone,1,19318.77,Cairo,19318.77
+11466,2025-10-23,Mostafa,Electronics,Monitor,2,14499.35,Qalyubia,28998.7
+10251,2025-04-26,Nour,Electronics,Monitor,2,17119.53,Mansoura,34239.06
+10414,2025-11-04,Sara,Accessories,Webcam,1,2728.33,Giza,2728.33
+10621,2025-05-16,Adam,Electronics,Tablet,2,13060.79,Cairo,26121.58
+11317,2025-12-29,Salma,Accessories,Phone Stand,3,543.08,Ismailia,1629.24
+11775,2025-04-29,Menna,Home,Coffee Maker,1,5174.02,Cairo,5174.02
+10311,2025-12-01,Youssef,Accessories,Phone Stand,4,572.47,Suez,2289.88
+10778,2025-12-05,Sara,Home,Coffee Maker,1,2286.28,Tanta,2286.28
+10382,2025-04-27,Aya,Home,Desk Lamp,5,1103.05,Giza,5515.25
+10562,2025-10-19,Aya,Electronics,Headphones,2,2800.9,Alexandria,5601.8
+10426,2025-06-20,Mohamed,Accessories,Webcam,2,1578.2,Cairo,3156.4
+11890,2025-02-10,Ahmed,Gaming,Game Controller,1,4476.4,Ismailia,4476.4
+10535,2025-09-28,Salma,Home,Coffee Maker,2,6106.42,Tanta,12212.84
+10758,2025-10-14,Ahmed,Accessories,USB Hub,1,1138.61,Cairo,1138.61
+10772,2025-01-25,Amr,Gaming,Gaming Chair,2,6833.64,Ismailia,13667.28
+11367,2025-02-16,Sara,Home,Coffee Maker,1,4141.62,Cairo,4141.62
+10409,2025-11-27,Amr,Gaming,Gaming Keyboard,3,1913.63,Alexandria,5740.89
+11626,2025-11-21,Nada,Home,Desk Fan,1,985.09,Ismailia,985.09
+11601,2025-01-19,Laila,Electronics,Headphones,3,4690.3,Cairo,14070.9
+11955,2025-09-26,Mostafa,Gaming,Gaming Headset,2,2262.97,Cairo,4525.94
+11162,2025-07-26,Youssef,Electronics,Laptop,2,40006.95,Alexandria,80013.9
+10945,2025-09-27,Nada,Electronics,Smartphone,3,20972.38,Cairo,62917.14
+11160,2025-01-01,Ahmed,Electronics,Headphones,1,5382.37,Ismailia,5382.37
+11570,2025-02-10,Sara,Accessories,Keyboard,1,2382.84,Alexandria,2382.84
+10651,2025-03-20,Ali,Electronics,Laptop,1,43127.35,Suez,43127.35
+11913,2025-10-20,Hana,Gaming,Gaming Headset,3,2185.78,Cairo,6557.34
+10183,2025-11-13,Mariam,Gaming,Gaming Keyboard,3,1250.08,Giza,3750.24
+10171,2025-04-08,Ahmed,Home,Coffee Maker,1,4172.0,Qalyubia,4172.0
+11943,2025-07-25,Nour,Home,Air Purifier,2,4152.46,Tanta,8304.92
+10591,2025-03-14,Farah,Electronics,Monitor,2,16033.79,Cairo,32067.58
+11892,2025-11-26,Aya,Accessories,Webcam,1,3453.33,Giza,3453.33
+11697,2025-07-08,Laila,Electronics,Headphones,4,4033.62,Tanta,16134.48
+10858,2025-10-27,Farah,Accessories,Phone Stand,1,595.76,,595.76
+10273,2025-05-30,Amr,Gaming,Game Controller,3,4856.59,Ismailia,14569.77
+11561,2025-11-28,Nour,Accessories,Mouse,1,988.3,Alexandria,988.3
+11546,2025-04-20,Adam,Accessories,Phone Stand,1,532.21,Mansoura,532.21
+11453,2025-05-02,Mohamed,Gaming,Game Controller,4,3051.41,Qalyubia,12205.64
+10372,2025-06-16,Nada,Electronics,Monitor,2,14236.2,Cairo,28472.4
+10223,2025-11-10,Ali,Electronics,Laptop,1,33509.79,Giza,33509.79
+10905,2025-06-16,Youssef,Accessories,Mouse,4,452.28,Cairo,1809.12
+11759,2025-08-28,Adam,Electronics,Tablet,2,17727.87,Giza,35455.74
+11320,2025-06-01,Sara,Electronics,Smartphone,1,14212.09,Mansoura,14212.09
+10519,2025-03-13,Hana,Gaming,Gaming Mouse,2,998.62,Cairo,1997.24
+10335,2025-08-05,Ali,Electronics,Tablet,2,21959.59,Cairo,43919.18
+11582,2025-12-23,Hana,Accessories,Webcam,3,1521.92,Cairo,4565.76
+11345,2025-03-10,Khaled,Home,Office Chair,1,8461.93,Cairo,8461.93
+11812,2025-04-05,Laila,Home,Office Chair,2,6077.28,Alexandria,12154.56
+10608,2025-02-09,Omar,Accessories,USB Hub,4,717.45,Giza,2869.8
+10016,2025-12-09,Amr,Electronics,Monitor,2,16644.67,Ismailia,33289.34
+11461,2025-07-09,Nour,Accessories,Webcam,1,1346.69,Cairo,1346.69
+11990,2025-01-04,Khaled,Home,Desk Lamp,1,619.0,Giza,619.0
+11551,2025-04-27,Khaled,Gaming,Gaming Mouse,2,763.39,Mansoura,1526.78
+11872,2025-07-02,Khaled,Electronics,Tablet,1,17182.31,Qalyubia,17182.31
+10611,2025-01-25,Amr,Electronics,Headphones,4,2201.41,Mansoura,8805.64
+11449,2025-03-14,Nour,Gaming,Game Controller,1,1661.38,Alexandria,1661.38
+10466,2025-01-31,Adam,Accessories,Phone Stand,3,289.47,Cairo,868.41
+11402,2025-03-08,Khaled,Electronics,Laptop,2,43291.56,Giza,86583.12
+10200,2025-03-16,Farah,Home,Office Chair,1,3970.79,Mansoura,3970.79
+11281,2025-05-22,Hana,Home,Desk Lamp,3,939.0,Cairo,2817.0
+11342,2025-02-27,Ali,Accessories,Webcam,1,2410.3,Qalyubia,2410.3
+11868,2025-12-02,Salma,Electronics,Smartphone,1,27174.89,Tanta,27174.89
+11310,2025-01-21,Omar,Gaming,Game Controller,2,2709.63,Mansoura,5419.26
+11743,2025-08-09,Adam,Home,Desk Lamp,1,1008.34,Ismailia,1008.34
+11625,2025-01-24,Nour,Electronics,Headphones,1,1626.74,Qalyubia,1626.74
+11755,2025-05-28,Adam,Gaming,Gaming Headset,1,4152.8,Cairo,4152.8
+11424,2025-02-14,Laila,Electronics,Smartphone,1,14302.42,Suez,14302.42
+10977,2025-07-28,Adam,Accessories,Mouse,2,1650.0,Cairo,3300.0
+10571,2025-03-10,Amr,Accessories,Webcam,1,2955.55,Mansoura,2955.55
+10044,2025-03-03,Laila,Gaming,Gaming Headset,1,2175.8,Giza,2175.8
+10275,2025-09-01,Youssef,Accessories,Phone Stand,3,562.52,Cairo,1687.56
+11750,2025-09-24,Ahmed,Electronics,Tablet,2,20939.88,Alexandria,41879.76
+10102,2025-10-03,Salma,Home,Coffee Maker,1,3055.41,Giza,3055.41
+11428,2025-06-17,Youssef,Gaming,Game Controller,4,3876.47,Giza,15505.88
+10734,2025-08-15,Mohamed,Accessories,Webcam,1,2879.18,Giza,2879.18
+11400,2025-10-20,Laila,Home,Air Purifier,3,5637.18,Mansoura,16911.54
+10108,2025-06-03,Youssef,Home,Air Purifier,1,7278.21,Mansoura,7278.21
+11042,2025-02-18,Laila,Home,Desk Fan,4,854.25,Alexandria,3417.0
+10498,2025-07-27,Salma,Electronics,Tablet,2,16923.52,Qalyubia,33847.04
+11996,2025-05-25,Laila,Home,Desk Fan,1,1427.24,Cairo,1427.24
+10890,2025-11-13,Laila,Electronics,Tablet,2,16150.36,Qalyubia,32300.72
+11434,2025-12-26,Youssef,Home,Desk Fan,1,885.74,Cairo,885.74
+11611,2025-12-04,Mostafa,Gaming,Gaming Keyboard,3,4231.12,Suez,12693.36
+11115,2025-11-21,Menna,Accessories,Webcam,3,1791.06,Alexandria,5373.18
+11617,2025-03-04,Nour,Gaming,Gaming Mouse,3,1852.69,Tanta,5558.07
+10620,2025-01-18,Menna,Home,Desk Lamp,4,1763.21,Ismailia,7052.84
+10866,2025-06-23,,Accessories,Phone Stand,2,639.58,Alexandria,1279.16
+10073,2025-10-02,Omar,Electronics,Smartphone,1,14126.36,Tanta,14126.36
+11248,2025-11-25,Hana,Electronics,Monitor,1,17311.46,Alexandria,17311.46
+11223,2025-10-09,Karim,Accessories,Phone Stand,3,213.56,Ismailia,640.68
+11176,2025-01-16,Amr,Accessories,USB Hub,2,1069.78,Suez,2139.56
+11495,2025-08-20,Nour,Home,Desk Fan,2,2155.95,Qalyubia,4311.9
+10482,2025-08-12,Laila,Home,Office Chair,1,8635.53,Tanta,8635.53
+11076,2025-04-03,Menna,Accessories,Phone Stand,4,371.22,Cairo,1484.88
+10507,2025-01-09,Omar,Gaming,Gaming Keyboard,3,3862.3,Cairo,11586.9
+10680,2025-06-27,Mariam,Gaming,Gaming Mouse,2,943.64,Cairo,1887.28
+11236,2025-12-08,Youssef,Accessories,Mouse,2,1336.45,Mansoura,2672.9
+11759,2025-08-28,Adam,Electronics,Tablet,2,17727.87,Giza,35455.74
+10746,2025-04-03,Menna,Gaming,Gaming Headset,1,1757.13,Mansoura,1757.13
+11118,2025-03-26,Khaled,Gaming,Game Controller,1,4442.32,Ismailia,4442.32
+11240,2025-08-15,Ahmed,Electronics,Laptop,3,35677.58,Suez,107032.74
+10312,2025-03-26,Khaled,Electronics,Headphones,2,3902.96,Mansoura,7805.92
+10835,2025-08-29,Menna,Accessories,Phone Stand,3,419.72,Cairo,1259.16
+10406,2025-01-15,Ahmed,Gaming,Gaming Chair,3,8843.91,Suez,26531.73
+11919,2025-08-11,Ali,Accessories,Keyboard,1,1563.36,Tanta,1563.36
+11152,2025-06-17,Youssef,Gaming,Gaming Headset,2,4671.36,Ismailia,9342.72
+10310,2025-09-16,Sara,,Laptop,2,20905.58,Qalyubia,41811.16
+10227,2025-05-12,Adam,Gaming,Gaming Mouse,3,2041.32,Cairo,6123.96
+11712,2025-02-05,Aya,Electronics,Laptop,1,34456.66,Cairo,34456.66
+11007,2025-09-23,Laila,Home,Office Chair,3,5088.82,Alexandria,15266.46
+11641,2025-07-01,Nour,Accessories,Phone Stand,3,192.62,Qalyubia,577.86
+10833,2025-11-14,Karim,Electronics,Smartphone,2,29189.5,Mansoura,58379.0
+11437,2025-12-09,Hana,Electronics,Tablet,2,18967.91,Suez,37935.82
+10149,2025-01-16,Salma,Electronics,Monitor,1,6480.7,Alexandria,6480.7
+10745,2025-04-27,Mostafa,Electronics,Tablet,1,7160.64,Mansoura,7160.64
+11085,2025-11-04,Mostafa,Gaming,Gaming Headset,2,2304.43,Ismailia,4608.86
+10839,2025-08-17,Karim,Accessories,Mouse,1,572.06,Tanta,572.06
+11221,2025-11-27,Khaled,Gaming,Gaming Mouse,1,1569.13,Qalyubia,1569.13
+10846,2025-12-30,Menna,Accessories,Keyboard,1,1759.66,Tanta,1759.66
+10576,2025-10-25,Sara,Gaming,Gaming Keyboard,1,2486.67,Cairo,2486.67
+10558,2025-08-30,Adam,Electronics,Laptop,5,25782.79,Cairo,128913.95
+10702,2025-11-09,Omar,Electronics,Tablet,2,15077.11,Qalyubia,30154.22
+11164,2025-10-01,Ali,Home,Desk Fan,5,2046.37,Alexandria,10231.85
+11357,2025-01-21,Laila,Gaming,Gaming Mouse,2,1680.27,Ismailia,3360.54
+11170,2025-04-17,Farah,Electronics,Headphones,2,2788.49,Mansoura,5576.98
+11661,2025-08-14,Mariam,Home,Desk Fan,3,2013.86,Qalyubia,6041.58
+10967,2025-05-24,Adam,Home,Desk Lamp,1,1524.12,Qalyubia,1524.12
+10287,2025-07-17,Ahmed,Accessories,Webcam,2,2659.33,Suez,5318.66
+11616,2025-01-01,Menna,Home,Desk Fan,1,1757.75,Ismailia,1757.75
+10744,2025-02-24,Salma,Accessories,Keyboard,1,644.56,Giza,644.56
+10599,2025-12-21,Menna,Electronics,Laptop,1,24932.07,Cairo,24932.07
+10941,2025-03-23,Nada,Electronics,Tablet,1,18441.75,Giza,18441.75
+11472,2025-12-11,Sara,Home,Desk Fan,1,1075.76,Mansoura,1075.76
+11659,2025-09-09,Laila,Accessories,Mouse,1,707.17,Cairo,707.17
+11827,2025-05-10,Nada,Electronics,Smartphone,1,9054.11,Ismailia,9054.11
+11048,2025-08-05,Menna,Electronics,Smartphone,1,28758.63,Cairo,28758.63
+11332,2025-05-03,Menna,Home,Desk Lamp,3,1168.45,Mansoura,3505.35
+10814,2025-05-25,Mohamed,Gaming,Gaming Chair,2,10907.26,Cairo,21814.52
+11689,2025-11-24,Ali,Home,Office Chair,2,2546.42,Alexandria,5092.84
+11001,2025-05-21,Aya,Electronics,Tablet,2,17343.89,Cairo,34687.78
+11471,2025-04-10,Sara,Accessories,Mouse,1,851.14,Giza,851.14
+11507,2025-01-04,Laila,Accessories,Phone Stand,2,205.31,Cairo,410.62
+10610,2025-07-10,Hana,Home,Coffee Maker,1,2778.98,Mansoura,2778.98
+11799,2025-07-17,Aya,Electronics,Tablet,2,16123.89,Alexandria,32247.78
+11088,2025-03-07,Mariam,Electronics,Headphones,1,6147.48,Tanta,6147.48
+11433,2025-09-02,Laila,Accessories,USB Hub,2,911.38,Cairo,1822.76
+11739,2025-12-15,Ahmed,Accessories,USB Hub,2,310.71,Cairo,621.42
+10494,2025-11-23,Mostafa,Electronics,Laptop,2,24779.16,Cairo,49558.32
+11330,2025-05-03,Sara,Accessories,Phone Stand,3,426.1,Qalyubia,1278.3
+10278,2025-12-09,Laila,Home,Desk Lamp,1,717.15,Giza,717.15
+11861,2025-10-07,Amr,Home,Desk Lamp,2,706.71,Giza,1413.42
+10359,2025-02-01,Mohamed,Gaming,Gaming Mouse,1,1122.99,Alexandria,1122.99
+11119,2025-09-10,Khaled,Electronics,Tablet,1,16450.29,Mansoura,16450.29
+10237,2025-05-16,Mohamed,Electronics,Laptop,1,42648.1,Giza,42648.1
+10552,2025-01-30,Salma,Gaming,Gaming Mouse,3,2363.66,Suez,7090.98
+11882,2025-10-14,Khaled,Gaming,Gaming Chair,1,10356.32,Giza,10356.32
+10906,2025-08-03,Nour,Gaming,Gaming Keyboard,1,2653.78,Qalyubia,2653.78
+10209,2025-11-05,Karim,Electronics,Tablet,3,17718.73,Ismailia,53156.19
+11593,2025-10-05,Laila,Electronics,Laptop,2,23047.15,Suez,46094.3
+11572,2025-11-20,Sara,Electronics,Smartphone,2,17906.09,Mansoura,35812.18
+10059,2025-08-21,Mohamed,Electronics,Tablet,2,20897.93,Giza,41795.86
+10632,2025-04-28,Sara,Gaming,Gaming Keyboard,3,4424.2,Mansoura,13272.6
+11682,2025-02-18,Amr,Gaming,Game Controller,1,3918.45,Giza,3918.45
+11874,2025-11-13,Mostafa,Gaming,Gaming Mouse,2,1182.03,Giza,2364.06
+11589,2025-03-23,Ahmed,Accessories,Webcam,1,2440.21,Giza,2440.21
+10364,2025-08-20,Omar,Accessories,Webcam,1,1411.69,Giza,1411.69
+10506,2025-07-02,Ali,Electronics,Tablet,2,15586.45,Giza,31172.9
+11288,2025-12-07,Mostafa,Accessories,USB Hub,2,971.35,Cairo,1942.7
+11321,2025-02-25,Nada,Electronics,Smartphone,1,9780.98,Suez,9780.98
+11615,2025-12-14,Adam,Electronics,Laptop,2,24453.39,Cairo,48906.78
+11234,2025-12-04,Mostafa,Electronics,Headphones,1,3561.81,Mansoura,3561.81
+10850,2025-05-25,Aya,Accessories,Webcam,2,3388.69,Cairo,6777.38
+11867,2025-03-19,Adam,Electronics,Tablet,5,19725.86,Cairo,98629.3
+11560,2025-05-27,Adam,Gaming,Gaming Chair,2,12449.71,Mansoura,24899.42
+10119,2025-08-20,Sara,Gaming,Gaming Headset,2,,Mansoura,
+11771,2025-08-08,Farah,Accessories,Phone Stand,2,299.42,Ismailia,598.84
+10773,2025-11-29,Laila,Electronics,Tablet,2,19233.03,Ismailia,38466.06
+10523,2025-07-04,Menna,Gaming,Gaming Keyboard,1,3971.41,Mansoura,3971.41
+10514,2025-02-06,Adam,Gaming,Gaming Mouse,1,1840.14,Suez,1840.14
+10082,2025-04-11,Mostafa,Home,Coffee Maker,1,5753.6,Qalyubia,5753.6
+11884,2025-12-16,Mariam,Home,Office Chair,2,7555.16,Giza,15110.32
+11103,2025-06-26,Ahmed,Gaming,Gaming Mouse,1,1001.43,Mansoura,1001.43
+10381,2025-01-17,Ali,Electronics,Monitor,2,4866.4,Mansoura,9732.8
+11037,2025-12-24,Amr,Electronics,Tablet,1,16379.07,Suez,16379.07
+11702,2025-09-27,Mostafa,Accessories,Phone Stand,1,193.57,Ismailia,193.57
+10085,2025-08-27,Youssef,Electronics,Headphones,4,6518.68,Ismailia,26074.72
+11691,2025-08-06,Mariam,Electronics,Laptop,1,26889.23,Tanta,26889.23
+10330,2025-03-25,Karim,Electronics,Monitor,1,5853.66,Giza,5853.66
+10007,2025-06-25,Adam,Electronics,Headphones,3,6580.4,Tanta,19741.2
+11678,2025-05-01,Hana,Accessories,USB Hub,1,868.29,Cairo,868.29
+11666,2025-08-07,Adam,Gaming,Gaming Headset,5,1444.6,Alexandria,7223.0
+10923,2025-05-25,Nada,Gaming,Game Controller,1,3914.77,Cairo,3914.77
+10882,2025-09-21,Adam,Home,Desk Fan,3,1208.75,Tanta,3626.25
+10452,2025-01-02,Hana,Accessories,Phone Stand,2,572.4,Cairo,1144.8
+10491,2025-01-26,Karim,Accessories,Mouse,1,751.92,Mansoura,751.92
+11492,2025-11-08,Nour,Accessories,Webcam,2,3052.44,Suez,6104.88
+10288,2025-05-23,Mohamed,Accessories,Mouse,1,398.38,Cairo,398.38
+11263,2025-02-14,Sara,Electronics,Monitor,2,14751.58,Mansoura,29503.16
+11073,2025-04-14,Ahmed,Electronics,Monitor,3,17737.38,Cairo,53212.14
+11379,2025-07-27,Youssef,Accessories,Mouse,1,1498.68,Tanta,1498.68
+11993,2025-02-11,Sara,Home,Air Purifier,2,6945.22,Ismailia,13890.44
+10760,2025-05-09,Mohamed,Home,Desk Lamp,1,968.08,Suez,968.08
+10808,2025-06-20,Mariam,Gaming,Gaming Headset,4,4936.13,Giza,19744.52
+11828,2025-10-19,Mostafa,Gaming,Gaming Chair,1,13485.2,Tanta,13485.2
+10837,2025-04-02,Adam,Gaming,Gaming Keyboard,3,1368.22,Mansoura,4104.66
+10887,2025-08-01,Aya,Home,Air Purifier,2,9539.99,Giza,19079.98
+11233,2025-07-29,Mostafa,Electronics,Tablet,3,17827.13,Giza,53481.39
+11177,2025-05-07,Mostafa,Home,Air Purifier,2,4503.06,Ismailia,9006.12
+11663,2025-04-15,Nour,Gaming,Gaming Keyboard,2,4050.02,Ismailia,8100.04
+10328,2025-11-12,Karim,Home,Desk Fan,2,2140.85,Qalyubia,4281.7
+10443,2025-07-05,Amr,Accessories,Keyboard,1,1333.51,Alexandria,1333.51
+10781,2025-12-03,Sara,Home,Office Chair,1,6387.06,Alexandria,6387.06
+11877,2025-12-05,Mostafa,Accessories,USB Hub,3,959.27,Alexandria,2877.81
+10933,2025-12-21,Karim,Gaming,Gaming Keyboard,2,3269.0,Qalyubia,6538.0
+11961,2025-08-28,Khaled,Electronics,Laptop,2,28440.8,Suez,56881.6
+10178,2025-07-25,Ali,Accessories,Webcam,1,2292.45,Alexandria,2292.45
+11825,2025-01-22,Ahmed,Home,Coffee Maker,3,2264.33,Qalyubia,6792.99
+11197,2025-01-30,Youssef,Gaming,Gaming Keyboard,3,3865.96,Qalyubia,11597.88
+10087,2025-05-02,Khaled,Home,Office Chair,3,6470.01,Suez,19410.03
+11419,2025-07-23,Sara,Accessories,USB Hub,1,1036.29,Qalyubia,1036.29
+11915,2025-12-15,Ahmed,Accessories,Phone Stand,2,218.54,Tanta,437.08
+10458,2025-11-19,Laila,Accessories,Mouse,1,1249.53,Tanta,1249.53
+11956,2025-06-04,Menna,Gaming,Gaming Chair,1,10215.19,Cairo,10215.19
+10055,2025-02-15,Sara,Accessories,Mouse,5,1203.64,Giza,6018.2
+11513,2025-04-03,Mariam,Gaming,Gaming Keyboard,1,2355.66,Mansoura,2355.66
+10644,2025-09-09,Hana,Electronics,Monitor,5,14253.44,Alexandria,71267.2
+10678,2025-07-04,Farah,Accessories,Keyboard,4,1271.42,Giza,5085.68
+10222,2025-04-21,Mostafa,Accessories,USB Hub,1,1189.96,Giza,1189.96
+10114,2025-12-08,Mohamed,Gaming,Gaming Chair,1,9996.28,Suez,9996.28
+11609,2025-02-21,Laila,Electronics,Headphones,3,2061.63,Alexandria,6184.89
+11808,2025-12-16,Mohamed,Electronics,Smartphone,2,20786.74,Suez,41573.48
+11380,2025-09-03,Omar,Accessories,Webcam,1,1469.04,Qalyubia,1469.04
+10175,2025-09-16,Salma,Home,Desk Lamp,2,505.63,Ismailia,1011.26
+10788,2025-07-15,Youssef,Accessories,Webcam,1,1975.86,Cairo,1975.86
+10590,2025-06-04,Mariam,Electronics,Smartphone,2,18758.79,Cairo,37517.58
+11848,2025-11-02,Hana,Electronics,Monitor,1,15407.11,Mansoura,15407.11
+10019,2025-07-19,Menna,Accessories,USB Hub,2,780.83,Alexandria,1561.66
+10424,2025-01-21,Nada,Accessories,Keyboard,3,2449.67,Cairo,7349.01
+11353,2025-06-09,Laila,Accessories,Webcam,1,3458.73,Cairo,3458.73
+10286,2025-06-18,Omar,Electronics,Laptop,1,31993.46,Alexandria,31993.46
+11595,2025-12-09,Nada,Home,Office Chair,2,5672.76,Giza,11345.52
+10429,2025-11-28,Adam,Accessories,Mouse,1,422.26,Alexandria,422.26
+11761,2025-08-20,Omar,Accessories,Phone Stand,1,626.95,Giza,626.95
+10756,2025-06-30,Nour,Home,Coffee Maker,1,1874.6,Cairo,1874.6
+10670,2025-02-21,Adam,Electronics,Headphones,2,3602.94,Qalyubia,7205.88
+10032,2025-01-29,Laila,Electronics,Smartphone,1,19441.63,Mansoura,19441.63
+10950,2025-09-14,Karim,Accessories,Mouse,5,1447.64,Qalyubia,7238.2
+10723,2025-11-26,Ahmed,Electronics,Monitor,1,17828.49,Giza,17828.49
+11511,2025-03-15,Farah,Gaming,Gaming Headset,5,2384.79,Alexandria,11923.95
+10215,2025-07-11,Nada,Home,Desk Fan,1,2064.1,Giza,2064.1
+10893,2025-06-15,Salma,Gaming,Gaming Headset,5,1898.41,Mansoura,9492.05
+11790,2025-08-30,Salma,Accessories,Keyboard,2,1976.26,Cairo,3952.52
+10327,2025-07-09,Mariam,Accessories,USB Hub,1,1064.33,Cairo,1064.33
+10561,2025-03-04,Sara,Home,Desk Fan,1,527.27,Cairo,527.27
+11121,2025-08-11,Aya,Gaming,Game Controller,1,2252.11,Cairo,2252.11
+10701,2025-08-24,Hana,Accessories,Webcam,5,2567.34,Cairo,12836.7
+11450,2025-01-10,Karim,Home,Office Chair,2,7187.36,Cairo,14374.72
+11319,2025-06-30,Hana,Electronics,Headphones,4,3551.38,Mansoura,14205.52
+10342,2025-08-07,Karim,Accessories,USB Hub,1,1092.76,Qalyubia,1092.76
+10630,2025-12-03,Nada,Electronics,Tablet,1,16100.14,Suez,16100.14
+10148,2025-12-23,Nour,Accessories,USB Hub,1,509.39,Mansoura,509.39
+11390,2025-02-28,Laila,Accessories,Keyboard,2,1151.72,Cairo,2303.44
+10361,2025-02-08,Salma,Accessories,Phone Stand,2,671.54,Cairo,1343.08
+10084,2025-02-08,Mohamed,Electronics,Laptop,1,23106.76,Ismailia,23106.76
+10049,2025-07-24,Mohamed,Accessories,Keyboard,1,2341.5,Alexandria,2341.5
+10469,2025-07-12,Amr,Electronics,Laptop,2,23265.24,Alexandria,46530.48
+10156,2025-02-04,Adam,Electronics,Tablet,2,9240.79,Tanta,18481.58
+10807,2025-08-25,Farah,Gaming,Gaming Mouse,1,2386.47,Cairo,2386.47
+11064,2025-04-01,Mostafa,Accessories,USB Hub,2,434.81,Alexandria,869.62
+11209,2025-09-16,Ali,Electronics,Monitor,1,7970.51,Cairo,7970.51
+11413,2025-07-04,Nour,Electronics,Monitor,2,6897.91,Suez,13795.82
+11211,2025-03-15,Laila,Accessories,Phone Stand,2,161.42,Qalyubia,322.84
+11642,2025-02-26,Nada,Gaming,Game Controller,1,2272.79,Tanta,2272.79
+10501,2025-07-15,Mostafa,Home,Desk Lamp,1,575.18,Giza,575.18
+11778,2025-02-05,Laila,Accessories,Keyboard,1,2116.1,Mansoura,2116.1
+10180,2025-06-15,Adam,Electronics,Tablet,1,11037.24,Suez,11037.24
+11055,2025-12-22,Khaled,Gaming,Gaming Chair,1,4819.66,Alexandria,4819.66
+11781,2025-07-08,Salma,Electronics,Laptop,1,18781.5,Tanta,18781.5
+11844,2025-09-03,Omar,Home,Desk Lamp,3,1779.73,Giza,5339.19
+11568,2025-03-25,Nour,Electronics,Laptop,1,23644.0,Cairo,23644.0
+11165,2025-02-17,Salma,Electronics,Laptop,1,36132.87,Cairo,36132.87
+11631,2025-04-24,Khaled,Home,Air Purifier,1,5270.16,Ismailia,5270.16
+10529,2025-01-06,Mariam,Electronics,Tablet,2,21854.71,Cairo,43709.42
+10347,2025-07-28,Laila,Home,Desk Lamp,3,495.75,Mansoura,1487.25
+11768,2025-07-28,Farah,Accessories,Phone Stand,2,181.76,Qalyubia,363.52
+11976,2025-06-28,Laila,Gaming,Gaming Chair,3,4749.6,Qalyubia,14248.8
+10819,2025-11-21,Adam,Electronics,Headphones,3,2572.58,Cairo,7717.74
+11988,2025-04-25,Nour,Accessories,Webcam,2,2780.2,Suez,5560.4
+11620,2025-08-14,Karim,Home,Coffee Maker,4,4484.15,Cairo,17936.6
+10602,2025-12-21,Omar,Electronics,Headphones,5,6967.04,Tanta,34835.2
+11630,2025-02-28,Laila,Accessories,Mouse,5,698.33,Alexandria,3491.65
+10244,2025-05-20,Nada,Accessories,Webcam,1,1399.7,Giza,1399.7
+11456,2025-02-07,Menna,Gaming,Gaming Chair,3,8078.9,Giza,24236.7
+11113,2025-12-30,Adam,Electronics,Tablet,1,14011.06,Cairo,14011.06
+11487,2025-12-02,Salma,Accessories,Webcam,3,1926.97,Mansoura,5780.91
+10313,2025-01-10,Nour,Electronics,Laptop,1,29711.81,Cairo,29711.81
+10436,2025-01-21,Salma,Home,Desk Fan,1,590.59,Alexandria,590.59
+11914,2025-09-26,Farah,Accessories,USB Hub,1,1133.17,Mansoura,1133.17
+10943,2025-01-24,Farah,Home,Desk Lamp,1,953.99,Tanta,953.99
+10309,2025-12-07,Ahmed,Home,Air Purifier,4,4278.58,Giza,17114.32
+10431,2025-11-03,Mariam,Electronics,Tablet,1,19877.01,Giza,19877.01
+10661,2025-08-24,Menna,Accessories,Phone Stand,1,406.7,Giza,406.7
+10371,2025-08-11,Farah,Electronics,Laptop,1,41164.79,Cairo,41164.79
+10567,2025-12-31,Mohamed,Accessories,Phone Stand,5,641.92,Giza,3209.6
+10989,2025-11-17,Nada,Electronics,Headphones,2,1319.09,Alexandria,2638.18
+10182,2025-04-22,Salma,Electronics,Monitor,1,7050.72,Mansoura,7050.72
+10875,2025-03-11,Laila,Electronics,Smartphone,3,29869.8,Mansoura,89609.4
+10622,2025-09-04,Ahmed,Electronics,Laptop,1,19800.73,Suez,19800.73
+11394,2025-02-24,Khaled,Accessories,Mouse,2,1394.16,Cairo,2788.32
+11201,2025-05-15,Menna,Home,Desk Lamp,1,808.98,Cairo,808.98
+11563,2025-06-01,Mohamed,Home,Office Chair,3,5115.42,Cairo,15346.26
+11432,2025-06-05,Omar,Accessories,Keyboard,3,956.67,Suez,2870.01
+11855,2025-11-21,Nada,Gaming,Gaming Chair,3,8835.5,Cairo,26506.5
+10931,2025-03-25,Ali,Electronics,Tablet,2,14997.59,Ismailia,29995.18
+11081,2025-01-03,Ahmed,Home,Office Chair,3,4477.57,Giza,13432.71
+10297,2025-11-20,Sara,Home,Desk Fan,3,1133.17,Giza,3399.51
+10910,2025-11-26,Mariam,Accessories,Webcam,2,2612.65,Giza,5225.3
+10462,2025-04-23,Hana,Home,Desk Lamp,2,493.76,Cairo,987.52
+11565,2025-10-31,Nour,Gaming,Gaming Headset,2,3501.91,Giza,7003.82
+11575,2025-05-16,Amr,Electronics,Monitor,2,15861.77,Cairo,31723.54
+10378,2025-06-05,Sara,Electronics,Headphones,1,3057.5,Tanta,3057.5
+10799,2025-05-07,Sara,Home,Coffee Maker,1,6022.87,Ismailia,6022.87
+11111,2025-06-28,Sara,Gaming,Gaming Mouse,1,1512.28,Suez,1512.28
+10106,2025-12-26,Hana,Electronics,Tablet,4,9994.19,Giza,39976.76
+10127,2025-05-15,Ahmed,Gaming,Gaming Keyboard,3,2233.44,Giza,6700.32
+11133,2025-05-13,Youssef,Electronics,Headphones,1,6144.87,Ismailia,6144.87
+11139,2025-09-20,Mohamed,Accessories,Webcam,2,2783.26,Qalyubia,5566.52
+11008,2025-08-17,Amr,Gaming,Gaming Mouse,4,712.27,Cairo,2849.08
+10356,2025-03-20,Aya,Home,Air Purifier,1,3697.19,Ismailia,3697.19
+11628,2025-06-10,Salma,Accessories,Keyboard,1,2341.05,Alexandria,2341.05
+10683,2025-07-06,Menna,Electronics,Tablet,3,9462.0,Mansoura,28386.0
+10820,2025-12-02,Hana,Electronics,Smartphone,1,22792.58,Suez,22792.58
+10880,2025-06-21,Adam,Electronics,Tablet,1,7168.69,Cairo,7168.69
+10210,2025-11-06,Nada,Electronics,Monitor,2,11857.58,Alexandria,23715.16
+11830,2025-11-19,Sara,Electronics,Laptop,1,18183.51,Mansoura,18183.51
+10141,2025-02-18,Ahmed,Gaming,Gaming Chair,1,8487.79,Ismailia,8487.79
+11448,2025-02-25,Mostafa,Gaming,Gaming Mouse,3,923.39,Qalyubia,2770.17
+11430,2025-04-03,Amr,Gaming,Gaming Mouse,3,2029.74,Ismailia,6089.22
+11925,2025-07-08,Omar,Home,Air Purifier,1,4763.5,Giza,4763.5
+11930,2025-01-27,Adam,Electronics,Smartphone,2,18990.06,Suez,37980.12
+11104,2025-02-22,Farah,Gaming,Gaming Mouse,2,1532.67,Alexandria,3065.34
+11978,2025-06-08,Menna,Accessories,Mouse,3,882.24,Qalyubia,2646.72
+11478,2025-10-29,Farah,Home,Desk Fan,4,581.87,Giza,2327.48
+10712,2025-01-29,Khaled,Accessories,Keyboard,2,1386.82,Qalyubia,2773.64
+11304,2025-08-07,Omar,Accessories,Webcam,2,1186.23,Alexandria,2372.46
+10942,2025-01-13,Menna,Accessories,Mouse,1,846.34,Cairo,846.34
+10980,2025-06-21,Mostafa,Accessories,Keyboard,2,1274.15,Giza,2548.3
+10011,2025-09-16,Salma,Electronics,Tablet,1,19529.96,Alexandria,19529.96
+11736,2025-05-05,Farah,Gaming,Gaming Keyboard,2,2676.92,Ismailia,5353.84
+11132,2025-08-19,Amr,Accessories,USB Hub,3,704.77,Mansoura,2114.31
+10283,2025-10-22,Aya,Accessories,Webcam,2,3231.02,Qalyubia,6462.04
+10811,2025-12-25,Salma,Gaming,Gaming Headset,3,3722.23,Ismailia,11166.69
+11465,2025-11-12,Farah,Gaming,Gaming Chair,4,12560.01,Ismailia,50240.04
+10292,2025-08-19,Khaled,Electronics,Tablet,2,10321.85,Ismailia,20643.7
+10755,2025-06-30,Youssef,Electronics,Smartphone,3,19078.03,Mansoura,57234.09
+10627,2025-07-09,Mostafa,Accessories,Webcam,2,1388.18,Mansoura,2776.36
+10953,2025-05-21,Mohamed,Electronics,Headphones,2,890.58,Ismailia,1781.16
+10870,2025-03-04,Mohamed,Gaming,Gaming Chair,2,10186.1,Qalyubia,20372.2
+10130,2025-01-02,Sara,Accessories,USB Hub,2,1192.11,Alexandria,2384.22
+11673,2025-12-19,Mohamed,Gaming,Game Controller,1,4326.27,Alexandria,4326.27
+10844,2025-11-16,Karim,Gaming,Gaming Chair,2,8370.52,Alexandria,16741.04
+10324,2025-09-08,Aya,Electronics,Laptop,1,26757.34,Alexandria,26757.34
+11325,2025-07-04,Adam,Gaming,Gaming Chair,3,9993.73,Giza,29981.19
+11421,2025-11-24,Amr,Electronics,Monitor,1,15046.32,Cairo,15046.32
+11782,2025-06-27,Aya,Gaming,Gaming Chair,1,6396.46,Alexandria,6396.46
+11879,2025-05-13,Hana,Electronics,Monitor,1,13022.79,Suez,13022.79
+10874,2025-10-12,Youssef,Accessories,USB Hub,2,980.47,Qalyubia,1960.94
+11602,2025-05-08,Mohamed,Electronics,Headphones,3,6526.72,Tanta,19580.16
+10696,2025-12-24,Salma,Home,Desk Lamp,1,447.89,Cairo,447.89
+10216,2025-03-20,Aya,Electronics,Smartphone,1,13281.56,Tanta,13281.56
+11377,2025-01-13,Ali,Accessories,Phone Stand,3,367.68,Tanta,1103.04
+11271,2025-01-25,Amr,Home,Air Purifier,3,9430.55,Mansoura,28291.65
+10159,2025-02-22,Nour,Electronics,Monitor,1,8994.76,Tanta,8994.76
+11340,2025-05-20,Mostafa,Electronics,Laptop,2,36668.23,Alexandria,73336.46
+11049,2025-07-28,Nour,Gaming,Game Controller,2,4510.76,Mansoura,9021.52
+10842,2025-10-16,Omar,Home,Air Purifier,2,4989.9,Alexandria,9979.8
+10635,2025-07-10,Ahmed,Electronics,Laptop,1,42128.15,Tanta,42128.15
+10517,2025-04-27,Farah,Accessories,USB Hub,1,1015.68,Cairo,1015.68
+11690,2025-03-06,Khaled,Home,Desk Fan,1,1413.46,Qalyubia,1413.46
+11532,2025-03-16,Mostafa,Home,Desk Lamp,3,469.95,Alexandria,1409.85
+10598,2025-05-29,Khaled,Electronics,Smartphone,1,20598.14,Alexandria,20598.14
+10196,2025-12-26,Adam,Electronics,Laptop,1,20042.85,Alexandria,20042.85
+11655,2025-04-15,Salma,Electronics,Laptop,1,32476.2,Cairo,32476.2
+11647,2025-06-29,Mohamed,Electronics,Monitor,1,15163.52,Tanta,15163.52
+10411,2025-12-17,Ali,Electronics,Smartphone,3,14520.62,Giza,43561.86
+10097,2025-08-30,Mostafa,Accessories,USB Hub,1,597.59,Cairo,597.59
+11010,2025-05-05,Farah,Accessories,Webcam,2,3272.39,Mansoura,6544.78
+11938,2025-11-04,Salma,Gaming,Gaming Headset,1,2996.75,Tanta,2996.75
+10157,2025-04-23,Karim,Home,Air Purifier,2,7878.4,Tanta,15756.8
+10420,2025-06-06,Karim,Home,Office Chair,1,6301.45,Mansoura,6301.45
+11817,2025-05-12,Youssef,Electronics,Headphones,1,6311.88,Tanta,6311.88
+10478,2025-01-20,Mariam,Accessories,Phone Stand,5,680.1,Tanta,3400.5
+11870,2025-03-26,Amr,Home,Desk Fan,3,1388.79,Giza,4166.37
+10669,2025-02-20,Mariam,Electronics,Smartphone,4,,Alexandria,
+11814,2025-02-10,Karim,Electronics,Monitor,2,13661.72,Qalyubia,27323.44
+11911,2025-12-16,Laila,Electronics,Laptop,5,18731.19,Giza,93655.95
+11730,2025-10-26,Amr,Home,Office Chair,1,8688.94,Qalyubia,8688.94
+10448,2025-09-08,Nada,Home,Air Purifier,1,8212.57,Tanta,8212.57
+10554,2025-06-16,Nada,Accessories,Phone Stand,3,424.43,Cairo,1273.29
+10179,2025-10-29,Khaled,Gaming,Gaming Headset,1,2560.48,Suez,2560.48
+10391,2025-09-10,Mostafa,Gaming,Gaming Mouse,5,1099.21,Cairo,5496.05
+10579,2025-05-23,Laila,Accessories,USB Hub,1,326.99,Giza,326.99
+11865,2025-07-10,Menna,Gaming,Gaming Headset,1,3036.54,Alexandria,3036.54
+11720,2025-06-29,Mostafa,Electronics,Smartphone,1,18722.94,Giza,18722.94
+11371,2025-10-16,Nada,Gaming,Gaming Mouse,5,1773.58,Alexandria,8867.9
+11656,2025-05-07,Salma,Gaming,Gaming Headset,2,3869.45,Mansoura,7738.9
+10907,2025-02-27,Mostafa,Gaming,Gaming Headset,1,2269.22,Cairo,2269.22
+10821,2025-05-23,Mohamed,Gaming,Gaming Mouse,1,1005.77,Ismailia,1005.77
+11839,2025-11-08,Hana,Gaming,Game Controller,2,4429.8,Cairo,8859.6
+10994,2025-07-11,Mostafa,Accessories,Mouse,1,485.42,Cairo,485.42
+11056,2025-03-31,Adam,Accessories,Webcam,2,2475.83,Giza,4951.66
+10665,2025-11-10,Mohamed,Electronics,Headphones,1,3895.68,Cairo,3895.68
+10143,2025-07-10,Mostafa,Accessories,Webcam,1,1149.24,Cairo,1149.24
+11636,2025-01-12,Youssef,Electronics,Laptop,2,33584.83,Ismailia,67169.66
+11733,2025-04-07,Khaled,Accessories,USB Hub,1,808.25,Giza,808.25
+10865,2025-12-16,Salma,Accessories,Keyboard,1,2410.11,Cairo,2410.11
+10422,2025-07-04,Ali,Home,Desk Lamp,4,1504.28,Qalyubia,6017.12
+10637,2025-08-26,Ali,Accessories,Webcam,1,3232.43,Qalyubia,3232.43
+11484,2025-09-20,Ahmed,Electronics,Tablet,3,10733.54,Tanta,32200.62
+10800,2025-06-24,Youssef,Gaming,Gaming Mouse,2,2324.97,Mansoura,4649.94
+11074,2025-04-27,Laila,Electronics,Tablet,1,20852.31,Cairo,20852.31
+10616,2025-10-15,Mariam,Gaming,Gaming Chair,2,6778.45,Alexandria,13556.9
+10295,2025-10-24,Mohamed,Electronics,Headphones,1,3680.6,Cairo,3680.6
+10932,2025-01-15,Farah,Gaming,Gaming Headset,4,2264.31,Giza,9057.24
+10938,2025-10-15,Adam,Gaming,Gaming Headset,1,2309.68,Giza,2309.68
+11918,2025-05-21,Laila,Accessories,Mouse,2,941.56,Tanta,1883.12
+10089,2025-06-21,Nada,Gaming,Gaming Headset,1,1222.1,Giza,1222.1
+10042,2025-09-19,Ahmed,Accessories,Mouse,3,1109.22,Giza,3327.66
+11816,2025-09-03,Khaled,Gaming,Gaming Chair,2,7229.9,Alexandria,14459.8
+11949,2025-10-15,Sara,Electronics,Headphones,1,2456.29,Giza,2456.29
+10132,2025-11-30,Ali,Electronics,Monitor,1,17787.84,Mansoura,17787.84
+11011,2025-06-21,Salma,Electronics,Headphones,4,5834.88,Suez,23339.52
+10999,2025-05-29,Mohamed,Gaming,Game Controller,1,2827.1,Suez,2827.1
+11512,2025-08-15,Amr,Home,Desk Fan,5,1807.57,Ismailia,9037.85
+11869,2025-02-19,Laila,Electronics,Laptop,5,29295.34,Suez,146476.7
+11354,2025-03-11,Hana,Home,Desk Fan,1,2082.57,Mansoura,2082.57
+11510,2025-07-28,Laila,Home,Office Chair,1,8095.19,Cairo,8095.19
+10165,2025-01-31,Omar,Electronics,Tablet,1,17405.1,Mansoura,17405.1
+10725,2025-03-28,Ahmed,Accessories,Phone Stand,1,366.77,Alexandria,366.77
+10291,2025-09-18,Aya,Electronics,Tablet,4,9459.83,Qalyubia,37839.32
+11829,2025-10-03,Aya,Home,Coffee Maker,2,5411.38,Qalyubia,10822.76
+11547,2025-04-09,Hana,Gaming,Game Controller,5,1240.09,Giza,6200.45
+11912,2025-10-09,Omar,Gaming,Gaming Chair,1,8492.68,Qalyubia,8492.68
+11028,2025-04-18,Mostafa,Gaming,Gaming Keyboard,1,4256.48,Giza,4256.48
+11792,2025-05-11,Menna,Home,Desk Fan,3,787.09,Giza,2361.27
+10779,2025-09-14,Amr,Home,Desk Lamp,4,1413.44,Alexandria,5653.76
+10840,2025-06-01,Mostafa,Home,Coffee Maker,3,4732.33,Alexandria,14196.99
+10349,2025-12-10,Laila,Accessories,Keyboard,1,1328.73,Tanta,1328.73
+11960,2025-06-28,Karim,Home,Air Purifier,2,3501.51,Mansoura,7003.02
+10572,2025-04-26,Adam,Home,Office Chair,2,4996.28,Suez,9992.56
+10918,2025-02-15,Mostafa,Gaming,Gaming Mouse,1,888.42,Mansoura,888.42
+10986,2025-06-10,Karim,Accessories,Keyboard,1,2356.57,Mansoura,2356.57
+11902,2025-06-22,Sara,Electronics,Monitor,1,11970.17,Alexandria,11970.17
+11777,2025-01-20,Mostafa,Home,Desk Fan,2,2203.69,Ismailia,4407.38
+11603,2025-12-09,Farah,Electronics,Laptop,3,44932.99,Mansoura,134798.97
+11327,2025-03-07,Amr,Electronics,Laptop,2,42036.39,Qalyubia,84072.78
+11859,2025-06-15,Laila,Gaming,Game Controller,1,1540.35,Giza,1540.35
+10137,2025-07-11,Adam,Accessories,Webcam,2,1295.97,Qalyubia,2591.94
+10459,2025-03-12,Mostafa,Electronics,Tablet,2,5400.05,Alexandria,10800.1
+10376,2025-02-01,Sara,Electronics,Smartphone,2,13453.21,Alexandria,26906.42
+11352,2025-11-25,Ahmed,Accessories,Webcam,1,3015.52,Cairo,3015.52
+10334,2025-04-23,Adam,Electronics,Monitor,1,14922.65,Cairo,14922.65
+11316,2025-11-14,Adam,Home,Coffee Maker,1,4698.6,Cairo,4698.6
+11344,2025-05-11,Amr,Home,Office Chair,1,3737.19,Alexandria,3737.19
+11774,2025-08-17,Aya,Gaming,Gaming Mouse,3,863.01,Cairo,2589.03
+11469,2025-02-10,Salma,Gaming,Gaming Headset,2,1278.88,Alexandria,2557.76
+10817,2025-12-03,Menna,Accessories,Webcam,1,3291.35,Qalyubia,3291.35
+11436,2025-09-04,Nour,Electronics,Headphones,3,4099.78,Tanta,12299.34
+11672,2025-07-17,Omar,Gaming,Game Controller,1,1436.38,Qalyubia,1436.38
+11871,2025-07-02,Omar,Gaming,Gaming Keyboard,2,2200.83,Giza,4401.66
+10985,2025-01-09,Adam,Home,Office Chair,3,6923.12,Mansoura,20769.36
+11927,2025-02-23,Nada,Accessories,Keyboard,3,1719.65,Mansoura,5158.95
+10911,2025-06-16,Salma,Accessories,Phone Stand,5,250.51,Ismailia,1252.55
+11945,2025-07-04,Ali,Home,Air Purifier,1,6887.76,Suez,6887.76
+11134,2025-05-05,Mostafa,Electronics,Headphones,2,1453.51,Alexandria,2907.02
+10329,2025-05-04,Hana,Accessories,Phone Stand,2,392.32,Cairo,784.64
+11922,2025-11-24,Youssef,Electronics,Monitor,5,6289.75,Mansoura,31448.75
+10319,2025-10-12,Omar,Electronics,Smartphone,2,27455.81,Cairo,54911.62
+11541,2025-07-21,Mariam,Home,Desk Lamp,2,1427.66,Qalyubia,2855.32
+11369,2025-08-30,Karim,Electronics,Laptop,2,23916.4,Alexandria,47832.8
+11746,2025-01-10,Mostafa,Accessories,Webcam,4,1350.26,Mansoura,5401.04
+10168,2025-12-23,Adam,Electronics,Smartphone,1,26988.98,Giza,26988.98
+10013,2025-07-08,Aya,Gaming,Gaming Headset,1,4417.04,Ismailia,4417.04
+11942,2025-05-23,Mohamed,Electronics,Smartphone,1,29979.09,Alexandria,29979.09
+10172,2025-02-03,Salma,Electronics,Headphones,4,1524.93,Giza,6099.72
+10650,2025-06-22,Menna,Accessories,Webcam,1,2421.55,Alexandria,2421.55
+11069,2025-12-27,Amr,Accessories,Mouse,2,1145.63,Alexandria,2291.26
+10261,2025-02-22,Farah,Home,Coffee Maker,1,4317.65,Ismailia,4317.65
+11222,2025-12-19,Omar,Electronics,Smartphone,2,12670.28,Alexandria,25340.56
+11420,2025-01-04,Nour,Gaming,Gaming Chair,1,11398.68,Mansoura,11398.68
+10902,2025-03-31,Mohamed,Electronics,Headphones,1,3356.9,Alexandria,3356.9
+10673,2025-05-11,Laila,Electronics,Laptop,2,34577.45,Cairo,69154.9
+10259,2025-03-24,Hana,Accessories,Webcam,4,1249.55,Alexandria,4998.2
+10845,2025-10-13,Mohamed,Electronics,Headphones,2,4692.02,Alexandria,9384.04
+10868,2025-04-03,Karim,Electronics,Headphones,2,3649.8,Suez,7299.6
+11203,2025-02-01,Mariam,Electronics,Smartphone,2,29863.25,Suez,59726.5
+10139,2025-05-28,Menna,Accessories,USB Hub,1,509.3,Cairo,509.3
+10894,2025-02-05,Karim,Accessories,Keyboard,1,545.22,Cairo,545.22
+11852,2025-04-21,Khaled,Gaming,Game Controller,3,3773.15,Tanta,11319.45
+10550,2025-01-14,Youssef,Home,Office Chair,2,3320.76,Cairo,6641.52
+10320,2025-04-29,Amr,Electronics,Laptop,3,33103.95,Suez,99311.85
+11538,2025-08-24,Farah,Home,Office Chair,1,3932.07,Cairo,3932.07
+11245,2025-11-14,Laila,Home,Air Purifier,1,8448.46,Giza,8448.46
+11186,2025-07-14,Hana,Gaming,Gaming Mouse,1,2485.4,Qalyubia,2485.4
+10559,2025-02-21,Hana,Home,Desk Fan,1,1097.57,Mansoura,1097.57
+10140,2025-03-30,Mariam,Gaming,Gaming Mouse,1,1314.57,Giza,1314.57
+11748,2025-08-03,Nada,Electronics,Laptop,5,39442.92,Tanta,197214.6
+10532,2025-12-15,Mariam,Gaming,Game Controller,1,4978.78,Mansoura,4978.78
+10225,2025-08-22,Khaled,Electronics,Tablet,2,16708.96,Mansoura,33417.92
+10724,2025-09-12,Salma,Home,Desk Fan,1,1151.37,Cairo,1151.37
+10787,2025-11-01,Mohamed,Accessories,Phone Stand,4,256.79,Giza,1027.16
+11731,2025-02-03,Omar,Electronics,Tablet,2,19001.98,Giza,38003.96
+11683,2025-04-02,Karim,Home,Coffee Maker,1,6852.93,Qalyubia,6852.93
+10410,2025-02-25,Menna,Electronics,Tablet,2,8546.0,Cairo,17092.0
+10326,2025-08-17,Mostafa,Home,Office Chair,3,3870.76,Tanta,11612.28
+11107,2025-04-24,Ahmed,Accessories,Mouse,2,894.59,Mansoura,1789.18
+10300,2025-03-19,Ali,Electronics,Monitor,2,8407.56,Alexandria,16815.12
+11272,2025-07-21,Hana,Gaming,Game Controller,3,4317.23,Giza,12951.69
+11526,2025-04-17,Nada,Electronics,Smartphone,1,14380.97,Alexandria,14380.97
+10026,2025-05-31,Ali,Home,Desk Fan,1,1958.93,Cairo,1958.93
+11873,2025-01-04,Mohamed,Accessories,Keyboard,4,1153.19,Mansoura,4612.76
+10715,2025-05-28,Adam,Electronics,Tablet,2,10355.18,Alexandria,20710.36
+11019,2025-10-29,Amr,Gaming,Game Controller,1,1297.17,Alexandria,1297.17
+10194,2025-09-29,Laila,Home,Air Purifier,2,8349.91,Alexandria,16699.82
+10441,2025-08-02,Youssef,Electronics,Monitor,4,17856.59,Giza,71426.36
+10574,2025-01-04,Youssef,Home,Desk Fan,1,2477.67,Mansoura,2477.67
+10947,2025-11-14,Mariam,Electronics,Smartphone,1,26293.9,Ismailia,26293.9
+10998,2025-09-30,Nada,Electronics,Smartphone,1,29234.61,Qalyubia,29234.61
+10504,2025-04-13,Karim,Gaming,Gaming Chair,4,5263.86,Alexandria,21055.44
+10606,2025-04-28,Omar,Accessories,Mouse,4,1439.62,Alexandria,5758.48
+11888,2025-12-27,Hana,Electronics,Tablet,1,12551.13,Suez,12551.13
+11899,2025-06-22,Hana,Accessories,Webcam,4,1928.09,Qalyubia,7712.36
+11801,2025-01-01,Nour,Gaming,Game Controller,1,2127.76,Suez,2127.76
+10847,2025-11-25,Adam,Electronics,Laptop,4,40781.39,Alexandria,163125.56
+10004,2025-12-31,Khaled,Accessories,Keyboard,5,2226.17,Giza,11130.85
+11158,2025-03-18,Omar,Gaming,Gaming Headset,5,1324.66,Qalyubia,6623.3
+11231,2025-09-25,Nada,Gaming,Gaming Chair,4,12784.16,Tanta,51136.64
+10468,2025-11-02,Amr,Gaming,Gaming Mouse,1,1586.02,Giza,1586.02
+10322,2025-12-19,Adam,Home,Air Purifier,4,7846.34,Tanta,31385.36
+10006,2025-09-30,Ahmed,Electronics,Laptop,3,44196.35,Ismailia,132589.05
+11385,2025-12-25,Hana,Home,Coffee Maker,1,5167.02,Alexandria,5167.02
+10548,2025-09-07,Nour,Home,Coffee Maker,3,6104.95,Qalyubia,18314.85
+10229,2025-10-05,Amr,Gaming,Game Controller,1,4604.36,Cairo,4604.36
+10543,2025-07-30,Farah,Electronics,Headphones,1,1592.2,Cairo,1592.2
+10243,2025-08-08,Omar,Gaming,Gaming Mouse,1,2106.71,Tanta,2106.71
+10899,2025-09-26,Laila,Electronics,Monitor,1,13790.75,Giza,13790.75
+11477,2025-11-30,Farah,Gaming,Gaming Keyboard,1,4012.3,Tanta,4012.3
+11555,2025-08-06,Laila,Electronics,Laptop,2,32508.19,Qalyubia,65016.38
+11305,2025-10-29,Mariam,Home,Desk Lamp,1,1118.24,Qalyubia,1118.24
+10843,2025-06-25,Mostafa,Electronics,Headphones,1,5646.12,Alexandria,5646.12
+11429,2025-08-25,Sara,Home,Desk Lamp,1,1692.9,Qalyubia,1692.9
+11876,2025-11-30,Nada,Accessories,Webcam,3,865.31,Qalyubia,2595.93
+11985,2025-03-21,Mariam,Electronics,Laptop,1,32558.16,Tanta,32558.16
+10662,2025-06-08,Menna,Gaming,Gaming Chair,1,4767.23,Cairo,4767.23
+11633,2025-08-08,Adam,Home,Desk Lamp,5,477.36,Cairo,2386.8
+10315,2025-10-29,Sara,Gaming,Gaming Mouse,2,1685.45,Ismailia,3370.9
+10692,2025-12-16,Amr,Accessories,Mouse,1,1332.21,Qalyubia,1332.21
+11515,2025-11-17,Menna,Electronics,Headphones,2,6285.81,Giza,12571.62
+10425,2025-04-22,Ahmed,Electronics,Headphones,3,2937.87,Suez,8813.61
+10595,2025-10-14,Karim,Gaming,Gaming Mouse,1,2029.31,Mansoura,2029.31
+11979,2025-06-03,Sara,Gaming,Gaming Headset,1,2391.13,Qalyubia,2391.13
+10623,2025-09-05,Nada,Accessories,Keyboard,4,500.99,Cairo,2003.96
+11179,2025-07-22,Khaled,Home,Air Purifier,1,8940.71,Ismailia,8940.71
+11051,2025-01-07,Menna,Gaming,Gaming Keyboard,2,3784.61,Qalyubia,7569.22
+10228,2025-08-23,Mostafa,Accessories,Phone Stand,1,192.04,Mansoura,192.04
+11126,2025-12-07,Youssef,Accessories,Phone Stand,2,321.36,Alexandria,642.72
+11341,2025-03-23,Ali,Electronics,Tablet,2,9449.77,Qalyubia,18899.54
+11106,2025-02-18,Mariam,Electronics,Smartphone,1,10681.54,Cairo,10681.54
+10067,2025-08-05,Youssef,Electronics,Laptop,2,24122.01,Cairo,48244.02
+10025,2025-10-12,Nour,Accessories,USB Hub,4,570.61,Cairo,2282.44
+10145,2025-03-28,Youssef,Electronics,Tablet,1,6021.64,Tanta,6021.64
+10537,2025-03-26,Nada,Gaming,Game Controller,1,3408.54,Cairo,3408.54
+10812,2025-06-02,Khaled,Gaming,Gaming Mouse,2,998.93,Cairo,1997.86
+11558,2025-08-07,Salma,Accessories,Phone Stand,1,299.35,Qalyubia,299.35
+10086,2025-01-13,Youssef,Electronics,Tablet,1,16825.62,Tanta,16825.62
+11318,2025-03-24,Nour,Home,Air Purifier,1,4301.65,Cairo,4301.65
+11190,2025-09-11,Karim,Home,Coffee Maker,1,2517.06,Giza,2517.06
+11819,2025-05-03,Adam,Home,Coffee Maker,1,2451.63,Giza,2451.63
+11832,2025-03-07,Amr,Home,Coffee Maker,2,4327.45,Mansoura,8654.9
+11779,2025-12-01,Hana,Electronics,Smartphone,2,8300.56,Qalyubia,16601.12
+11880,2025-04-10,Menna,Accessories,USB Hub,1,423.72,Tanta,423.72
+10363,2025-09-01,Khaled,Accessories,Webcam,1,1367.1,Giza,1367.1
+11623,2025-11-29,Omar,Accessories,Phone Stand,3,476.18,Alexandria,1428.54
+11161,2025-03-03,Farah,Gaming,Gaming Chair,2,10865.14,Alexandria,21730.28
+11027,2025-10-01,Ahmed,Gaming,Gaming Chair,1,9459.24,Tanta,9459.24
+11031,2025-02-17,Salma,Electronics,Smartphone,2,14021.37,Alexandria,28042.74
+11226,2025-01-26,Amr,Home,Office Chair,2,2593.48,Alexandria,5186.96
+11365,2025-07-26,Farah,Home,Office Chair,2,5517.33,Suez,11034.66
+11095,2025-07-06,Karim,Electronics,Smartphone,1,20817.83,Ismailia,20817.83
+10666,2025-10-28,Karim,Electronics,Monitor,4,5488.72,Giza,21954.88
+10365,2025-03-09,Amr,Gaming,Gaming Chair,2,6777.19,Mansoura,13554.38
+10078,2025-02-13,Ahmed,Electronics,Tablet,2,17813.48,Cairo,35626.96
+10028,2025-09-23,Nada,Accessories,Keyboard,2,1109.06,Mansoura,2218.12
+11447,2025-08-31,Youssef,Home,Office Chair,1,6287.46,Alexandria,6287.46
+10526,2025-08-09,Omar,Accessories,Webcam,2,3102.73,Cairo,6205.46
+11849,2025-12-06,Nada,,Game Controller,4,2786.09,Mansoura,11144.36
+10056,2025-06-15,Youssef,Gaming,Gaming Chair,1,11604.24,Giza,11604.24
+10639,2025-03-15,Nour,Electronics,Monitor,2,13806.05,Qalyubia,27612.1
+10303,2025-10-07,Menna,Accessories,Phone Stand,1,369.03,Qalyubia,369.03
+10719,2025-10-27,Aya,Electronics,Headphones,3,2703.23,Tanta,8109.69
+10625,2025-07-17,Menna,Home,Desk Lamp,1,1698.82,Ismailia,1698.82
+10008,2025-05-29,Salma,Gaming,Gaming Headset,2,3966.41,Cairo,7932.82
+10804,2025-10-06,Sara,Home,Coffee Maker,1,4740.68,Cairo,4740.68
+11050,2025-06-09,Ahmed,Electronics,Headphones,1,2594.53,Mansoura,2594.53
+10337,2025-09-03,Omar,Gaming,Gaming Headset,1,2838.6,Alexandria,2838.6
+10048,2025-07-30,Aya,Accessories,Mouse,2,1195.41,Cairo,2390.82
+11491,2025-05-07,Aya,Electronics,Smartphone,1,18049.99,Cairo,18049.99
+10107,2025-10-15,Ahmed,Accessories,Webcam,1,720.35,Qalyubia,720.35
+10350,2025-06-01,Hana,Home,Desk Lamp,1,1495.82,Cairo,1495.82
+11080,2025-02-22,Salma,Gaming,Game Controller,2,1739.58,Cairo,3479.16
+10239,2025-10-21,Sara,Home,Air Purifier,1,3870.04,Alexandria,3870.04
+10214,2025-09-17,Aya,Electronics,Tablet,1,5540.23,Tanta,5540.23
+11262,2025-10-29,Ali,Home,Desk Lamp,2,1017.24,Cairo,2034.48
+11147,2025-04-28,Amr,Home,Desk Fan,4,646.01,Cairo,2584.04
+10794,2025-07-20,Aya,Home,Office Chair,3,3811.97,Ismailia,11435.91
+11097,2025-08-01,Laila,Electronics,Headphones,2,6451.39,Ismailia,12902.78
+10869,2025-09-17,Mostafa,Gaming,Gaming Keyboard,5,3430.01,Qalyubia,17150.05
+11594,2025-11-24,Nada,Electronics,Headphones,2,3560.7,Cairo,7121.4
+11685,2025-11-17,Khaled,Electronics,Laptop,2,18257.67,Cairo,36515.34
+10524,2025-04-15,Farah,Gaming,Gaming Chair,4,5274.86,Qalyubia,21099.44
+10233,2025-06-10,Sara,Accessories,USB Hub,5,779.45,Alexandria,3897.25
+10645,2025-04-24,Adam,Electronics,Smartphone,1,28330.37,Cairo,28330.37
+11519,2025-11-01,Menna,Electronics,Tablet,2,19765.47,Giza,39530.94
+10534,2025-09-16,Laila,Accessories,Keyboard,3,1046.56,Mansoura,3139.68
+11520,2025-10-05,Salma,Gaming,Gaming Chair,1,9646.4,Tanta,9646.4
+10604,2025-08-04,Omar,Electronics,Tablet,2,18265.91,Mansoura,36531.82
+11443,2025-01-31,Amr,Home,Coffee Maker,2,2460.24,Giza,4920.48
+11075,2025-10-31,Aya,Gaming,Gaming Headset,1,4735.46,Alexandria,4735.46
+11314,2025-12-10,Adam,Gaming,Gaming Chair,3,5114.88,Mansoura,15344.64
+10061,2025-07-28,Mostafa,Accessories,Webcam,4,2653.55,Qalyubia,10614.2
+11273,2025-09-30,Ahmed,Home,Coffee Maker,1,4590.25,Cairo,4590.25
+10093,2025-09-10,Hana,Home,Coffee Maker,1,4560.51,Mansoura,4560.51
+10667,2025-10-09,Mariam,Electronics,Monitor,2,5597.96,Mansoura,11195.92
+10281,2025-02-09,Khaled,Gaming,Gaming Headset,1,3225.31,Giza,3225.31
+11122,2025-10-03,Ali,Gaming,Game Controller,1,1375.04,Mansoura,1375.04
+10360,2025-03-28,Karim,Accessories,Phone Stand,5,606.58,Cairo,3032.9
+11754,2025-01-21,Adam,Electronics,Monitor,1,17193.2,Cairo,17193.2
+11178,2025-12-15,Ali,Electronics,Monitor,1,11485.25,Ismailia,11485.25
+10848,2025-12-31,Mohamed,Gaming,Gaming Headset,3,2299.69,Giza,6899.07
+11388,2025-02-17,Mohamed,Electronics,Monitor,1,4752.95,Alexandria,4752.95
+10111,2025-02-19,Salma,Electronics,Smartphone,1,12230.82,Qalyubia,12230.82
+10043,2025-03-08,Aya,Electronics,Headphones,1,2036.93,Tanta,2036.93
+10126,2025-05-17,Salma,Accessories,Keyboard,1,698.74,Suez,698.74
+10205,2025-07-14,Mariam,Home,Coffee Maker,2,6249.06,Qalyubia,12498.12
+10053,2025-04-27,Omar,Gaming,Gaming Mouse,1,2090.53,Tanta,2090.53
+10546,2025-05-11,Farah,Accessories,USB Hub,2,900.39,Suez,1800.78
+10069,2025-03-10,Mariam,Electronics,Headphones,2,3703.65,Alexandria,7407.3
+11145,2025-01-22,Salma,Electronics,Monitor,2,8307.84,Tanta,16615.68
+11559,2025-10-01,Youssef,Gaming,Gaming Headset,1,2264.86,Alexandria,2264.86
+10184,2025-12-19,Ali,Gaming,Gaming Headset,2,3325.67,Cairo,6651.34
+10138,2025-05-22,Mostafa,Home,Desk Lamp,1,1365.2,Tanta,1365.2
+10900,2025-06-14,Mariam,Electronics,Laptop,1,26925.15,Cairo,26925.15
+10797,2025-05-26,Amr,Gaming,Gaming Mouse,1,2351.58,Mansoura,2351.58
+10133,2025-02-01,Amr,Electronics,Headphones,1,6621.78,Cairo,6621.78
+10081,2025-03-19,Mariam,Gaming,Gaming Keyboard,1,2736.75,Alexandria,2736.75
+11494,2025-05-09,Farah,Electronics,Laptop,1,24894.54,Qalyubia,24894.54
+11552,2025-04-06,,Home,Air Purifier,2,8096.35,Cairo,16192.7
+10542,2025-09-05,Sara,Home,Office Chair,1,4617.85,Mansoura,4617.85
+11607,2025-12-09,Nour,Electronics,Smartphone,2,16780.77,Cairo,33561.54
+10984,2025-02-15,Mariam,Electronics,Headphones,5,3975.73,Ismailia,19878.65
+10166,2025-11-13,Mostafa,Gaming,Gaming Mouse,2,2392.4,Alexandria,4784.8
+10249,2025-10-12,Salma,Gaming,Gaming Headset,4,2683.04,Mansoura,10732.16
+10447,2025-09-07,Mostafa,Gaming,Gaming Mouse,3,1333.25,Qalyubia,3999.75
+11334,2025-06-05,Adam,Gaming,Gaming Keyboard,2,2236.34,Alexandria,4472.68
+10859,2025-01-11,Aya,Accessories,USB Hub,2,509.02,Suez,1018.04
+11395,2025-05-09,Omar,Electronics,Laptop,3,41138.04,Qalyubia,123414.12
+10098,2025-04-20,Mostafa,Accessories,Keyboard,3,1067.9,Giza,3203.7
+11989,2025-01-03,Sara,Accessories,USB Hub,3,808.95,Cairo,2426.85
+10738,2025-06-11,Khaled,Gaming,Gaming Keyboard,3,1242.59,Alexandria,3727.77
+11824,2025-08-19,Amr,Home,Coffee Maker,2,6019.64,Suez,12039.28
+10103,2025-04-06,Ali,Electronics,Tablet,3,12115.9,Qalyubia,36347.7
+10435,2025-11-16,Amr,Electronics,Smartphone,1,10323.01,Tanta,10323.01
+10075,2025-12-01,Ali,Home,Office Chair,1,8534.49,Qalyubia,8534.49
+11806,2025-03-28,Menna,Home,Desk Fan,1,762.82,Suez,762.82
+11339,2025-12-28,Mostafa,Electronics,Monitor,3,10823.38,Alexandria,32470.14
+10919,2025-01-18,Menna,,Desk Lamp,4,492.89,Suez,1971.56
+11887,2025-02-24,Farah,Electronics,Smartphone,2,27057.12,Mansoura,54114.24
+11684,2025-05-09,Ali,Gaming,Gaming Keyboard,1,1864.64,Cairo,1864.64
+11766,2025-10-06,Mohamed,Electronics,Laptop,1,19504.08,Mansoura,19504.08
+10763,2025-06-11,Mohamed,Electronics,Headphones,3,6171.01,Alexandria,18513.03
+10990,2025-04-16,Salma,Gaming,Gaming Headset,2,2543.76,Cairo,5087.52
+10389,2025-04-26,Sara,Home,Coffee Maker,1,3757.73,Cairo,3757.73
+10236,2025-01-26,Youssef,Home,Desk Lamp,2,837.5,Mansoura,1675.0
+11518,2025-11-18,Nada,Gaming,Game Controller,5,4974.41,Qalyubia,24872.05
+10268,2025-10-14,Menna,Home,Desk Lamp,2,1710.27,Cairo,3420.54
+11803,2025-09-20,Mohamed,Accessories,Webcam,2,3284.9,Ismailia,6569.8
+10118,2025-03-07,Salma,Electronics,Smartphone,1,15474.95,Tanta,15474.95
+11618,2025-09-05,Salma,Home,Desk Lamp,1,1575.76,Alexandria,1575.76
+10674,2025-09-27,Omar,Accessories,Webcam,4,2387.64,Mansoura,9550.56
+10250,2025-09-25,Mohamed,Gaming,Gaming Chair,1,10016.82,Cairo,10016.82
+11464,2025-01-17,Farah,Home,Desk Lamp,2,1060.03,Tanta,2120.06
+11725,2025-05-06,Youssef,Home,Coffee Maker,5,4510.18,Ismailia,22550.9
+10095,2025-07-26,Youssef,Home,Desk Lamp,5,1552.6,Giza,7763.0
+10034,2025-07-14,Youssef,Gaming,Gaming Keyboard,2,3143.48,Ismailia,6286.96
+11475,2025-11-12,Khaled,Electronics,Monitor,1,16074.85,Alexandria,16074.85
+11681,2025-11-08,Hana,Electronics,Monitor,1,11184.66,Tanta,11184.66
+10449,2025-10-06,Amr,Accessories,Webcam,1,2070.54,Qalyubia,2070.54
+10717,2025-12-16,Ahmed,Gaming,Gaming Keyboard,1,4222.1,Tanta,4222.1
+11274,2025-02-05,Nada,Electronics,Smartphone,1,22770.93,Tanta,22770.93
+11959,2025-02-22,Karim,Home,Air Purifier,1,9245.59,Tanta,9245.59
+10001,2025-06-11,Youssef,Accessories,USB Hub,4,734.64,Cairo,2938.56
+11386,2025-02-25,Adam,Electronics,Monitor,1,11153.59,Qalyubia,11153.59
+11102,2025-08-04,,Gaming,Game Controller,1,1852.07,Cairo,1852.07
+11109,2025-01-25,Ahmed,Home,Office Chair,1,5078.91,Qalyubia,5078.91
+11235,2025-10-28,Ali,Home,Coffee Maker,1,4757.22,Giza,4757.22
+10083,2025-01-30,Karim,Electronics,Monitor,1,16809.52,Suez,16809.52
+11951,2025-06-06,Amr,Electronics,Tablet,3,12406.43,Tanta,37219.29
+10677,2025-09-14,Youssef,Electronics,Monitor,1,10375.36,Cairo,10375.36
+11462,2025-07-03,Laila,Home,Office Chair,2,7533.73,Cairo,15067.46
+11047,2025-02-04,Salma,Electronics,Tablet,1,9005.59,Ismailia,9005.59
+10771,2025-04-26,Adam,Electronics,Laptop,4,39269.04,Giza,157076.16
+11224,2025-06-15,Karim,Gaming,Gaming Mouse,2,2205.56,Giza,4411.12
+11290,2025-09-14,Khaled,Electronics,Laptop,1,23215.32,Cairo,23215.32
+11592,2025-01-02,Menna,Gaming,Gaming Keyboard,1,4423.99,Suez,4423.99
+11972,2025-04-30,Mariam,Gaming,Game Controller,1,4198.57,Qalyubia,4198.57
+10405,2025-08-08,Laila,Electronics,Tablet,1,17368.0,Mansoura,17368.0
+11741,2025-01-05,Nour,Gaming,Gaming Keyboard,1,1580.7,Cairo,1580.7
+11308,2025-03-16,Hana,Gaming,Game Controller,2,2080.08,Mansoura,4160.16
+11711,2025-08-30,Laila,Electronics,Smartphone,1,10462.56,Giza,10462.56
+10105,2025-07-08,Mariam,Gaming,Gaming Keyboard,4,2296.28,Tanta,9185.12
+10689,2025-05-05,Khaled,Home,Desk Fan,2,1851.24,Cairo,3702.48
+11315,2025-04-09,Farah,Accessories,USB Hub,1,791.89,Qalyubia,791.89
+10827,2025-09-11,Mohamed,Electronics,Monitor,3,12114.67,Qalyubia,36344.01
+10063,2025-10-22,Mostafa,Gaming,Gaming Mouse,1,1913.92,Mansoura,1913.92
+10853,2025-10-02,Laila,Electronics,Tablet,1,15722.2,Cairo,15722.2
+11363,2025-01-08,Laila,Home,Office Chair,2,5018.53,Ismailia,10037.06
+10224,2025-09-04,Mohamed,Accessories,Webcam,1,999.87,Giza,999.87
+10146,2025-01-08,Youssef,Electronics,Monitor,1,16666.73,Cairo,16666.73
+11089,2025-12-13,Mostafa,Gaming,Game Controller,1,2085.68,Ismailia,2085.68
+10374,2025-07-11,Ali,Home,Air Purifier,1,,Tanta,
+11818,2025-10-24,Ali,Home,Office Chair,1,3544.12,Cairo,3544.12
+11143,2025-08-19,Karim,Home,Desk Fan,1,963.68,Alexandria,963.68
+11841,2025-07-09,Amr,Accessories,USB Hub,1,721.24,Qalyubia,721.24
+11506,2025-07-01,Nour,Accessories,Phone Stand,3,287.99,Cairo,863.97
+11613,2025-12-19,Farah,Accessories,Webcam,4,1582.56,Mansoura,6330.24
+11574,2025-11-05,Laila,Gaming,Gaming Headset,2,2771.32,Cairo,5542.64
+10010,2025-08-11,Youssef,Home,Desk Fan,1,763.31,Qalyubia,763.31
+10450,2025-06-20,Menna,Electronics,Tablet,1,15844.33,Giza,15844.33
+10709,2025-01-20,Omar,Electronics,Monitor,1,12601.6,Giza,12601.6
+10256,2025-09-30,Adam,Accessories,Mouse,1,764.77,Ismailia,764.77
+10883,2025-07-02,Sara,Electronics,Monitor,2,8239.62,Tanta,16479.24
+10390,2025-08-08,Farah,Gaming,Game Controller,1,1820.68,Tanta,1820.68
+10909,2025-04-16,Aya,Electronics,Tablet,5,6035.79,Cairo,30178.95
+10925,2025-12-01,Salma,Accessories,Mouse,2,444.33,Cairo,888.66
+11717,2025-04-17,Mariam,Electronics,Smartphone,2,19212.44,Qalyubia,38424.88
+11241,2025-05-31,Sara,Gaming,Gaming Mouse,1,1440.17,Tanta,1440.17
+10461,2025-10-12,Nour,Electronics,Monitor,1,7905.13,Giza,7905.13
+11279,2025-07-07,Sara,Electronics,Smartphone,1,20142.6,Giza,20142.6
+11714,2025-08-31,Sara,Accessories,Phone Stand,1,585.6,Cairo,585.6
+11169,2025-09-13,Menna,Electronics,Smartphone,1,25777.49,Tanta,25777.49
+10959,2025-09-17,Sara,Electronics,Tablet,3,9990.09,Alexandria,29970.27
+10502,2025-09-19,Sara,Accessories,USB Hub,2,814.43,Cairo,1628.86
+10740,2025-11-27,Youssef,Accessories,USB Hub,5,788.55,Mansoura,3942.75
+11864,2025-06-30,Ahmed,Accessories,Mouse,1,261.46,Alexandria,261.46
+10869,2025-09-17,Mostafa,Gaming,Gaming Keyboard,5,3430.01,Qalyubia,17150.05
+10732,2025-10-17,Laila,Gaming,Game Controller,1,4601.25,Qalyubia,4601.25
+10540,2025-07-18,Hana,Electronics,Smartphone,1,9796.68,Cairo,9796.68
+11202,2025-10-17,Karim,Electronics,Monitor,1,13924.59,Giza,13924.59
+10698,2025-01-25,Adam,Accessories,USB Hub,1,491.55,Cairo,491.55
+11403,2025-10-02,Farah,Electronics,Smartphone,1,19344.88,Giza,19344.88
+11387,2025-11-15,Salma,Home,Desk Fan,1,1357.53,Cairo,1357.53
+11146,2025-06-05,Mohamed,Gaming,Game Controller,1,2120.26,Giza,2120.26
+11032,2025-11-15,Nour,Accessories,USB Hub,3,1116.23,Giza,3348.69
+10373,2025-10-11,Nada,Electronics,Tablet,1,21094.85,Suez,21094.85
+10668,2025-04-12,Mostafa,Electronics,Smartphone,5,28703.06,Qalyubia,143515.3
+11537,2025-06-16,Karim,Electronics,Laptop,2,26569.5,Alexandria,53139.0
+10358,2025-11-26,Ali,Accessories,Mouse,3,369.05,Tanta,1107.15
+10968,2025-03-08,Aya,Electronics,Smartphone,1,8416.8,Mansoura,8416.8
+10784,2025-01-15,Nada,Electronics,Tablet,2,21191.06,Tanta,42382.12
+10736,2025-06-05,Hana,Gaming,Gaming Mouse,1,1315.33,Giza,1315.33
+11036,2025-09-11,Farah,Home,Coffee Maker,1,1795.75,Tanta,1795.75
+10971,2025-10-08,Adam,Home,Office Chair,2,3364.03,Giza,6728.06
+11600,2025-04-04,Omar,Gaming,Gaming Keyboard,1,1910.01,Mansoura,1910.01
+11498,2025-03-06,Salma,Accessories,Webcam,1,1952.13,Cairo,1952.13
+11703,2025-10-17,Ali,Electronics,Monitor,2,4658.82,Tanta,9317.64
+11360,2025-04-21,Khaled,Accessories,Webcam,1,1893.27,Tanta,1893.27
+11502,2025-06-07,Mohamed,Accessories,Webcam,2,1710.36,Mansoura,3420.72
+11654,2025-11-27,Salma,Accessories,USB Hub,3,591.73,Suez,1775.19
+11253,2025-09-30,Omar,Electronics,Laptop,2,36889.11,Cairo,73778.22
+11707,2025-02-04,Ali,Home,Air Purifier,1,9518.7,Qalyubia,9518.7
+11729,2025-11-03,Khaled,Gaming,Game Controller,3,2432.45,Qalyubia,7297.35
+11237,2025-04-25,Ahmed,Gaming,Gaming Mouse,1,1049.69,Alexandria,1049.69
+10886,2025-09-06,Mostafa,Electronics,Smartphone,2,20958.44,Mansoura,41916.88
+10080,2025-03-18,Laila,Electronics,Monitor,4,8704.1,Alexandria,34816.4
+11173,2025-10-21,Laila,Home,Coffee Maker,5,5803.75,Ismailia,29018.75
+10815,2025-10-01,Salma,Gaming,Gaming Headset,2,3915.14,Ismailia,7830.28
+11909,2025-10-15,Khaled,Electronics,Smartphone,1,23718.11,Mansoura,23718.11
+10672,2025-11-03,Karim,Gaming,Gaming Keyboard,1,1200.62,Suez,1200.62
+11543,2025-07-04,Mariam,Accessories,Phone Stand,3,558.89,Cairo,1676.67
+10058,2025-07-22,Sara,Electronics,Smartphone,3,23489.83,Giza,70469.49
+10134,2025-12-22,Ahmed,Electronics,Monitor,2,10339.39,Suez,20678.78
+11141,2025-01-06,Menna,Gaming,Gaming Keyboard,1,4091.44,Cairo,4091.44
+10934,2025-05-14,Hana,Accessories,USB Hub,4,1017.98,Tanta,4071.92
+11698,2025-01-12,Mariam,Electronics,Smartphone,2,10742.24,Cairo,21484.48
+10824,2025-10-31,Youssef,Accessories,Mouse,1,1437.26,Giza,1437.26
+11215,2025-11-19,Aya,Home,Coffee Maker,3,2152.63,Giza,6457.89
+10505,2025-04-30,Laila,Home,Office Chair,2,2680.99,Cairo,5361.98
+11789,2025-03-03,Omar,Electronics,Headphones,2,1962.53,Alexandria,3925.06
+10348,2025-11-14,Nada,Electronics,Laptop,2,33266.34,Qalyubia,66532.68
+10387,2025-05-14,Khaled,Electronics,Laptop,1,23250.09,Giza,23250.09
+11025,2025-03-03,Mostafa,Gaming,Game Controller,2,3479.88,Tanta,6959.76
+10895,2025-04-22,Nour,Home,Air Purifier,1,8706.24,Giza,8706.24
+10829,2025-06-25,Nour,Home,Desk Lamp,1,1782.81,Ismailia,1782.81
+11908,2025-05-13,Mohamed,Accessories,Phone Stand,4,450.78,Alexandria,1803.12
+10476,2025-06-21,Ali,Gaming,Gaming Chair,2,6878.31,Giza,13756.62
+11482,2025-10-19,Amr,Electronics,Tablet,5,10518.36,Cairo,52591.8
+11458,2025-03-20,Karim,Home,Office Chair,1,3386.41,Cairo,3386.41
+11407,2025-02-02,Hana,Gaming,Gaming Keyboard,2,3978.95,Cairo,7957.9
+10653,2025-02-19,Khaled,Accessories,Phone Stand,2,318.98,Mansoura,637.96
+10173,2025-08-31,Menna,Accessories,USB Hub,4,898.05,Alexandria,3592.2
+11150,2025-12-12,Ali,Gaming,Gaming Chair,3,6344.99,Ismailia,19034.97
+10039,2025-08-02,Karim,Home,Desk Lamp,2,864.8,Cairo,1729.6
+10714,2025-01-19,Mohamed,Accessories,USB Hub,2,440.73,Cairo,881.46
+10091,2025-09-04,Menna,Electronics,Tablet,1,16075.77,Tanta,16075.77
+11952,2025-02-10,Adam,Electronics,Smartphone,1,10839.9,Mansoura,10839.9
+11206,2025-07-25,Sara,Home,Air Purifier,5,8832.36,Cairo,44161.8
+10876,2025-10-06,Ahmed,Electronics,Monitor,1,4155.1,Alexandria,4155.1
+11361,2025-09-03,Sara,Gaming,Gaming Headset,4,1080.09,Giza,4320.36
+11905,2025-03-25,Youssef,Home,Coffee Maker,2,4350.54,Ismailia,8701.08
+11094,2025-03-09,Youssef,Accessories,Mouse,2,1765.26,Mansoura,3530.52
+11156,2025-03-10,Mariam,Home,Desk Lamp,1,711.76,Giza,711.76
+11503,2025-08-12,Menna,Electronics,Smartphone,1,23819.66,Suez,23819.66
+11974,2025-06-20,Hana,Accessories,Mouse,1,1264.04,Suez,1264.04
+10500,2025-12-05,Hana,Gaming,Gaming Mouse,2,2494.44,Tanta,4988.88
+10339,2025-11-15,Menna,Accessories,USB Hub,1,539.27,Cairo,539.27
+11189,2025-06-10,Farah,Electronics,Laptop,1,32514.78,Cairo,32514.78
+10029,2025-04-01,Menna,Accessories,USB Hub,1,1189.1,Giza,1189.1
+11218,2025-05-18,Karim,Home,Desk Lamp,2,1406.82,Tanta,2813.64
+11335,2025-10-28,Khaled,Gaming,Gaming Keyboard,2,2847.36,Suez,5694.72
+11835,2025-09-10,Mostafa,Gaming,Gaming Headset,2,3564.1,Cairo,7128.2
+10946,2025-03-11,Youssef,Electronics,Tablet,2,6145.41,Cairo,12290.82
+10170,2025-08-21,Adam,Accessories,Phone Stand,1,245.34,Giza,245.34
+11415,2025-06-26,Ali,Accessories,Webcam,1,844.37,Tanta,844.37
+11198,2025-04-06,Youssef,Gaming,Game Controller,2,4002.16,Cairo,8004.32
+11254,2025-04-29,Adam,Electronics,Smartphone,1,26764.38,Giza,26764.38
+11787,2025-04-07,Sara,Home,Desk Fan,1,1175.96,Giza,1175.96
+10913,2025-06-03,Khaled,Home,Desk Fan,1,1331.03,Cairo,1331.03
+10492,2025-10-08,Karim,Home,Air Purifier,1,7458.56,Tanta,7458.56
+10954,2025-06-10,Adam,Gaming,Game Controller,5,2569.43,Cairo,12847.15
+11098,2025-03-29,Mariam,Electronics,Tablet,1,8765.79,Giza,8765.79
+11033,2025-09-25,Mostafa,Electronics,Laptop,3,20632.71,Giza,61898.13
+10588,2025-10-10,Youssef,Electronics,Monitor,1,10670.46,Suez,10670.46
+10751,2025-11-19,Aya,Electronics,Smartphone,2,12331.53,Alexandria,24663.06
+10658,2025-06-04,Mohamed,Accessories,Webcam,1,2281.22,Cairo,2281.22
+10235,2025-08-29,Adam,Electronics,Tablet,3,19188.05,Suez,57564.15
+10733,2025-12-22,Ahmed,Home,Desk Fan,1,798.28,Giza,798.28
+10695,2025-10-08,Mariam,Electronics,Smartphone,1,16000.2,Tanta,16000.2
+11798,2025-04-28,Khaled,Electronics,Monitor,1,13897.39,Giza,13897.39
+11157,2025-04-05,Farah,Electronics,Headphones,3,4672.92,Qalyubia,14018.76
+11481,2025-11-18,Farah,Gaming,Game Controller,1,1439.8,Suez,1439.8
+11776,2025-06-27,Khaled,Electronics,Headphones,3,1626.63,Cairo,4879.89
+11867,2025-03-19,Adam,Electronics,Tablet,5,19725.86,Cairo,98629.3
+10935,2025-05-01,Khaled,Electronics,Smartphone,2,21456.22,Tanta,42912.44
+11210,2025-09-06,Aya,Gaming,Gaming Chair,2,7262.82,Alexandria,14525.64
+11066,2025-05-06,Khaled,Home,Coffee Maker,1,5221.55,Tanta,5221.55
+10109,2025-02-27,Mostafa,Electronics,Laptop,5,34126.9,Cairo,170634.5
+11554,2025-03-08,Karim,Gaming,Gaming Mouse,2,989.07,Qalyubia,1978.14
+10569,2025-11-24,Ahmed,Gaming,Game Controller,2,4615.39,Giza,9230.78
+11168,2025-08-23,Nada,Accessories,Mouse,2,308.43,Tanta,616.86
+11175,2025-12-04,Menna,Home,Air Purifier,2,5489.82,Cairo,10979.64
+10891,2025-04-22,Farah,Home,Air Purifier,1,3991.11,Suez,3991.11
+10948,2025-03-30,Omar,Gaming,Gaming Mouse,2,1019.19,Tanta,2038.38
+11049,2025-07-28,Nour,Gaming,Game Controller,2,4510.76,Mansoura,9021.52
+11362,2025-10-10,Mohamed,Electronics,Monitor,1,4875.1,Giza,4875.1
+11382,2025-09-01,Omar,Accessories,Mouse,2,1080.23,Giza,2160.46
+11457,2025-07-09,Youssef,Home,Coffee Maker,3,3038.0,Mansoura,9114.0
+10885,2025-07-24,Aya,Home,Air Purifier,3,7755.44,Qalyubia,23266.32
+11995,2025-11-03,Sara,Home,Desk Lamp,1,1587.5,Tanta,1587.5
+10851,2025-12-22,Adam,Electronics,Tablet,1,17414.14,Qalyubia,17414.14
+10735,2025-05-25,Khaled,Accessories,Mouse,2,1207.79,Giza,2415.58
+10718,2025-12-07,Mariam,Gaming,Gaming Keyboard,2,2387.32,Ismailia,4774.64
+10455,2025-09-04,Khaled,Electronics,Monitor,3,12662.81,Cairo,37988.43
+10265,2025-08-16,Nada,Gaming,Gaming Headset,1,3592.94,Suez,3592.94
+10076,2025-02-05,Mostafa,Home,Coffee Maker,2,6980.19,Tanta,13960.38
+11670,2025-12-02,Ahmed,Gaming,Gaming Chair,1,6207.13,Cairo,6207.13
+10445,2025-02-23,Ahmed,Gaming,Game Controller,1,1645.66,Suez,1645.66
+10396,2025-10-25,Laila,Gaming,Gaming Chair,1,5932.49,Alexandria,5932.49
+10177,2025-03-19,Menna,Home,Office Chair,3,6609.55,Alexandria,19828.65
+11043,2025-11-30,Nour,Electronics,Smartphone,4,8113.07,Suez,32452.28
+11901,2025-12-26,Nada,Accessories,Webcam,2,1850.51,Cairo,3701.02
+11928,2025-06-19,Aya,Accessories,Webcam,3,1872.08,Suez,5616.24
+11522,2025-01-26,Hana,Gaming,Gaming Headset,2,2138.4,Qalyubia,4276.8
+11939,2025-10-13,Ahmed,Accessories,Webcam,1,1459.96,Cairo,1459.96
+10596,2025-09-16,Omar,Accessories,Webcam,1,2533.19,Qalyubia,2533.19
+10062,2025-09-05,Hana,Electronics,Laptop,2,30843.57,Giza,61687.14
+11297,2025-05-30,Ali,Electronics,Tablet,3,12010.23,,36030.69
+10873,2025-12-13,Amr,Home,Desk Lamp,2,1249.2,Cairo,2498.4
+11553,2025-08-22,Khaled,Gaming,Game Controller,1,4247.75,Tanta,4247.75
+11894,2025-07-27,Aya,Electronics,Headphones,1,6081.1,Cairo,6081.1
+10279,2025-05-28,Sara,Home,Desk Lamp,1,625.43,Alexandria,625.43
+10037,2025-12-23,Youssef,Electronics,Smartphone,2,21206.19,Cairo,42412.38
+11527,2025-09-05,Ahmed,Electronics,Laptop,1,23439.53,Cairo,23439.53
+10663,2025-11-12,Aya,Home,Desk Fan,1,832.11,Qalyubia,832.11
+11821,2025-07-01,Omar,Electronics,Tablet,1,7032.02,Alexandria,7032.02
+11455,2025-01-01,Nada,Electronics,Monitor,2,7483.47,Cairo,14966.94
+10978,2025-07-05,Nour,Electronics,Smartphone,1,8541.6,Cairo,8541.6
+11583,2025-03-20,Amr,Accessories,USB Hub,1,258.34,Cairo,258.34
+10739,2025-04-22,Aya,Accessories,Keyboard,1,876.05,Alexandria,876.05
+10192,2025-12-17,Nour,Gaming,Gaming Keyboard,1,1473.02,Giza,1473.02
+10920,2025-06-02,Ahmed,Electronics,Headphones,1,4357.87,Cairo,4357.87
+10457,2025-04-20,Khaled,Electronics,Laptop,1,31519.19,Mansoura,31519.19
+10676,2025-08-07,Youssef,Gaming,Game Controller,3,2708.4,Tanta,8125.2
+10761,2025-09-19,Hana,Electronics,Laptop,1,18393.31,Suez,18393.31
+11822,2025-07-11,Menna,Electronics,Headphones,2,2227.98,Mansoura,4455.96
+11614,2025-04-25,Aya,Electronics,Smartphone,1,16913.27,Alexandria,16913.27
+10729,2025-11-08,Ali,Electronics,Headphones,2,3420.47,Suez,6840.94
+10413,2025-08-14,Ali,Gaming,Gaming Mouse,2,1685.35,Giza,3370.7
+11099,2025-12-17,Farah,,Air Purifier,3,2921.22,Suez,8763.66
+10826,2025-05-18,Karim,Gaming,Gaming Keyboard,3,3354.81,Giza,10064.43
+11508,2025-08-03,Ahmed,Accessories,Phone Stand,1,366.29,Giza,366.29
+10617,2025-12-19,Karim,Electronics,Monitor,1,14801.17,Tanta,14801.17
+10115,2025-05-30,Mariam,Home,Coffee Maker,3,4284.82,Mansoura,12854.46
+10418,2025-10-12,Ahmed,Electronics,Smartphone,1,11768.49,Giza,11768.49
+11926,2025-01-26,Karim,Electronics,Smartphone,2,27794.35,Ismailia,55588.7
+10970,2025-02-27,Mostafa,Accessories,Mouse,2,573.02,Alexandria,1146.04
+10605,2025-11-16,Ahmed,Electronics,Headphones,1,4976.95,Qalyubia,4976.95
+11934,2025-02-07,Sara,Home,Air Purifier,3,4388.55,Mansoura,13165.65
+10090,2025-09-04,Adam,Accessories,Phone Stand,2,462.66,Alexandria,925.32
+10849,2025-08-29,Nada,Accessories,Keyboard,2,1843.32,Giza,3686.64
+11531,2025-06-01,Aya,Electronics,Tablet,2,12125.31,Cairo,24250.62
+11933,2025-10-17,Khaled,Accessories,Phone Stand,4,593.73,Cairo,2374.92
+10754,2025-10-01,Hana,Electronics,Smartphone,3,13818.38,Qalyubia,41455.14
+10499,2025-05-13,Farah,Gaming,Gaming Chair,1,5134.41,Cairo,5134.41
+11277,2025-10-04,Sara,Electronics,Tablet,1,19021.72,Qalyubia,19021.72
+11326,2025-01-10,Hana,Electronics,Smartphone,2,12427.8,Cairo,24855.6
+10012,2025-09-30,Adam,Gaming,Game Controller,2,1828.15,Giza,3656.3
+10397,2025-09-05,Amr,Gaming,Gaming Chair,1,4505.59,Cairo,4505.59
+10285,2025-01-18,Youssef,Accessories,Webcam,3,1238.26,Alexandria,3714.78
+11067,2025-02-21,Nour,Electronics,Smartphone,1,21993.04,Giza,21993.04
+11192,2025-02-06,Ali,Accessories,Phone Stand,2,183.78,Cairo,367.56
+11820,2025-05-23,Mohamed,Accessories,Mouse,1,663.5,Cairo,663.5
+10691,2025-01-09,Nada,Electronics,Laptop,2,34739.15,Cairo,69478.3
+11643,2025-02-11,Ali,Accessories,Webcam,4,2297.36,Giza,9189.44
+11891,2025-06-22,Ali,Electronics,Tablet,2,18873.57,Mansoura,37747.14
+10690,2025-12-17,Youssef,Electronics,Tablet,3,5647.47,Giza,16942.41
+10852,2025-01-14,Ali,Home,Air Purifier,2,6174.03,Cairo,12348.06
+10160,2025-12-13,Nour,Home,Coffee Maker,4,5666.05,Cairo,22664.2
+10896,2025-03-28,Youssef,Electronics,Monitor,2,7563.57,Alexandria,15127.14
+11587,2025-03-15,Mostafa,Home,Desk Lamp,2,1058.05,Mansoura,2116.1
+10258,2025-10-05,Mariam,Home,Desk Lamp,2,1567.29,Giza,3134.58
+10336,2025-11-17,Youssef,Electronics,Tablet,5,8249.25,Cairo,41246.25
+11895,2025-06-07,Salma,Accessories,Keyboard,3,510.41,Tanta,1531.23
+11040,2025-01-25,Karim,Electronics,Tablet,3,10202.8,Giza,30608.4
+10516,2025-05-07,Aya,Electronics,Smartphone,1,16753.45,Cairo,16753.45
+11349,2025-06-26,Youssef,Gaming,Gaming Headset,1,2248.77,Cairo,2248.77
+11016,2025-11-04,Youssef,Gaming,Gaming Keyboard,3,1672.43,Tanta,5017.29
+10769,2025-09-17,Farah,Electronics,Headphones,1,5881.58,Giza,5881.58
+11760,2025-08-20,Hana,Accessories,Keyboard,2,847.6,Suez,1695.2
+10762,2025-01-11,Farah,Electronics,Smartphone,1,13442.79,Cairo,13442.79
+11247,2025-12-26,Karim,Electronics,Laptop,2,23020.96,Cairo,46041.92
+11204,2025-02-08,Omar,Electronics,Laptop,1,26494.98,Tanta,26494.98
+11937,2025-06-05,Ali,Electronics,Laptop,3,41386.96,Ismailia,124160.88
+11999,2025-05-22,Karim,Electronics,Laptop,1,25429.59,Cairo,25429.59
+10522,2025-05-29,Farah,Accessories,Phone Stand,1,450.68,Tanta,450.68
+10023,2025-07-19,Karim,Electronics,Smartphone,2,28655.69,Mansoura,57311.38
+10357,2025-10-12,Salma,Electronics,Smartphone,5,15383.71,Alexandria,76918.55
+11278,2025-01-18,Ali,Gaming,Gaming Headset,1,3755.24,Giza,3755.24
+11313,2025-04-13,Nada,Accessories,Mouse,3,781.4,Alexandria,2344.2
+11734,2025-02-18,Menna,Accessories,Webcam,3,2979.72,Mansoura,8939.16
+10341,2025-03-05,Salma,Accessories,Webcam,1,790.51,Mansoura,790.51
+10432,2025-06-10,Sara,Home,Office Chair,5,7638.38,Cairo,38191.9
+10474,2025-11-01,Omar,Gaming,Gaming Headset,4,3046.55,Alexandria,12186.2
+10218,2025-04-01,Menna,Home,Coffee Maker,2,2136.36,Tanta,4272.72
+10912,2025-12-16,Ali,Electronics,Tablet,3,10423.77,Mansoura,31271.31
+11228,2025-04-25,Sara,Electronics,Laptop,2,44481.43,Giza,88962.86
+11608,2025-04-07,Ahmed,Gaming,Gaming Mouse,1,1136.06,Alexandria,1136.06
+11012,2025-08-22,Ali,Gaming,Gaming Mouse,1,2185.38,Giza,2185.38
+11965,2025-06-29,Mostafa,Accessories,Keyboard,2,1464.7,Qalyubia,2929.4
+10094,2025-10-18,Menna,Accessories,Phone Stand,4,,Cairo,
+11009,2025-09-26,Sara,Electronics,Tablet,1,13897.92,Mansoura,13897.92
+11071,2025-07-24,Adam,Electronics,Headphones,3,3758.64,Ismailia,11275.92
+11093,2025-02-02,Salma,Home,Office Chair,2,3359.87,Giza,6719.74
+11597,2025-03-13,Amr,Electronics,Monitor,1,5389.21,Tanta,5389.21
+11309,2025-01-06,Mostafa,Electronics,Headphones,2,6063.33,Alexandria,12126.66
+10697,2025-06-21,Menna,Electronics,Smartphone,2,10562.51,Cairo,21125.02
+11969,2025-04-06,Ahmed,Electronics,Headphones,3,1857.73,Mansoura,5573.19
+10997,2025-05-17,Farah,Gaming,Gaming Chair,1,5824.58,Cairo,5824.58
+11459,2025-12-11,Nour,Electronics,Laptop,1,37656.33,Ismailia,37656.33
+10154,2025-12-27,Amr,Accessories,Phone Stand,1,404.32,Alexandria,404.32
+11100,2025-04-18,Salma,Accessories,Keyboard,3,936.84,Giza,2810.52
+11732,2025-08-28,Nada,Home,Office Chair,1,7108.51,Giza,7108.51
+11783,2025-04-06,Omar,Accessories,Webcam,1,693.93,Ismailia,693.93
+10790,2025-10-28,Aya,Gaming,Gaming Headset,1,1103.24,Giza,1103.24
+10581,2025-07-02,Laila,Accessories,USB Hub,1,1177.95,Cairo,1177.95
+10704,2025-09-29,Nada,Electronics,Headphones,2,1866.93,Suez,3733.86
+11213,2025-10-23,Karim,Electronics,Laptop,2,19153.97,Tanta,38307.94
+11296,2025-09-20,Laila,Electronics,Monitor,1,6790.84,Alexandria,6790.84
+11815,2025-05-27,Omar,Electronics,Headphones,2,5992.19,Cairo,11984.38
+11261,2025-02-22,Ahmed,Electronics,Laptop,1,30899.04,Tanta,30899.04
+10488,2025-01-24,Ali,Electronics,Monitor,1,4257.41,Tanta,4257.41
+10560,2025-05-22,Nour,Home,Air Purifier,2,9184.0,Giza,18368.0
+11142,2025-11-16,Salma,Electronics,Monitor,1,14118.98,Tanta,14118.98
+11120,2025-03-13,Adam,Electronics,Smartphone,2,11021.96,Qalyubia,22043.92
+10802,2025-03-07,Youssef,Electronics,Headphones,2,3597.4,Giza,7194.8
+10513,2025-01-15,Menna,Gaming,Gaming Mouse,1,1586.68,Cairo,1586.68
+10634,2025-07-03,Hana,Accessories,Webcam,1,993.5,Alexandria,993.5
+11490,2025-01-04,Mohamed,Accessories,Keyboard,1,1975.32,Alexandria,1975.32
+11802,2025-07-30,Sara,Home,Desk Fan,2,1400.22,Giza,2800.44
+11557,2025-09-30,Nour,Home,Desk Fan,2,1938.47,Alexandria,3876.94
+11151,2025-07-14,Karim,Home,Office Chair,3,7370.96,Suez,22112.88
+10791,2025-10-15,Sara,Electronics,Monitor,2,11746.07,Cairo,23492.14
+10117,2025-08-01,Amr,Gaming,Gaming Headset,4,4651.72,Giza,18606.88
+10741,2025-07-04,Aya,Accessories,USB Hub,1,583.97,Giza,583.97
+11704,2025-02-17,Karim,Accessories,USB Hub,2,268.48,Cairo,536.96
+11082,2025-03-09,Mohamed,Electronics,Laptop,1,21759.66,Mansoura,21759.66
+10831,2025-12-30,Mohamed,Electronics,Laptop,1,44130.67,Cairo,44130.67
+10120,2025-10-26,Mohamed,Accessories,USB Hub,1,894.21,Mansoura,894.21
+10657,2025-09-23,Omar,Electronics,Laptop,1,26585.53,Ismailia,26585.53
+11923,2025-07-20,Khaled,Home,Office Chair,3,4476.81,Qalyubia,13430.43
+10636,2025-08-23,Farah,Accessories,Webcam,4,816.45,Giza,3265.8
+10370,2025-03-18,Mariam,Electronics,Laptop,3,18261.55,Alexandria,54784.65
+10269,2025-03-07,Youssef,Accessories,Webcam,1,735.68,Cairo,735.68
+10656,2025-03-22,Adam,Electronics,Laptop,1,39330.4,Cairo,39330.4
+10936,2025-11-15,Laila,Electronics,Laptop,3,25985.18,Alexandria,77955.54
+10823,2025-02-03,Farah,Electronics,Tablet,1,10629.49,Qalyubia,10629.49
+10867,2025-08-04,Aya,Electronics,Tablet,1,16088.68,Cairo,16088.68
+10047,2025-01-28,Aya,Electronics,Laptop,1,43505.97,Tanta,43505.97
+11374,2025-10-29,Youssef,Accessories,Webcam,1,1703.4,Giza,1703.4
+11722,2025-12-05,Salma,Electronics,Smartphone,1,9259.21,Tanta,9259.21
+10992,2025-12-07,Youssef,Home,Coffee Maker,3,6374.59,Giza,19123.77
+10877,2025-08-19,Laila,Home,Desk Lamp,1,1395.26,Mansoura,1395.26
+10774,2025-09-11,Hana,Accessories,Webcam,1,2174.69,Qalyubia,2174.69
+11220,2025-11-07,Khaled,Electronics,Monitor,1,10161.0,Cairo,10161.0
+10803,2025-12-31,Sara,Accessories,Phone Stand,1,331.72,Alexandria,331.72
+10005,2025-04-23,Aya,Electronics,Smartphone,2,16861.07,Alexandria,33722.14
+11004,2025-09-20,Ahmed,Home,Coffee Maker,1,2636.2,Tanta,2636.2
+11737,2025-07-08,Karim,Accessories,Keyboard,1,1933.0,Cairo,1933.0
+10264,2025-11-13,Nada,Accessories,Mouse,1,1324.67,Tanta,1324.67
+11581,2025-05-06,Amr,Electronics,Monitor,1,15319.99,Tanta,15319.99
+11845,2025-02-25,Nada,Gaming,Gaming Keyboard,2,2118.28,Qalyubia,4236.56
+10444,2025-06-23,Nada,Accessories,Keyboard,1,1459.7,Qalyubia,1459.7
+11003,2025-01-04,Nada,Gaming,Gaming Headset,2,1588.91,Ismailia,3177.82
+11078,2025-04-20,Farah,Home,Coffee Maker,3,5380.99,Cairo,16142.97
+10838,2025-04-18,Khaled,Accessories,Mouse,2,1207.17,Suez,2414.34
+11805,2025-07-31,Menna,Electronics,Tablet,3,11609.06,Mansoura,34827.18
+10305,2025-11-25,Aya,Home,Desk Fan,1,2287.19,Alexandria,2287.19
+11366,2025-07-13,Laila,Electronics,Monitor,1,12668.86,Ismailia,12668.86
+11569,2025-07-11,Salma,Home,Coffee Maker,3,5326.87,Suez,15980.61
+10314,2025-10-16,Karim,Gaming,Gaming Chair,4,6495.03,Alexandria,25980.12
+10150,2025-10-23,Mariam,Electronics,Laptop,2,25945.2,Tanta,51890.4
+11149,2025-07-12,Khaled,Gaming,Gaming Keyboard,1,3546.3,Ismailia,3546.3
+11214,2025-10-01,Farah,Home,Desk Lamp,3,1596.98,Tanta,4790.94
+10575,2025-03-16,Amr,Gaming,Game Controller,2,2057.77,Cairo,4115.54
+10051,2025-02-07,Mostafa,Gaming,Gaming Headset,5,3359.79,Mansoura,16798.95
+11564,2025-12-13,Salma,Electronics,Headphones,2,2647.64,Cairo,5295.28
+10727,2025-04-08,Ali,Electronics,Laptop,1,39645.48,Ismailia,39645.48
+10834,2025-01-13,Mariam,Electronics,Headphones,1,1511.47,Qalyubia,1511.47
+11378,2025-09-29,Salma,Accessories,USB Hub,1,832.49,Cairo,832.49
+11116,2025-03-25,Hana,Accessories,Webcam,1,2971.11,Cairo,2971.11
+11167,2025-01-01,Mariam,Gaming,Gaming Chair,4,9349.67,Tanta,37398.68
+10471,2025-08-20,Sara,Electronics,Headphones,4,5641.7,Giza,22566.8
+10972,2025-10-06,Laila,Gaming,Gaming Chair,1,10384.89,Giza,10384.89
+10654,2025-10-12,Nour,Home,Desk Lamp,1,855.04,Cairo,855.04
+10400,2025-06-05,Hana,Home,Coffee Maker,4,3038.6,Giza,12154.4
+10512,2025-02-24,Sara,Accessories,Webcam,1,2700.34,Mansoura,2700.34
+10321,2025-06-17,Mostafa,Accessories,Phone Stand,4,605.67,Giza,2422.68
+10020,2025-02-24,Menna,Electronics,Smartphone,3,16165.73,Cairo,48497.19
+10685,2025-09-16,Hana,Gaming,Gaming Chair,3,5112.09,Mansoura,15336.27
+10036,2025-08-27,Salma,Gaming,Game Controller,2,3569.22,Alexandria,7138.44
+10903,2025-08-26,Amr,Electronics,Headphones,1,2013.68,Cairo,2013.68
+11842,2025-10-17,Farah,Accessories,Keyboard,1,416.31,Tanta,416.31
+10828,2025-01-05,Farah,Electronics,Tablet,3,5377.71,Cairo,16133.13
+11811,2025-10-12,Mostafa,Home,Coffee Maker,1,4797.78,Ismailia,4797.78
+10408,2025-04-27,Menna,Electronics,Headphones,1,4227.13,Cairo,4227.13
+10921,2025-09-21,Menna,Gaming,Game Controller,3,1431.43,Qalyubia,4294.29
+10538,2025-06-23,Hana,Electronics,Headphones,2,2372.54,Suez,4745.08
+10759,2025-04-16,Omar,Gaming,Gaming Mouse,5,1539.01,Cairo,7695.05
+11920,2025-01-20,Hana,Accessories,Phone Stand,1,313.88,Giza,313.88
+11063,2025-10-15,Salma,Home,Office Chair,1,3072.99,Ismailia,3072.99
+11200,2025-07-13,Karim,Electronics,Laptop,1,40679.94,Tanta,40679.94
+10246,2025-05-22,Mariam,Gaming,Game Controller,3,1263.67,Ismailia,3791.01
+11417,2025-08-29,Mostafa,Electronics,Laptop,1,36370.38,Cairo,36370.38
+11128,2025-09-16,Menna,Accessories,USB Hub,2,496.62,Tanta,993.24
+10785,2025-02-19,Farah,Electronics,Smartphone,2,27438.42,Ismailia,54876.84
+11756,2025-09-02,Adam,Gaming,Gaming Keyboard,2,1279.34,Qalyubia,2558.68
+10490,2025-02-24,Khaled,Gaming,Game Controller,2,4783.64,Cairo,9567.28
+10155,2025-05-26,Mariam,Gaming,Gaming Keyboard,1,4054.38,Alexandria,4054.38
+10962,2025-10-12,Hana,Home,Desk Lamp,1,1136.11,Giza,1136.11
+10854,2025-03-12,Hana,Gaming,Gaming Chair,1,11396.83,Qalyubia,11396.83
+11312,2025-08-13,Adam,Gaming,Gaming Headset,2,4249.3,Alexandria,8498.6
+10626,2025-01-01,Mariam,Accessories,Webcam,2,2117.32,Giza,4234.64
+10686,2025-12-20,Adam,Accessories,Mouse,2,1595.66,Mansoura,3191.32
+11573,2025-09-18,Mostafa,Home,Office Chair,1,4141.45,Mansoura,4141.45
+10570,2025-09-28,Aya,Electronics,Monitor,4,11743.57,Giza,46974.28
+11924,2025-04-25,Youssef,Accessories,Keyboard,2,1704.32,Cairo,3408.64
+10018,2025-06-05,Mohamed,Accessories,Phone Stand,5,467.14,Mansoura,2335.7
+10128,2025-02-23,Hana,Gaming,Gaming Headset,1,4398.14,Alexandria,4398.14
+11347,2025-09-07,Adam,Electronics,Monitor,1,8189.25,Giza,8189.25
+11280,2025-09-14,Adam,Accessories,Webcam,1,1301.33,Cairo,1301.33
+11984,2025-02-17,Mohamed,Accessories,Phone Stand,1,,Giza,
+10928,2025-06-25,Laila,Accessories,Keyboard,2,978.63,Qalyubia,1957.26
+10981,2025-09-17,Nada,Electronics,Headphones,2,3010.74,Cairo,6021.48
+11980,2025-03-23,Nour,Gaming,Gaming Keyboard,4,1271.43,Cairo,5085.72
+10191,2025-01-18,Salma,Electronics,Tablet,3,21025.21,Qalyubia,63075.63
+11140,2025-12-26,Hana,Accessories,USB Hub,1,946.22,Mansoura,946.22
+10993,2025-03-29,Hana,Electronics,Tablet,2,7573.31,Cairo,15146.62
+11971,2025-01-14,Mariam,Electronics,Smartphone,2,18208.01,Tanta,36416.02
+11669,2025-12-07,Farah,Electronics,Smartphone,3,27228.3,Giza,81684.9
+10607,2025-03-28,Karim,Electronics,Headphones,1,2706.68,Giza,2706.68
+10181,2025-10-18,Ali,Electronics,Laptop,1,19221.73,Cairo,19221.73
+10302,2025-04-19,Mariam,Accessories,Keyboard,2,2040.02,Mansoura,4080.04
+10497,2025-05-09,Sara,Accessories,Phone Stand,1,217.1,Giza,217.1
+11709,2025-03-06,Nour,Home,Air Purifier,3,4676.91,Mansoura,14030.73
+11809,2025-07-06,Nada,Electronics,Laptop,1,37390.53,Mansoura,37390.53
+11674,2025-10-04,Nada,Gaming,Game Controller,3,2383.25,Mansoura,7149.75
+11650,2025-05-18,Nada,Home,Desk Lamp,3,766.07,,2298.21
+10518,2025-12-06,Aya,Gaming,Gaming Headset,1,3368.07,Cairo,3368.07
+12000,2025-10-05,Ahmed,Electronics,Headphones,4,3267.35,Mansoura,13069.4
+11070,2025-07-06,Menna,Electronics,Laptop,1,26312.6,Giza,26312.6
+10477,2025-09-23,Mohamed,Electronics,Laptop,2,20518.33,Giza,41036.66
+10158,2025-11-04,Mostafa,Home,Office Chair,1,8064.86,Qalyubia,8064.86
+11244,2025-03-29,Salma,Gaming,Gaming Headset,1,2605.99,Alexandria,2605.99
+11196,2025-03-08,Mariam,Gaming,Gaming Keyboard,4,4425.74,Qalyubia,17702.96
+10017,2025-09-19,Aya,Electronics,Laptop,5,34303.98,Giza,171519.9
+11536,2025-02-05,Khaled,Electronics,Smartphone,1,9405.35,Ismailia,9405.35
+11073,2025-04-14,Ahmed,Electronics,Monitor,3,17737.38,Cairo,53212.14
+11987,2025-02-02,Menna,Home,Air Purifier,2,8259.07,Alexandria,16518.14
+10547,2025-10-18,Adam,Electronics,Headphones,1,6396.77,Cairo,6396.77
+11540,2025-07-11,Omar,Accessories,Mouse,4,408.67,Qalyubia,1634.68
+10659,2025-08-21,Karim,Home,Coffee Maker,2,3400.94,Giza,6801.88
+11753,2025-04-24,Hana,Electronics,Headphones,1,4583.22,Ismailia,4583.22
+11020,2025-07-23,Nada,Electronics,Headphones,1,5685.41,Giza,5685.41
+11675,2025-12-02,Youssef,Home,Air Purifier,1,5512.73,Cairo,5512.73
+11505,2025-10-05,Nour,Accessories,Mouse,1,1712.86,Giza,1712.86
+10960,2025-08-04,Aya,Home,Coffee Maker,1,2962.99,Cairo,2962.99
+11897,2025-08-16,Hana,Home,Air Purifier,4,6767.37,Giza,27069.48
+10284,2025-04-30,Ahmed,Electronics,Headphones,2,1768.96,Alexandria,3537.92
+10798,2025-11-06,Youssef,Accessories,USB Hub,3,988.92,Mansoura,2966.76
+11638,2025-05-19,Nada,Electronics,Tablet,1,5283.23,Cairo,5283.23
+10226,2025-03-23,Aya,Electronics,Smartphone,2,27750.36,Cairo,55500.72
+10027,2025-04-21,Menna,Electronics,Smartphone,1,20610.91,Alexandria,20610.91
+11785,2025-01-20,Laila,Home,Air Purifier,1,6354.0,Ismailia,6354.0
+10438,2025-05-23,Farah,Gaming,Gaming Keyboard,1,2966.0,Cairo,2966.0
+11964,2025-08-12,Adam,Accessories,Mouse,1,953.59,Qalyubia,953.59
+11389,2025-04-15,Ahmed,Gaming,Gaming Headset,2,1088.34,Cairo,2176.68
+10230,2025-12-01,Ahmed,Home,Desk Lamp,2,1490.89,Cairo,2981.78
+10038,2025-09-24,Laila,Electronics,Headphones,2,1131.79,Giza,2263.58
+10750,2025-07-08,Ahmed,Home,Coffee Maker,1,6094.55,Qalyubia,6094.55
+11046,2025-10-01,Nour,Home,Air Purifier,2,7619.89,Alexandria,15239.78
+11399,2025-11-10,Laila,Home,Desk Lamp,3,1583.33,Alexandria,4749.99
+10470,2025-07-29,Nada,Gaming,Gaming Headset,2,3608.37,Cairo,7216.74
+11973,2025-09-26,Farah,Electronics,Tablet,1,15249.18,Mansoura,15249.18
+11983,2025-04-22,Amr,Accessories,Keyboard,1,2246.58,Cairo,2246.58
+10688,2025-03-30,Nada,Electronics,Headphones,3,1807.74,Cairo,5423.22
+11858,2025-12-16,Aya,Accessories,Mouse,3,1610.42,Alexandria,4831.26
+10640,2025-04-21,Salma,Accessories,Keyboard,2,2017.94,Suez,4035.88
+11903,2025-12-01,Salma,Home,Desk Fan,1,504.15,Qalyubia,504.15
+11219,2025-10-29,Mariam,Home,Office Chair,1,3403.51,Cairo,3403.51
+11159,2025-06-20,Laila,Gaming,Gaming Chair,2,8522.02,Giza,17044.04
+11416,2025-01-22,Salma,Gaming,Gaming Chair,3,7560.93,Alexandria,22682.79
+11528,2025-01-14,Adam,Electronics,Headphones,2,2444.29,Cairo,4888.58
+11668,2025-09-18,Mostafa,Gaming,Game Controller,4,3962.13,Suez,15848.52
+11301,2025-11-26,Laila,Electronics,Laptop,2,37582.75,Giza,75165.5
+11886,2025-01-30,Nour,Accessories,Mouse,1,522.84,Tanta,522.84
+10801,2025-05-14,Youssef,Home,Office Chair,2,5911.85,Ismailia,11823.7
+11604,2025-03-23,Karim,Accessories,Phone Stand,4,167.85,Qalyubia,671.4
+10161,2025-03-22,Hana,Accessories,Phone Stand,1,312.29,Cairo,312.29
+10957,2025-06-01,Amr,Accessories,Phone Stand,1,624.91,Alexandria,624.91
+11187,2025-04-24,Mariam,Home,Coffee Maker,1,6732.68,Alexandria,6732.68
+10822,2025-10-25,Laila,Electronics,Headphones,1,1143.58,Ismailia,1143.58
+11695,2025-07-18,Ahmed,Accessories,Keyboard,3,1138.96,Alexandria,3416.88
+10878,2025-10-29,Nada,Home,Coffee Maker,4,4644.84,Cairo,18579.36
+10914,2025-11-23,Aya,Accessories,USB Hub,2,1112.61,Tanta,2225.22
+10153,2025-04-14,Adam,Electronics,Headphones,1,5662.08,Giza,5662.08
+11851,2025-02-22,Omar,Electronics,Smartphone,2,28632.17,Ismailia,57264.34
+11791,2025-08-26,Hana,Electronics,Monitor,3,7303.95,Qalyubia,21911.85
+10510,2025-09-27,Omar,Home,Coffee Maker,3,5776.01,Alexandria,17328.03
+11136,2025-01-13,Laila,Electronics,Monitor,1,11181.71,Ismailia,11181.71
+11251,2025-07-01,Amr,Home,Coffee Maker,2,6832.89,Suez,13665.78
+11677,2025-06-11,Omar,Electronics,Tablet,1,19270.7,Tanta,19270.7
+10104,2025-10-21,Aya,Accessories,Mouse,2,703.4,Cairo,1406.8
+11446,2025-11-03,Ahmed,Electronics,Monitor,5,16576.97,Alexandria,82884.85
+11444,2025-01-07,Farah,Accessories,Phone Stand,3,539.08,Suez,1617.24
+11853,2025-07-23,Mostafa,Gaming,Gaming Keyboard,4,1592.77,Cairo,6371.08
+10587,2025-06-11,Mariam,Electronics,Headphones,2,2784.17,Alexandria,5568.34
+11783,2025-04-06,Omar,Accessories,Webcam,1,693.93,Ismailia,693.93
+11144,2025-01-30,Mariam,Accessories,Mouse,2,1343.62,Cairo,2687.24
+10054,2025-07-09,Nour,Gaming,Gaming Mouse,5,1964.48,Cairo,9822.4
+10152,2025-10-10,Farah,Electronics,Headphones,1,6637.5,Cairo,6637.5
+10404,2025-10-19,Mostafa,Gaming,Gaming Chair,2,11590.87,Ismailia,23181.74
+11958,2025-06-03,Ahmed,Accessories,Webcam,2,1890.03,Cairo,3780.06
+10208,2025-01-09,Mariam,Home,Desk Fan,1,2078.98,Alexandria,2078.98
+11910,2025-09-19,Hana,Electronics,Laptop,2,30004.95,Cairo,60009.9
+11123,2025-10-10,Mohamed,Gaming,Gaming Chair,1,13308.24,Cairo,13308.24
+11764,2025-08-17,Mohamed,Accessories,Mouse,1,1618.05,Alexandria,1618.05
+10009,2025-06-27,Sara,Home,Desk Lamp,1,719.12,Cairo,719.12
+11015,2025-03-17,Sara,Home,Office Chair,1,7473.76,Mansoura,7473.76
+11810,2025-03-02,Omar,Electronics,Tablet,2,7115.17,Cairo,14230.34
+11061,2025-10-09,,Gaming,Gaming Chair,1,13594.72,Suez,13594.72
+10453,2025-07-13,Karim,Accessories,Keyboard,1,1312.16,Giza,1312.16
+11676,2025-02-08,Mariam,Electronics,Monitor,1,11038.5,Giza,11038.5
+10254,2025-07-13,Mostafa,Electronics,Tablet,1,16120.72,Suez,16120.72
+11328,2025-09-21,,Home,Office Chair,1,3246.89,Alexandria,3246.89
+10897,2025-07-02,Adam,Electronics,Headphones,3,3732.77,Giza,11198.31
+11747,2025-06-14,Nour,Electronics,Headphones,1,2952.59,Qalyubia,2952.59
+10881,2025-06-29,Menna,Electronics,Tablet,1,11954.45,Giza,11954.45
+11596,2025-08-12,Laila,Accessories,Keyboard,1,2107.43,Giza,2107.43
+11904,2025-07-31,Karim,Electronics,Laptop,1,25039.14,Ismailia,25039.14
+10624,2025-11-27,Hana,Accessories,USB Hub,1,530.88,Cairo,530.88
+10346,2025-03-08,Hana,Home,Desk Lamp,3,1464.44,Alexandria,4393.32
+11921,2025-09-04,Amr,Home,Coffee Maker,2,4002.92,Giza,8005.84
+10263,2025-08-04,Sara,Electronics,Monitor,2,4616.57,Ismailia,9233.14
+11635,2025-06-18,Menna,Gaming,Gaming Mouse,3,2258.03,Qalyubia,6774.09
+11322,2025-07-09,Amr,Electronics,Laptop,4,41668.57,Cairo,166674.28
+11439,2025-03-04,Mariam,Electronics,Laptop,1,39381.07,Suez,39381.07
+10151,2025-04-16,Mohamed,Gaming,Gaming Chair,1,5147.97,Alexandria,5147.97
+10473,2025-01-15,Menna,Electronics,Smartphone,4,21254.34,Qalyubia,85017.36
+10641,2025-04-13,Ali,Electronics,Laptop,1,27107.18,Cairo,27107.18
+11998,2025-10-03,Hana,Electronics,Laptop,2,43565.77,Giza,87131.54
+11898,2025-03-26,Youssef,Electronics,Tablet,4,14035.15,Qalyubia,56140.6
+10551,2025-06-05,Farah,Accessories,USB Hub,5,1022.76,Suez,5113.8
+11794,2025-04-01,Aya,Home,Coffee Maker,2,2501.35,Suez,5002.7
+10929,2025-03-04,Nour,Home,Air Purifier,3,6208.91,Cairo,18626.73
+10489,2025-08-04,Mohamed,Gaming,Gaming Keyboard,1,2731.42,Tanta,2731.42
+11826,2025-03-21,Mostafa,Accessories,Keyboard,1,1969.32,Giza,1969.32
+11172,2025-05-10,Nour,Gaming,Gaming Headset,1,2117.78,Ismailia,2117.78
+10147,2025-08-11,Nour,Home,Desk Lamp,1,1271.27,Tanta,1271.27
+11718,2025-02-08,Menna,Home,Desk Fan,1,2317.73,Ismailia,2317.73
+11944,2025-05-22,Youssef,Home,Desk Lamp,2,454.82,Giza,909.64
+10403,2025-09-28,Adam,Accessories,Phone Stand,3,628.85,Suez,1886.55
+10955,2025-02-01,,Accessories,Webcam,2,2354.03,Alexandria,4708.06
+11893,2025-08-07,Menna,Gaming,Gaming Headset,2,4638.97,Mansoura,9277.94
+10660,2025-11-12,Adam,Accessories,Webcam,4,2965.73,Alexandria,11862.92
+11373,2025-09-27,Laila,Gaming,Gaming Headset,3,1107.47,Alexandria,3322.41
+10464,2025-10-28,Omar,Accessories,Keyboard,3,1666.7,Qalyubia,5000.1
+11350,2025-03-13,Mohamed,Electronics,Smartphone,2,23952.45,Suez,47904.9
+10187,2025-06-27,Omar,Gaming,Gaming Chair,1,9231.43,Alexandria,9231.43
+11148,2025-12-06,Sara,Home,Air Purifier,1,8080.21,Qalyubia,8080.21
+11225,2025-10-05,Youssef,Accessories,Mouse,1,1028.82,Giza,1028.82
+10609,2025-06-10,Amr,Accessories,Webcam,2,2909.87,Qalyubia,5819.74
+10144,2025-05-29,Ahmed,Electronics,Headphones,1,831.16,Tanta,831.16
+10752,2025-03-25,Youssef,Gaming,Gaming Headset,2,2764.6,Alexandria,5529.2
+11535,2025-05-23,Salma,Accessories,USB Hub,3,406.37,Ismailia,1219.11
+10982,2025-07-24,Adam,Home,Office Chair,1,8426.22,Ismailia,8426.22
+10198,2025-01-16,Karim,Gaming,Game Controller,3,1550.24,Alexandria,4650.72
+11634,2025-12-23,Laila,Home,Desk Fan,1,2407.89,Tanta,2407.89
+10884,2025-11-18,Hana,Electronics,Laptop,2,37733.75,Giza,75467.5
+10280,2025-04-19,Mohamed,Home,Desk Lamp,1,,Cairo,
+10294,2025-11-25,Mohamed,Accessories,Mouse,1,327.83,Alexandria,327.83
+11838,2025-08-31,Aya,Electronics,Headphones,4,816.79,Cairo,3267.16
+10401,2025-04-12,Ahmed,Electronics,Tablet,4,10643.97,Ismailia,42575.88
+10123,2025-07-24,Ali,Electronics,Headphones,1,3501.0,Giza,3501.0
+11208,2025-12-03,Nada,Accessories,Mouse,1,1362.8,Qalyubia,1362.8
+10203,2025-05-09,Hana,Electronics,Smartphone,1,23393.51,Alexandria,23393.51
+11463,2025-03-08,Hana,Electronics,Laptop,1,28409.95,Cairo,28409.95
+10836,2025-10-03,Hana,Accessories,USB Hub,1,411.03,Cairo,411.03
+10247,2025-02-15,Laila,Accessories,Webcam,2,2569.68,Qalyubia,5139.36
+11440,2025-11-03,Nada,Home,Desk Fan,3,2123.14,Tanta,6369.42
+11767,2025-09-26,Aya,Home,Desk Fan,2,758.45,Alexandria,1516.9
+11917,2025-01-25,Mostafa,Gaming,Gaming Mouse,4,794.9,Alexandria,3179.6
+11708,2025-04-29,Laila,Electronics,Laptop,5,30340.61,Giza,151703.05
+11929,2025-01-11,Nour,Home,Air Purifier,1,2790.68,Mansoura,2790.68
+11154,2025-12-28,Amr,Home,Office Chair,3,4012.14,Giza,12036.42
+11662,2025-12-19,Sara,Accessories,Keyboard,4,1847.15,Giza,7388.6
+11427,2025-05-16,Sara,Electronics,Laptop,1,40586.33,Mansoura,40586.33
+10385,2025-01-10,Menna,Home,Desk Lamp,1,497.95,Alexandria,497.95
+11772,2025-09-14,Hana,Home,Air Purifier,1,3278.17,Giza,3278.17
+10855,2025-11-11,Mostafa,Electronics,Tablet,5,15408.69,Mansoura,77043.45
+11590,2025-01-25,Ahmed,Home,Coffee Maker,5,4916.52,Tanta,24582.6
+10220,2025-03-20,Menna,Gaming,Gaming Mouse,4,1642.46,Cairo,6569.84
+10642,2025-12-25,Mariam,Electronics,Monitor,2,17182.08,Qalyubia,34364.16
+10002,2025-07-11,Menna,Gaming,Game Controller,1,3997.71,Alexandria,3997.71
+10113,2025-02-21,Sara,Gaming,Game Controller,2,3554.54,Cairo,7109.08
+10699,2025-04-13,Farah,Electronics,Monitor,1,8136.55,Giza,8136.55
+11931,2025-12-16,Nour,Accessories,Keyboard,2,2006.03,Cairo,4012.06
+10952,2025-02-01,Nour,Home,Coffee Maker,1,4684.38,Giza,4684.38
+11649,2025-10-15,Nada,Home,Desk Fan,5,2000.66,Suez,10003.3
+11637,2025-08-30,Menna,Accessories,Webcam,2,2554.71,Suez,5109.42
+11762,2025-08-30,Mariam,Gaming,Gaming Headset,1,4823.37,Qalyubia,4823.37
+11411,2025-05-13,Karim,Electronics,Monitor,1,11776.96,Qalyubia,11776.96
+11410,2025-05-31,Salma,Gaming,Gaming Keyboard,2,1832.73,Giza,3665.46
+11534,2025-02-20,Mostafa,Electronics,Headphones,1,4193.41,Qalyubia,4193.41
+11292,2025-02-23,Youssef,Electronics,Tablet,2,13032.76,Giza,26065.52
+11823,2025-07-26,Laila,Home,Desk Fan,1,712.82,Tanta,712.82
+10442,2025-02-01,Mostafa,Gaming,Gaming Chair,2,4300.21,Cairo,8600.42
+11521,2025-03-27,Nada,Electronics,Laptop,1,31948.94,Mansoura,31948.94
+11137,2025-04-28,Youssef,Gaming,Gaming Headset,2,2125.57,Alexandria,4251.14
+11716,2025-03-10,Adam,Gaming,Gaming Headset,2,2003.49,Alexandria,4006.98
+11257,2025-04-02,Nada,Electronics,Monitor,2,11051.64,Tanta,22103.28
+11878,2025-09-08,Ali,Accessories,USB Hub,2,261.97,Qalyubia,523.94
+11632,2025-06-09,Mostafa,Electronics,Laptop,2,35921.05,Giza,71842.1
+11696,2025-07-11,Karim,Electronics,Headphones,4,5174.81,Alexandria,20699.24
+11398,2025-04-25,Laila,Electronics,Laptop,1,36923.37,Ismailia,36923.37
+10664,2025-09-08,Ali,Electronics,Smartphone,1,9344.3,Cairo,9344.3
+11850,2025-06-02,Menna,Home,Desk Fan,3,1119.34,Cairo,3358.02
+11258,2025-06-10,Laila,Accessories,Phone Stand,1,606.03,Alexandria,606.03
+11788,2025-05-23,Mariam,Home,Coffee Maker,2,5380.2,Qalyubia,10760.4
+11701,2025-03-22,Salma,Gaming,Game Controller,2,4110.3,Cairo,8220.6
+10318,2025-09-19,Ali,Electronics,Laptop,1,23810.52,Suez,23810.52
+10649,2025-08-26,Nour,Home,Desk Fan,2,2433.1,Tanta,4866.2
+11435,2025-03-22,Khaled,Electronics,Laptop,1,20503.3,Ismailia,20503.3
+11480,2025-01-17,Omar,Accessories,Webcam,1,2408.21,Cairo,2408.21
+10710,2025-05-17,Khaled,Home,Office Chair,2,5903.81,Ismailia,11807.62
+11383,2025-10-21,Menna,Gaming,Gaming Keyboard,3,3240.36,Tanta,9721.08
+11283,2025-11-03,Ali,Accessories,Webcam,1,2507.52,Qalyubia,2507.52
+11769,2025-01-16,Adam,Accessories,Phone Stand,1,614.76,Mansoura,614.76
+10973,2025-08-24,Khaled,Home,Air Purifier,2,4898.07,Qalyubia,9796.14
+10628,2025-10-21,Menna,Home,Office Chair,1,5094.58,Tanta,5094.58
+10633,2025-10-23,Farah,Accessories,USB Hub,1,767.53,Cairo,767.53
+11307,2025-09-01,Menna,Home,Desk Lamp,3,1115.96,Mansoura,3347.88
+11401,2025-02-18,Adam,Electronics,Monitor,1,8331.78,Cairo,8331.78
+11409,2025-06-29,Farah,Accessories,Keyboard,1,1084.23,Giza,1084.23
+11249,2025-11-29,Farah,Gaming,Game Controller,2,1997.61,Alexandria,3995.22
+11968,2025-08-31,Mostafa,Accessories,Mouse,2,1580.22,Cairo,3160.44
+11255,2025-01-24,Nour,Home,Desk Fan,3,731.65,Alexandria,2194.95
+11497,2025-07-14,Karim,Home,Desk Fan,1,2462.36,Qalyubia,2462.36
+11372,2025-05-11,Ahmed,Electronics,Monitor,4,10785.65,Qalyubia,43142.6
+11530,2025-03-12,Nada,Accessories,Keyboard,3,600.85,Tanta,1802.55
+11664,2025-08-21,Salma,Accessories,Phone Stand,1,698.25,Giza,698.25
+11355,2025-04-23,Salma,Accessories,USB Hub,4,821.31,Tanta,3285.24
+11941,2025-07-01,Mariam,Electronics,Tablet,3,12344.18,Giza,37032.54
+11916,2025-07-16,Mariam,Home,Air Purifier,1,7393.57,Giza,7393.57
+11644,2025-12-20,Laila,Home,Office Chair,1,4166.68,Qalyubia,4166.68
+11883,2025-04-29,Khaled,Home,Desk Fan,2,2485.89,Alexandria,4971.78
+10796,2025-12-02,Mostafa,Gaming,Gaming Chair,5,5135.41,Qalyubia,25677.05
+10646,2025-11-09,Mariam,Gaming,Gaming Headset,1,4900.72,Qalyubia,4900.72
+11013,2025-10-22,Menna,Gaming,Gaming Keyboard,2,3823.69,Cairo,7647.38
+11854,2025-04-22,Ahmed,Gaming,Game Controller,3,1461.93,Cairo,4385.79
+10557,2025-06-12,Aya,Electronics,Tablet,1,15963.35,Suez,15963.35
+10682,2025-09-03,Hana,Electronics,Laptop,2,22873.99,Mansoura,45747.98
+10578,2025-01-30,Salma,Gaming,Gaming Chair,2,5380.15,Cairo,10760.3
+11110,2025-05-12,Karim,Electronics,Headphones,1,3738.84,Giza,3738.84
+11267,2025-08-22,Omar,Accessories,Webcam,5,2140.22,Alexandria,10701.1
+11723,2025-07-23,Mostafa,Electronics,Headphones,1,6572.19,Alexandria,6572.19
+11184,2025-12-17,Menna,Gaming,Gaming Keyboard,3,4183.65,Mansoura,12550.95
+10525,2025-05-27,Mostafa,Gaming,Game Controller,2,4240.78,Mansoura,8481.56
+11060,2025-07-21,Sara,Home,Air Purifier,1,8947.6,Alexandria,8947.6
+10541,2025-07-28,Hana,Gaming,Gaming Chair,4,13242.87,,52971.48
+11195,2025-01-12,Hana,Electronics,Monitor,3,10141.07,Giza,30423.21
+11679,2025-09-19,Youssef,Electronics,Monitor,4,12610.9,Tanta,50443.6
+10749,2025-10-09,Sara,Gaming,Gaming Chair,2,13055.39,Qalyubia,26110.78
+11866,2025-05-19,Laila,Gaming,Gaming Mouse,5,950.78,Giza,4753.9
+11431,2025-01-05,Adam,Accessories,Keyboard,1,1043.16,Alexandria,1043.16
+10485,2025-09-17,Youssef,Accessories,USB Hub,2,251.28,Cairo,502.56
+11758,2025-08-05,Farah,Accessories,USB Hub,3,903.92,Cairo,2711.76
+10096,2025-01-07,Amr,Accessories,Keyboard,1,2347.45,Mansoura,2347.45
+11021,2025-05-29,Mariam,Home,Coffee Maker,2,6467.86,Ismailia,12935.72
+10564,2025-06-01,Nada,Electronics,Laptop,2,22001.87,Alexandria,44003.74
+11265,2025-09-19,Aya,Electronics,Laptop,2,35098.11,Giza,70196.22
+10743,2025-04-07,Menna,Home,Office Chair,1,2656.72,Cairo,2656.72
+10864,2025-08-08,Sara,Accessories,Mouse,2,530.9,Giza,1061.8
+11599,2025-11-16,Mariam,Electronics,Laptop,4,34969.56,Qalyubia,139878.24
+11715,2025-02-11,Ahmed,Electronics,Smartphone,1,29707.13,Tanta,29707.13
+11485,2025-01-16,Adam,Electronics,Smartphone,1,11951.2,Suez,11951.2
+10892,2025-11-04,Mohamed,Gaming,Gaming Mouse,1,1267.02,Giza,1267.02
+11578,2025-01-07,Mohamed,Home,Desk Lamp,1,812.8,Giza,812.8
+11039,2025-06-30,Mostafa,Electronics,Headphones,1,2310.14,Mansoura,2310.14
+10207,2025-01-30,Karim,Electronics,Laptop,1,41573.94,Alexandria,41573.94
+10393,2025-12-01,Mohamed,Accessories,Webcam,2,1352.23,Qalyubia,2704.46
+10795,2025-07-12,Omar,Electronics,Smartphone,2,13678.29,Cairo,27356.58
+10871,2025-01-29,Hana,Accessories,Phone Stand,4,462.7,Qalyubia,1850.8
+10398,2025-12-31,Farah,Accessories,Mouse,2,1221.01,Mansoura,2442.02
+10767,2025-01-21,Khaled,Home,Office Chair,4,5609.18,Suez,22436.72
+11856,2025-09-15,Youssef,Electronics,Tablet,3,8741.53,Giza,26224.59
+11242,2025-09-25,Amr,Home,Coffee Maker,1,5148.49,Ismailia,5148.49
+11029,2025-07-06,Ali,Electronics,Smartphone,1,27168.94,Alexandria,27168.94
+11793,2025-04-03,Ali,Accessories,Webcam,2,1137.69,Cairo,2275.38
+10643,2025-03-15,Mohamed,Electronics,Headphones,1,4084.23,Ismailia,4084.23
+11907,2025-07-02,Omar,Gaming,Gaming Headset,3,1696.63,Mansoura,5089.89
+10613,2025-04-05,Khaled,Home,Coffee Maker,1,4379.6,Alexandria,4379.6
+11763,2025-07-09,Nada,Electronics,Tablet,5,9024.16,Mansoura,45120.8
+10961,2025-10-06,Omar,Electronics,Monitor,2,8658.93,Alexandria,17317.86
+11571,2025-12-18,Aya,Accessories,Webcam,3,3486.98,Ismailia,10460.94
+10726,2025-12-16,Adam,Gaming,Gaming Mouse,2,1786.0,Mansoura,3572.0
+10684,2025-12-03,Hana,Home,Desk Lamp,5,1087.89,Cairo,5439.45
+10099,2025-04-24,Mostafa,Electronics,Laptop,1,38234.5,Giza,38234.5
+10805,2025-09-03,Farah,Accessories,Phone Stand,2,399.85,Cairo,799.7
+11752,2025-03-29,Sara,Electronics,Smartphone,1,20544.0,Giza,20544.0
+11598,2025-03-09,Mariam,Electronics,Headphones,1,3457.59,Qalyubia,3457.59
+10407,2025-08-26,Adam,Accessories,Mouse,1,1325.4,Mansoura,1325.4
+10503,2025-10-09,Salma,Electronics,Monitor,4,9759.24,Alexandria,39036.96
+11072,2025-01-14,Nada,Electronics,Laptop,1,39412.7,Tanta,39412.7
+11057,2025-02-11,Mostafa,Home,Desk Lamp,1,1237.47,Giza,1237.47
+10930,2025-10-23,Menna,Electronics,Headphones,2,1554.51,Alexandria,3109.02
+10780,2025-06-17,Ahmed,Home,Coffee Maker,2,2842.89,Giza,5685.78
+10201,2025-07-31,Laila,Home,Desk Lamp,2,,Mansoura,
+10135,2025-12-26,Karim,Gaming,Game Controller,3,1954.27,Mansoura,5862.81
+11052,2025-09-26,Aya,Accessories,USB Hub,2,1013.08,Suez,2026.16
+10041,2025-05-08,Sara,Electronics,Monitor,2,7715.18,Giza,15430.36
+11018,2025-06-07,Nour,Accessories,USB Hub,3,859.49,Giza,2578.47
+10231,2025-04-09,Menna,Home,Desk Fan,1,816.61,Cairo,816.61
+11514,2025-03-06,Mohamed,Electronics,Monitor,1,12641.07,Giza,12641.07
+11797,2025-12-08,Amr,Home,Desk Lamp,1,419.41,Mansoura,419.41
+10379,2025-09-07,Menna,Gaming,Gaming Mouse,3,1719.19,Alexandria,5157.57
+10289,2025-02-06,Ali,Electronics,Tablet,2,10400.81,Alexandria,20801.62
+10419,2025-11-05,Khaled,Home,Office Chair,1,7877.82,Cairo,7877.82
+11699,2025-08-27,Mostafa,Gaming,Gaming Headset,1,4845.66,Cairo,4845.66
+10392,2025-06-18,Sara,Accessories,Phone Stand,2,324.66,Cairo,649.32
+10593,2025-08-31,Amr,Electronics,Monitor,1,13725.15,Qalyubia,13725.15
+11523,2025-08-06,Menna,Accessories,USB Hub,1,741.35,Giza,741.35
+11163,2025-06-03,Nada,Electronics,Laptop,1,41691.21,Suez,41691.21
+11087,2025-10-14,Amr,Home,Air Purifier,3,5123.47,Cairo,15370.41
+11496,2025-11-09,Youssef,Home,Air Purifier,2,5334.96,Alexandria,10669.92
+10648,2025-12-05,Aya,Home,Air Purifier,1,4772.63,Cairo,4772.63
+11153,2025-08-27,Hana,Home,Coffee Maker,3,2094.16,Cairo,6282.48
+11368,2025-12-08,Khaled,Gaming,Gaming Keyboard,1,3383.62,Tanta,3383.62
+10521,2025-04-21,Khaled,Accessories,Mouse,1,812.27,Alexandria,812.27
+11863,2025-09-06,Menna,Electronics,Monitor,2,14113.76,Giza,28227.52
+11881,2025-06-21,Farah,Home,Office Chair,1,4010.63,Cairo,4010.63
+10065,2025-06-07,Karim,Electronics,Smartphone,1,8999.96,Giza,8999.96
+11837,2025-05-10,Adam,Electronics,Monitor,1,9671.51,Alexandria,9671.51
+10015,2025-03-31,Ahmed,Electronics,Smartphone,1,16944.25,Alexandria,16944.25
+11181,2025-09-16,Nour,Gaming,Gaming Chair,3,13540.42,Qalyubia,40621.26
+11065,2025-05-05,Salma,Accessories,Mouse,2,1521.86,Qalyubia,3043.72
+10493,2025-10-19,Hana,Electronics,Tablet,1,16088.0,Giza,16088.0
+10380,2025-04-05,Amr,Electronics,Smartphone,1,8137.66,Cairo,8137.66
+10188,2025-12-12,Menna,Accessories,Keyboard,4,1869.35,Cairo,7477.4
+10764,2025-06-30,Menna,Home,Office Chair,1,3570.08,Cairo,3570.08
+10217,2025-06-28,Farah,Electronics,Smartphone,1,11174.8,Alexandria,11174.8
+10792,2025-09-02,Khaled,Accessories,Phone Stand,2,436.25,Qalyubia,872.5
+11077,2025-05-24,Laila,Accessories,Webcam,1,1959.49,Qalyubia,1959.49
+10879,2025-09-12,Adam,Electronics,Laptop,2,,Cairo,
+10338,2025-12-01,Hana,Home,Air Purifier,1,5732.38,Suez,5732.38
+11773,2025-09-25,Mostafa,Gaming,Gaming Keyboard,1,2174.89,Giza,2174.89
+10720,2025-06-12,Salma,Home,Air Purifier,4,3963.98,Cairo,15855.92
+11749,2025-05-06,Nada,Home,Desk Fan,1,1750.43,Giza,1750.43
+10296,2025-01-10,Hana,Accessories,Mouse,1,838.41,Qalyubia,838.41
+11726,2025-03-04,Aya,Electronics,Monitor,2,16466.17,Cairo,32932.34
+11017,2025-08-02,Farah,Electronics,Tablet,4,16181.17,Cairo,64724.68
+11276,2025-12-18,Nour,Electronics,Tablet,1,15525.86,Suez,15525.86
+11751,2025-10-07,Nour,Accessories,Phone Stand,3,523.84,Alexandria,1571.52
+11486,2025-01-14,Laila,Accessories,USB Hub,4,517.28,Alexandria,2069.12
+10456,2025-09-01,Khaled,Accessories,Keyboard,2,1797.27,Cairo,3594.54
+11892,2025-11-26,Aya,Accessories,Webcam,1,3453.33,Giza,3453.33
+10816,2025-06-04,Laila,Accessories,Webcam,1,736.22,Ismailia,736.22
+11887,2025-02-24,Farah,Electronics,Smartphone,2,27057.12,Mansoura,54114.24
+10270,2025-11-05,Karim,Electronics,Tablet,2,10434.08,,20868.16
+10996,2025-11-07,Mohamed,Electronics,Monitor,2,4762.52,Cairo,9525.04
+10202,2025-06-28,Omar,Electronics,Monitor,1,14969.0,Cairo,14969.0
+10162,2025-04-14,Menna,Home,Desk Lamp,1,748.29,Ismailia,748.29
+11580,2025-01-30,Ali,Accessories,USB Hub,3,1046.68,Giza,3140.04
+10730,2025-04-07,Adam,Electronics,Headphones,2,6972.95,Cairo,13945.9
+10402,2025-01-13,Adam,Gaming,Gaming Chair,2,10627.96,Cairo,21255.92
+10703,2025-02-06,Mariam,Electronics,Headphones,5,1719.83,Alexandria,8599.15
+11501,2025-10-04,Mostafa,Accessories,Mouse,3,908.68,Suez,2726.04
+11846,2025-02-24,Sara,Electronics,Tablet,3,11722.11,Suez,35166.33
+11796,2025-05-03,Salma,Electronics,Headphones,4,6037.75,Ismailia,24151.0
+11130,2025-07-07,Sara,Electronics,Tablet,4,11399.05,Qalyubia,45596.2
+10566,2025-11-05,Laila,Accessories,Keyboard,3,2112.08,Suez,6336.24
+11414,2025-05-14,Omar,Electronics,Tablet,1,19473.9,Qalyubia,19473.9
+11022,2025-03-16,Salma,Electronics,Headphones,1,2457.97,Alexandria,2457.97
+11026,2025-02-27,Menna,Accessories,Webcam,2,2008.38,Giza,4016.76
+11412,2025-11-23,Mohamed,Electronics,Smartphone,1,20846.22,Ismailia,20846.22
+11896,2025-11-29,Hana,Home,Desk Lamp,3,456.62,Alexandria,1369.86
+11586,2025-07-08,,Electronics,Laptop,2,19009.72,Giza,38019.44
+11105,2025-11-26,Omar,Gaming,Gaming Chair,2,4332.68,Alexandria,8665.36
+10206,2025-09-25,Laila,Electronics,Laptop,5,24022.68,Giza,120113.4
+10035,2025-11-03,Mostafa,Gaming,Gaming Chair,2,11516.76,Alexandria,23033.52
+10776,2025-11-01,Mohamed,Electronics,Laptop,2,34883.91,Giza,69767.82
+10509,2025-09-01,Karim,Gaming,Game Controller,1,3034.31,Tanta,3034.31
+11452,2025-02-19,Amr,Home,Office Chair,1,4634.51,Alexandria,4634.51
+11479,2025-10-21,Menna,Home,Office Chair,2,2822.8,Mansoura,5645.6
+11986,2025-11-12,Nour,Electronics,Tablet,4,9336.59,Giza,37346.36
+11391,2025-03-18,Youssef,Electronics,Laptop,2,27008.84,Qalyubia,54017.68
+10092,2025-02-14,Omar,Home,Air Purifier,2,4080.86,Alexandria,8161.72
+11364,2025-10-11,Salma,Home,Desk Fan,4,1666.84,Ismailia,6667.36
+10898,2025-03-26,Menna,Gaming,Gaming Keyboard,1,1342.94,Cairo,1342.94
+10565,2025-06-06,Hana,Accessories,Phone Stand,1,200.65,Alexandria,200.65
+11370,2025-01-10,Hana,Electronics,Laptop,1,21046.77,Suez,21046.77
+10777,2025-11-17,Mostafa,Electronics,Monitor,2,4172.77,Cairo,8345.54
+10242,2025-06-03,Hana,Gaming,Game Controller,3,4095.16,Cairo,12285.48
+10014,2025-11-02,Aya,Electronics,Smartphone,1,18796.83,Ismailia,18796.83
+10316,2025-02-28,Mostafa,Home,Air Purifier,1,4557.88,Cairo,4557.88
+10601,2025-08-05,Farah,Electronics,Monitor,1,9963.13,Giza,9963.13
+10388,2025-07-22,Karim,Electronics,Headphones,5,1377.82,Giza,6889.1
+11298,2025-05-01,Laila,Electronics,Laptop,2,19951.48,Giza,39902.96
+10167,2025-07-11,Mostafa,Electronics,Tablet,1,15264.55,Ismailia,15264.55
+10841,2025-04-18,Ahmed,Electronics,Laptop,1,21033.84,Ismailia,21033.84
+10021,2025-09-11,Amr,Home,Desk Lamp,3,1478.46,Ismailia,4435.38
+10647,2025-11-26,Omar,Accessories,Webcam,1,3016.29,Giza,3016.29
+11843,2025-08-14,Mariam,Accessories,USB Hub,3,717.49,Suez,2152.47
+11509,2025-08-05,Ahmed,Home,Desk Lamp,5,1225.07,Mansoura,6125.35
+11155,2025-09-01,Nour,Home,Desk Lamp,4,1425.39,Tanta,5701.56
+11529,2025-06-10,Laila,Gaming,Gaming Chair,1,5697.59,Cairo,5697.59
+10832,2025-01-23,Hana,Accessories,Phone Stand,1,452.43,Qalyubia,452.43
+11268,2025-02-04,Mohamed,Accessories,Phone Stand,2,560.14,Giza,1120.28
+11591,2025-09-21,Amr,Home,Office Chair,1,3284.85,Cairo,3284.85
+11900,2025-09-02,Aya,Home,Desk Fan,3,1293.58,Cairo,3880.74
+10563,2025-04-01,Amr,Electronics,Laptop,2,32967.63,Tanta,65935.26
+11967,2025-09-16,Karim,Electronics,Smartphone,1,28511.66,Qalyubia,28511.66
+10687,2025-02-09,Hana,Accessories,Phone Stand,2,313.55,Tanta,627.1
+10958,2025-12-13,Aya,Electronics,Tablet,3,10249.64,Alexandria,30748.92
+10190,2025-11-11,Adam,Electronics,Tablet,5,14529.86,Giza,72649.3
+11807,2025-06-02,Salma,Home,Coffee Maker,1,2943.67,Giza,2943.67
+10976,2025-12-03,Laila,Electronics,Monitor,1,4013.01,Ismailia,4013.01
+10700,2025-07-09,Sara,Accessories,Webcam,3,2136.91,Ismailia,6410.73
+11500,2025-04-13,Menna,Gaming,Gaming Headset,2,2609.23,Giza,5218.46
+11706,2025-07-28,Hana,Electronics,Monitor,2,9801.72,Alexandria,19603.44
+10511,2025-04-22,Omar,Home,Coffee Maker,1,5200.66,Mansoura,5200.66
+11083,2025-09-03,Amr,Accessories,Keyboard,3,1685.22,Alexandria,5055.66
+10475,2025-07-28,Mohamed,Accessories,Webcam,2,776.92,Giza,1553.84
+11585,2025-01-23,Nour,Gaming,Gaming Chair,5,7018.09,Alexandria,35090.45
+10857,2025-12-19,Hana,Electronics,Tablet,1,8311.15,Alexandria,8311.15
+10748,2025-07-23,Nada,Accessories,USB Hub,4,964.52,Cairo,3858.08
+10253,2025-02-13,Nour,Gaming,Game Controller,2,2149.13,Tanta,4298.26
+10022,2025-06-22,Nada,Electronics,Monitor,2,7539.18,Alexandria,15078.36
+11338,2025-05-13,Farah,Home,Desk Lamp,2,430.66,Cairo,861.32
+10460,2025-06-13,Laila,Electronics,Monitor,1,10014.72,Mansoura,10014.72
+11185,2025-12-08,Amr,Electronics,Headphones,1,1225.62,Alexandria,1225.62
+10277,2025-05-11,Aya,Home,Air Purifier,5,6533.37,Cairo,32666.85
+10956,2025-11-08,Farah,Accessories,Phone Stand,2,363.1,Giza,726.2
+11216,2025-12-25,Adam,Electronics,Tablet,4,7921.9,Tanta,31687.6
+10386,2025-03-21,Menna,Gaming,Gaming Mouse,2,1623.73,Giza,3247.46
+10806,2025-12-29,Aya,Home,Desk Fan,3,1403.13,Giza,4209.39
+11438,2025-05-17,Sara,Home,Desk Lamp,1,452.07,Mansoura,452.07
+11516,2025-01-10,Sara,Electronics,Tablet,2,8933.08,Alexandria,17866.16
+10344,2025-02-03,Ali,Accessories,Keyboard,2,1443.48,Tanta,2886.96
+10770,2025-11-29,Menna,Gaming,Gaming Headset,3,4299.42,Qalyubia,12898.26
+11333,2025-11-14,Hana,Electronics,Headphones,3,1137.97,Ismailia,3413.91
+11686,2025-01-28,Karim,Gaming,Gaming Mouse,1,835.54,Cairo,835.54
+10131,2025-05-12,Mariam,Accessories,Keyboard,2,1536.11,Tanta,3072.22
+11688,2025-05-28,Nada,Accessories,USB Hub,5,1029.52,Giza,5147.6
+10872,2025-10-02,Karim,Electronics,Smartphone,4,9301.9,Alexandria,37207.6
+11124,2025-09-21,Hana,Gaming,Gaming Headset,1,3643.19,Tanta,3643.19
+11397,2025-08-02,Ahmed,,USB Hub,3,717.74,Mansoura,2153.22
+10088,2025-05-24,Karim,Home,Air Purifier,3,3998.81,Cairo,11996.43
+11483,2025-03-15,Aya,Accessories,Keyboard,1,1812.79,Ismailia,1812.79
+10331,2025-10-24,Mohamed,Accessories,USB Hub,1,613.14,Giza,613.14
+11239,2025-09-22,Khaled,Gaming,Gaming Chair,1,12298.21,Mansoura,12298.21
+10467,2025-06-11,Mohamed,Electronics,Laptop,1,30715.65,Alexandria,30715.65
+10122,2025-05-31,Ali,Gaming,Gaming Headset,2,2387.54,Mansoura,4775.08
+11639,2025-04-07,Ali,Gaming,Game Controller,2,2487.99,Alexandria,4975.98
+11045,2025-11-07,Nour,Gaming,Gaming Chair,2,4842.55,Qalyubia,9685.1
+11725,2025-05-06,Youssef,Home,Coffee Maker,5,4510.18,Ismailia,22550.9
+11096,2025-07-11,Nour,Electronics,Smartphone,1,29900.43,Cairo,29900.43
+11131,2025-01-04,Farah,Home,Office Chair,4,6209.95,Cairo,24839.8
+11295,2025-02-08,Ahmed,Gaming,Gaming Chair,4,8131.07,Alexandria,32524.28
+10861,2025-09-15,Youssef,Home,Coffee Maker,1,3546.66,Qalyubia,3546.66
+11460,2025-12-04,Salma,Home,Coffee Maker,3,5972.31,Cairo,17916.93
+11127,2025-03-02,Laila,Electronics,Headphones,1,6043.05,Giza,6043.05

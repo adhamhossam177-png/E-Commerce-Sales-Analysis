@@ -75,7 +75,7 @@ This project demonstrates how data analysis can transform raw sales data into ac
 ## 📁 Project Files
 
 * `E-Commerce-Sales-Analysis.ipynb` → Complete data analysis notebook.
-* `dataset.csv` → Original e-commerce sales dataset.
+* `sales.csv` → Original e-commerce sales dataset.
 * `README.md` → Project documentation.
 
 ## 🚀 How to Run
